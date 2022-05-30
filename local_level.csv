@@ -175,7 +175,7 @@ local_level_id,local_level_name,district_id
 174,Ganeshman Charnath Municipality,17
 175,Dhanushadham Municipality,17
 176,Mithila Municipality,17
-177,Bateshwor Rural Municipality,17
+177,Bateshwor Rural Municipality(Dhanusa),17
 178,Chhireshwornath Municipality,17
 179,Laxminiya Rural Municipality,17
 180,Mithila Bihari Municipality,17
@@ -541,7 +541,7 @@ local_level_id,local_level_name,district_id
 540,Sainamaina Municipality,54
 541,Kanchan Rural Municipality,54
 542,Gaidahawa Rural Municipality,54
-543,Suddhodhan Rural Municipality,54
+543,Suddhodhan Rural Municipality(Rupandehi),54
 544,Siyari Rural Municipality,54
 545,Tilottama Municipality,54
 546,Om Satiya Rural Municipality,54
