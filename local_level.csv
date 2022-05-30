@@ -16,7 +16,7 @@ local_level_id,local_level_name,district_id
 15,Khandabari Municipality,2
 16,Panchakhapan Municipality,2
 17,Chainapur Municipality,2
-18,Madi Municipality,2
+18,Madi Municipality(Sankhuwasabha),2
 19,Dharmadevi Municipality,2
 20,Khumbu Pasanglhamu Rural Municipality,3
 21,Mahakulung Rural Municipality,3
@@ -53,7 +53,7 @@ local_level_id,local_level_name,district_id
 52,Ramprasad Rai Rural Municipality,6
 53,Hatuwagadhi Rural Municipality,6
 54,Aamchowk Rural Municipality,6
-55,Mahalaxmi Municipality,7
+55,Mahalaxmi Municipality(Dhankuta),7
 56,Pakhribas Municipality,7
 57,Chhathar Jorpati Rural Municipality,7
 58,Dhankuta Municipality,7
@@ -73,7 +73,7 @@ local_level_id,local_level_name,district_id
 72,Falgunanda Rural Municipality,9
 73,Kummayak Rural Municipality,9
 74,Tumbewa Rural Municipality,9
-75,Miklajung Rural Municipality,9
+75,Miklajung Rural Municipality(Panchhthar),9
 76,Mai Jogmai Rural Municipality,10
 77,Sandakpur Rural Municipality,10
 78,Ilam Municipality,10
@@ -99,7 +99,7 @@ local_level_id,local_level_name,district_id
 98,Haldibari Rural Municipality,11
 99,Bhadrapur Municipality,11
 100,Kachanakawal Rural Municipality,11
-101,Miklajung Rural Municipality,12
+101,Miklajung Rural Municipality(Morang),12
 102,Letang Municipality,12
 103,Kerabari Rural Municipality,12
 104,Sundarharaicha Municipality,12
@@ -147,7 +147,7 @@ local_level_id,local_level_name,district_id
 146,BodeBarsain Municipality,15
 147,Dakneshwori Municipality,15
 148,Belhi Chapena Rural Municipality,15
-149,Bishnupur Rural Municipality,15
+149,Bishnupur Rural Municipality(Saptari),15
 150,Rajbiraj Municipality,15
 151,Mahadewa Rural Municipality,15
 152,Tirahut Rural Municipality,15
@@ -161,7 +161,7 @@ local_level_id,local_level_name,district_id
 160,Karjanha Municipality,16
 161,Kalyanpur Municipality,16
 162,Naraha Rural Municipality,16
-163,Bishnupur Rural Municipality,16
+163,Bishnupur Rural Municipality(Siraha),16
 164,Arnama Rural Municipality,16
 165,Sukhipur Municipality,16
 166,Laxmipur Patari Rural Municipality,16
@@ -169,7 +169,7 @@ local_level_id,local_level_name,district_id
 168,Bhagawanpur Rural Municipality,16
 169,Nawarajpur Rural Municipality,16
 170,Bariyarpatti Rural Municipality,16
-171,Aurahi Rural Municipality,16
+171,Aurahi Rural Municipality(Siraha),16
 172,Siraha Municipality,16
 173,DHANUSA,17
 174,Ganeshman Charnath Municipality,17
@@ -185,7 +185,7 @@ local_level_id,local_level_name,district_id
 184,Kamala Municipality,17
 185,Janak Nandini Rural Municipality,17
 186,Bideha Municipality,17
-187,Aurahi Rural Municipality,17
+187,Aurahi Rural Municipality(Dhanusa),17
 188,Janakpur Sub-Metropolitan City,17
 189,Dhanauji Rural Municipality,17
 190,Nagarain Municipality,17
@@ -194,7 +194,7 @@ local_level_id,local_level_name,district_id
 193,Bardibas Municipality,18
 194,Gaushala Municipality,18
 195,Sonama Rural Municipality,18
-196,Aurahi Municipality,18
+196,Aurahi Municipality(Mahottari),18
 197,Bhangaha Municipality,18
 198,Loharpatti Municipality,18
 199,Balawa Municipality,18
@@ -208,7 +208,7 @@ local_level_id,local_level_name,district_id
 207,Jaleshwor Municipality,18
 208,Lalbandi Municipality,19
 209,Hariwan Municipality,19
-210,Bagmati Municipality,19
+210,Bagmati Municipality(Sarlahi),19
 211,Barahathawa Municipality,19
 212,Haripur Municipality,19
 213,Ishworpur Municipality,19
@@ -269,7 +269,7 @@ local_level_id,local_level_name,district_id
 268,Birgunj Metropolitan City,22
 269,Bahudarmai Municipality,22
 270,Pokhariya Municipality,22
-271,Kalikamai Rural Municipality,22
+271,Kalikamai Rural Municipality(Parsa),22
 272,Dhobini Rural Municipality,22
 273,Chhipaharmai Rural Municipality,22
 274,Pakaha Mainpur Rural Municipality,22
@@ -298,7 +298,7 @@ local_level_id,local_level_name,district_id
 297,Gosaikunda Rural Municipality,25
 298,Parbatikunda Rural Municipality,25
 299,Uttargaya Rural Municipality,25
-300,Kalika Rural Municipality,25
+300,Kalika Rural Municipality(Rasuwa),25
 301,Naukunda Rural Municipality,25
 302,Rubi Valley Rural Municipality,26
 303,Khaniyabas Rural Municipality,26
@@ -340,12 +340,12 @@ local_level_id,local_level_name,district_id
 339,Bhaktapur Municipality,29
 340,Madhyapur Thimi Municipality,29
 341,Suryabinayak Municipality,29
-342,Mahalaxmi Municipality,30
+342,Mahalaxmi Municipality(Lalitpur),30
 343,Lalitpur Metropolitan City,30
-344,Godawari Municipality,30
+344,Godawari Municipality(Lalitpur),30
 345,Konjyosom Rural Municipality,30
 346,Mahankal Rural Municipality,30
-347,Bagmati Rural Municipality,30
+347,Bagmati Rural Municipality(Lalitpur),30
 348,Chauri Deurali Rural Municipality,31
 349,Bhumlu Rural Municipality,31
 350,Mandan Deupur Municipality,31
@@ -385,15 +385,15 @@ local_level_id,local_level_name,district_id
 384,Bhimphedi Rural Municipality,34
 385,Makawanpurgadhi Rural Municipality,34
 386,Bakaiya Rural Municipality,34
-387,Bagmati Rural Municipality,34
+387,Bagmati Rural Municipality(Makwanpur),34
 388,CHITAWAN,35
 389,Rapti Municipality,35
-390,Kalika Municipality,35
+390,Kalika Municipality(Chitwan),35
 391,Ichchha Kamana Rural Municipality,35
 392,Bharatpur Metropolitan City,35
 393,Ratnanagar Municipality,35
 394,Khairahani Municipality,35
-395,Madi Municipality,35
+395,Madi Municipality(Chitwan),35
 396,Chumanubri Rural Municipality,36
 397,Ajirkot Rural Municipality,36
 398,Sulikot Rural Municipality,36
@@ -414,15 +414,15 @@ local_level_id,local_level_name,district_id
 413,Bahragaun Muktikshetra Rural Municipality,38
 414,Lomanthang Rural Municipality,38
 415,Thasang Rural Municipality,38
-416,Annapurna Rural Municipality,39
+416,Annapurna Rural Municipality(Myagdi),39
 417,Raghuganga Rural Municipality,39
 418,Dhawalagiri Rural Municipality,39
-419,Malika Rural Municipality,39
+419,Malika Rural Municipality(Myagdi),39
 420,Mangala Rural Municipality,39
 421,Beni Municipality,39
-422,Madi Rural Municipality,40
+422,Madi Rural Municipality(Kaski),40
 423,Machhapuchchhre Rural Municipality,40
-424,Annapurna Rural Municipality,40
+424,Annapurna Rural Municipality(Kaski),40
 425,Pokhara Metropolitan City,40
 426,Rupa Rural Municipality,40
 427,Dordi Rural Municipality,41
@@ -486,8 +486,8 @@ local_level_id,local_level_name,district_id
 485,Thawang Rural Municipality,48
 486,Paribartan Rural Municipality,48
 487,Gangadev Rural Municipality,48
-488,Madi Rural Municipality,48
-489,Tribeni Rural Municipality,48
+488,Madi Rural Municipality(Rolpa),48
+489,Tribeni Rural Municipality(Rolpa),48
 490,Rolpa Municipality,48
 491,Runtigadhi Rural Municipality,48
 492,Sunil Smriti Rural Municipality,48
@@ -504,9 +504,9 @@ local_level_id,local_level_name,district_id
 503,Kali Gandaki Rural Municipality,50
 504,Satyawoti Rural Municipality,50
 505,Chandrakot Rural Municipality,50
-506,Musikot Municipality,50
+506,Musikot Municipality(Gulmi),50
 507,Isma Rural Municipality,50
-508,Malika Rural Municipality,50
+508,Malika Rural Municipality(Gulmi),50
 509,Madane Rural Municipality,50
 510,Dhurkot Rural Municipality,50
 511,Resunga Municipality,50
@@ -547,7 +547,7 @@ local_level_id,local_level_name,district_id
 546,Om Satiya Rural Municipality,54
 547,Rohini Rural Municipality,54
 548,Siddharthanagar Municipality,54
-549,Mayadevi Rural Municipality,54
+549,Mayadevi Rural Municipality(Rupandehi),54
 550,Lumbini Sanskritik Municipality,54
 551,Kotahimai Rural Municipality,54
 552,Sammarimai Rural Municipality,54
@@ -560,7 +560,7 @@ local_level_id,local_level_name,district_id
 559,Maharajganj Municipality,55
 560,Kapilbastu Municipality,55
 561,Yasodhara Rural Municipality,55
-562,Mayadevi Rural Municipality,55
+562,Mayadevi Rural Municipality(Kapilbastu),55
 563,Shuddhodhan Rural Municipality,55
 564,Bangalachuli Rural Municipality,56
 565,Ghorahi Sub-Metropolitan City,56
@@ -576,7 +576,7 @@ local_level_id,local_level_name,district_id
 575,Kohalpur Municipality,57
 576,Baijanath Rural Municipality,57
 577,Khajura Rural Municipality,57
-578,Janaki Rural Municipality,57
+578,Janaki Rural Municipality(Banke),57
 579,Nepalganj Sub-Metropolitan City,57
 580,Duduwa Rural Municipality,57
 581,Narainapur Rural Municipality,57
@@ -591,8 +591,8 @@ local_level_id,local_level_name,district_id
 590,Aathabisakot Municipality,59
 591,Sanibheri Rural Municipality,59
 592,Banphikot Rural Municipality,59
-593,Musikot Municipality,59
-594,Tribeni Rural Municipality,59
+593,Musikot Municipality(Rukum West),59
+594,Tribeni Rural Municipality(Rukum West),59
 595,Chaurjahari Municipality,59
 596,Dolpo Buddha Rural Municipality,60
 597,Shey Phoksundo Rural Municipality,60
@@ -629,7 +629,7 @@ local_level_id,local_level_name,district_id
 628,Khandachakra Municipality,64
 629,Tilagupha Municipality,64
 630,Mahawai Rural Municipality,64
-631,Kalika Rural Municipality,64
+631,Kalika Rural Municipality(Kalikot),64
 632,Naumule Rural Municipality,65
 633,Mahabu Rural Municipality,65
 634,Bhairabi Rural Municipality,65
@@ -656,7 +656,7 @@ local_level_id,local_level_name,district_id
 655,Chhatreshwori Rural Municipality,67
 656,Sharada Municipality,67
 657,Kalimati Rural Municipality,67
-658,Tribeni Rural Municipality,67
+658,Tribeni Rural Municipality(Salyan),67
 659,Kapurkot Rural Municipality,67
 660,Simta Rural Municipality,68
 661,Chingad Rural Municipality,68
@@ -690,7 +690,7 @@ local_level_id,local_level_name,district_id
 689,Khaptad Chhanna Rural Municipality,70
 690,Byas Rural Municipality,71
 691,Duhun Rural Municipality,71
-692,Mahakali Municipality,71
+692,Mahakali Municipality(Darchula),71
 693,Naugad Rural Municipality,71
 694,Apihimal Rural Municipality,71
 695,Marma Rural Municipality,71
@@ -735,12 +735,12 @@ local_level_id,local_level_name,district_id
 734,Turmakhand Rural Municipality,75
 735,Mohanyal Rural Municipality,76
 736,Chure Rural Municipality,76
-737,Godawari Municipality,76
+737,Godawari Municipality(Kailali),76
 738,Gauriganga Municipality,76
 739,Ghodaghodi Municipality,76
 740,Bardagoriya Rural Municipality,76
 741,Lamki Chuha Municipality,76
-742,Janaki Rural Municipality,76
+742,Janaki Rural Municipality(Kailali),76
 743,Joshipur Rural Municipality,76
 744,Tikapur Municipality,76
 745,Bhajani Municipality,76
@@ -750,7 +750,7 @@ local_level_id,local_level_name,district_id
 749,Shuklaphanta Municipality,77
 750,Bedkot Municipality,77
 751,Bhimdatta Municipality,77
-752,Mahakali Municipality,77
+752,Mahakali Municipality(Kanchanpur),77
 753,Laljhadi Rural Municipality,77
 754,Punarbas Municipality,77
 755,Belouri Municipality,77
