@@ -30,9 +30,9 @@ local_level_id,local_level_name,district_id
 29,Siddhicharan Municipality,4
 30,Molung Rural Municipality,4
 31,Khiji Demba Rural Municipality,4
-32,Likhu Rural Municipality,4
+32,Likhu Rural Municipality(Okhaldhunga),4
 33,Champadevi Rural Municipality,4
-34,Sunkoshi Rural Municipality,4
+34,Sunkoshi Rural Municipality(Okhaldhunga),4
 35,Manebhanjyang Rural Municipality,4
 36,Kepilasgadhi Rural Municipality,5
 37,Aiselukharka Rural Municipality,5
@@ -132,7 +132,7 @@ local_level_id,local_level_name,district_id
 131,Chaudandigadhi Municipality,14
 132,Triyuga Municipality,14
 133,Rautamai Rural Municipality,14
-134,Sunkoshi Rural Municipality,14
+134,Sunkoshi Rural Municipality(Udayapur),14
 135,Tapli Rural Municipality,14
 136,Katari Municipality,14
 137,Udayapurgadhi Rural Municipality,14
@@ -292,9 +292,9 @@ local_level_id,local_level_name,district_id
 291,Choutara Sangachowkgadhi Municipality,24
 292,Balephi Rural Municipality,24
 293,Bahrabise Municipality,24
-294,Tripurasundari Rural Municipality,24
+294,Tripurasundari Rural Municipality(Sindhupalchok),24
 295,Lisankhu Pakhar Rural Municipality,24
-296,Sunkoshi Rural Municipality,24
+296,Sunkoshi Rural Municipality(Sindhupalchok),24
 297,Gosaikunda Rural Municipality,25
 298,Parbatikunda Rural Municipality,25
 299,Uttargaya Rural Municipality,25
@@ -303,7 +303,7 @@ local_level_id,local_level_name,district_id
 302,Rubi Valley Rural Municipality,26
 303,Khaniyabas Rural Municipality,26
 304,Ganga Jamuna Rural Municipality,26
-305,Tripurasundari Rural Municipality,26
+305,Tripurasundari Rural Municipality(Dhading),26
 306,Netrawati Rural Municipality,26
 307,Nilkhantha Municipality,26
 308,Jwalamukhi Rural Municipality,26
@@ -321,7 +321,7 @@ local_level_id,local_level_name,district_id
 320,Meghang Rural Municipality,27
 321,Tarakeshwor Rural Municipality,27
 322,Belkotgadhi Municipality,27
-323,Likhu Rural Municipality,27
+323,Likhu Rural Municipality(Nuwakot),27
 324,Panchakanya Rural Municipality,27
 325,Shivapuri Rural Municipality,27
 326,Kakani Rural Municipality,27
@@ -361,7 +361,7 @@ local_level_id,local_level_name,district_id
 360,Khanikhola Rural Municipality,31
 361,Umakunda Rural Municipality,32
 362,Gokulganga Rural Municipality,32
-363,Likhu Rural Municipality,32
+363,Likhu Rural Municipality(Ramechhap),32
 364,Ramechhap Municipality,32
 365,Manthali Municipality,32
 366,Khandadevi Rural Municipality,32
@@ -372,7 +372,7 @@ local_level_id,local_level_name,district_id
 371,Tinpatan Rural Municipality,33
 372,Golanjor Rural Municipality,33
 373,Kamalamai Municipality,33
-374,Sunkoshi Rural Municipality,33
+374,Sunkoshi Rural Municipality(Sindhuli),33
 375,Ghyanglekha Rural Municipality,33
 376,Marin Rural Municipality,33
 377,Hariharpurgaghi Rural Municipality,33
@@ -455,7 +455,7 @@ local_level_id,local_level_name,district_id
 454,Phedikhola Rural Municipality,44
 455,Aandhikhola Rural Municipality,44
 456,Arjun Choupari Rural Municipality,44
-457,Bhirkot Municipaity,44
+457,Bhirkot Municipality,44
 458,Biruwa Rural Municipality,44
 459,Harinas Rural Municipality,44
 460,Chapakot Municipality,44
@@ -598,7 +598,7 @@ local_level_id,local_level_name,district_id
 597,Shey Phoksundo Rural Municipality,60
 598,Jagadulla Rural Municipality,60
 599,Mudkechula Rural Municipality,60
-600,Tripurasundari Municipality,60
+600,Tripurasundari Municipality(Dolpa),60
 601,Thulibheri Municipality,60
 602,Kaike Rural Municipality,60
 603,Chharka Tangsong Rural Municipality,60
