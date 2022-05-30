@@ -1,2 +1,757 @@
 local_level_id,local_level_name,district_id
 1,Phaktanlung Rural Municipality,1
+2,Mikwakhola Rural Municipality,1
+3,Meringden Rural Municipality,1
+4,Maiwakhola Rural Municipality,1
+5,Aatharai Tribeni Rural Municipality,1
+6,Phungling Municipality,1
+7,Yangwarak Rural Municipality,1
+8,Sirijanga Rural Municipality,1
+9,Sidingba Rural Municipality,1
+10,Bhotkhola Rural Municipality,2
+11,Makalu Rural Municipality,2
+12,Silichong Rural Municipality,2
+13,Chichila Rural Municipality,2
+14,Sabhapokhari Rural Municipality,2
+15,Khandabari Municipality,2
+16,Panchakhapan Municipality,2
+17,Chainapur Municipality,2
+18,Madi Municipality(Sankhuwasabha),2
+19,Dharmadevi Municipality,2
+20,Khumbu Pasanglhamu Rural Municipality,3
+21,Mahakulung Rural Municipality,3
+22,Sotang Rural Municipality,3
+23,Dhudhakoshi Rural Municipality,3
+24,Dhudha Koushika Rural Municipality,3
+25,Necha Salyan Rural Municipality,3
+26,Solu Dhudhakunda Municipality,3
+27,Likhu Pike Rural Municipality,3
+28,Chishankhu Gadhi Rural Municipality,4
+29,Siddhicharan Municipality,4
+30,Molung Rural Municipality,4
+31,Khiji Demba Rural Municipality,4
+32,Likhu Rural Municipality(Okhaldhunga),4
+33,Champadevi Rural Municipality,4
+34,Sunkoshi Rural Municipality(Okhaldhunga),4
+35,Manebhanjyang Rural Municipality,4
+36,Kepilasgadhi Rural Municipality,5
+37,Aiselukharka Rural Municipality,5
+38,Lamidanda Rural Municipality,5
+39,Halesi Tuwachung Municipality,5
+40,Rupakot Majhuwagadhi Municipality,5
+41,Sakela Rural Municipality,5
+42,Diprung Rural Municipality,5
+43,Khotehang Rural Municipality,5
+44,Jante Dhunga Rural Municipality,5
+45,Baraha Pokhari Rural Municipality,5
+46,Shadananda Municipality,6
+47,Salpa Silichho Rural Municipality,6
+48,Tyamke Maiyum Rural Municipality,6
+49,Bhojpur Municipality,6
+50,Arun Rural Municipality,6
+51,Pauwa Dunma Rural Municipality,6
+52,Ramprasad Rai Rural Municipality,6
+53,Hatuwagadhi Rural Municipality,6
+54,Aamchowk Rural Municipality,6
+55,Mahalaxmi Municipality(Dhankuta),7
+56,Pakhribas Municipality,7
+57,Chhathar Jorpati Rural Municipality,7
+58,Dhankuta Municipality,7
+59,Khalsa Chhintang Sahidbhumi Rural Municipality,7
+60,Sangurigadhi Rural Municipality,7
+61,Chaubise Rural Municipality,7
+62,Aatharai Rural Municipality,8
+63,Phedap Rural Municipality,8
+64,Menchhayayem Rural Municipality,8
+65,Myanglung Municipality,8
+66,Laligurans Municipality,8
+67,Chhathar Rural Municipality,8
+68,Yangbarak Rural Municipality,9
+69,Hilihan Rural Municipality,9
+70,Falelung Rural Municipality,9
+71,Phidim Municipality,9
+72,Falgunanda Rural Municipality,9
+73,Kummayak Rural Municipality,9
+74,Tumbewa Rural Municipality,9
+75,Miklajung Rural Municipality(Panchhthar),9
+76,Mai Jogmai Rural Municipality,10
+77,Sandakpur Rural Municipality,10
+78,Ilam Municipality,10
+79,Deumai Municipality,10
+80,Fakfokathum Rural Municipality,10
+81,Mangsebung Rural Municipality,10
+82,Chulachuli Rural Municipality,10
+83,Mai Municipality,10
+84,Suryodaya Municipality,10
+85,Rong Rural Municipality,10
+86,Mechinagar Municipality,11
+87,Buddhashanti Rural Municipality,11
+88,Arjundhara Municipality,11
+89,Kankai Municipality,11
+90,Shivasatakshi Municipality,11
+91,Kamal Rural Municipality,11
+92,Damak Municipality,11
+93,Gauradaha Municipality,11
+94,Gauriganj Rural Municipality,11
+95,Jhapa Rural Municipality,11
+96,Barhadashi Rural Municipality,11
+97,Birtamod Municipality,11
+98,Haldibari Rural Municipality,11
+99,Bhadrapur Municipality,11
+100,Kachanakawal Rural Municipality,11
+101,Miklajung Rural Municipality(Morang),12
+102,Letang Municipality,12
+103,Kerabari Rural Municipality,12
+104,Sundarharaicha Municipality,12
+105,Belbari Municipality,12
+106,Kanepokhari Rural Municipality,12
+107,Pathari Shanishchare Municipality,12
+108,Urlabari Municipality,12
+109,Ratuwamai Municipality,12
+110,Sunwarshi Municipality,12
+111,Rangeli Municipality,12
+112,Gramthan Rural Municipality,12
+113,Budhiganga Rural Municipality,12
+114,Biratnagar Metropolitan City,12
+115,Katahari Rural Municipality,12
+116,Dhanapalthan Rural Municipality,12
+117,Jahada Rural Municipality,12
+118,Dharan Sub-Metropolitan City,13
+119,Baraha Municipality,13
+120,Koshi Rural Municipality,13
+121,Bhokraha Rural Municipality,13
+122,Ramdhuni Municipality,13
+123,Itahari Sub-Metropolitan City,13
+124,Duhabi Municipality,13
+125,Gadhi Rural Municipality,13
+126,Inaruwa Municipality,13
+127,Harinagara Rural Municipality,13
+128,Dewangunj Rural Municipality,13
+129,Barju Rural Municipality,13
+130,Belaka Municipality,14
+131,Chaudandigadhi Municipality,14
+132,Triyuga Municipality,14
+133,Rautamai Rural Municipality,14
+134,Sunkoshi Rural Municipality(Udayapur),14
+135,Tapli Rural Municipality,14
+136,Katari Municipality,14
+137,Udayapurgadhi Rural Municipality,14
+138,Saptakoshi Municipality,15
+139,Kanchanrup Municipality,15
+140,Agnisair Krishna Sabaran Rural Municipality,15
+141,Rupani Rural Municipality,15
+142,Shambhunath Municipality,15
+143,Khadak Municipality,15
+144,Surunga Municipality,15
+145,Balan-Bihul Rural Municipality,15
+146,BodeBarsain Municipality,15
+147,Dakneshwori Municipality,15
+148,Belhi Chapena Rural Municipality,15
+149,Bishnupur Rural Municipality(Saptari),15
+150,Rajbiraj Municipality,15
+151,Mahadewa Rural Municipality,15
+152,Tirahut Rural Municipality,15
+153,Hanumannagar Kankalini Municipality,15
+154,Tilathi Koiladi Rural Municipality,15
+155,Chhinnamasta Rural Municipality,15
+156,Lahan Municipality,16
+157,Dhangadhimai Municipality,16
+158,Golbazar Municipality,16
+159,Mirchaiya Municipality,16
+160,Karjanha Municipality,16
+161,Kalyanpur Municipality,16
+162,Naraha Rural Municipality,16
+163,Bishnupur Rural Municipality(Siraha),16
+164,Arnama Rural Municipality,16
+165,Sukhipur Municipality,16
+166,Laxmipur Patari Rural Municipality,16
+167,Sakhuwa Nankarkatti Rural Municipality,16
+168,Bhagawanpur Rural Municipality,16
+169,Nawarajpur Rural Municipality,16
+170,Bariyarpatti Rural Municipality,16
+171,Aurahi Rural Municipality(Siraha),16
+172,Siraha Municipality,16
+173,DHANUSA,17
+174,Ganeshman Charnath Municipality,17
+175,Dhanushadham Municipality,17
+176,Mithila Municipality,17
+177,Bateshwor Rural Municipality(Dhanusa),17
+178,Chhireshwornath Municipality,17
+179,Laxminiya Rural Municipality,17
+180,Mithila Bihari Municipality,17
+181,Hansapur Municipality,17
+182,Sabaila Municipality,17
+183,Shahidnagar Municipality,17
+184,Kamala Municipality,17
+185,Janak Nandini Rural Municipality,17
+186,Bideha Municipality,17
+187,Aurahi Rural Municipality(Dhanusa),17
+188,Janakpur Sub-Metropolitan City,17
+189,Dhanauji Rural Municipality,17
+190,Nagarain Municipality,17
+191,Mukhiyapatti Musaharmiya Rural Municipality,17
+192,MAHOTTARI,18
+193,Bardibas Municipality,18
+194,Gaushala Municipality,18
+195,Sonama Rural Municipality,18
+196,Aurahi Municipality(Mahottari),18
+197,Bhangaha Municipality,18
+198,Loharpatti Municipality,18
+199,Balawa Municipality,18
+200,Ram Gopalpur Municipality,18
+201,Samsi Rural Municipality,18
+202,Manara Shisawa Municipality,18
+203,Ekadara Rural Municipality,18
+204,Mahottari Rural Municipality,18
+205,Pipara Rural Municipality,18
+206,Matihani Municipality,18
+207,Jaleshwor Municipality,18
+208,Lalbandi Municipality,19
+209,Hariwan Municipality,19
+210,Bagmati Municipality(Sarlahi),19
+211,Barahathawa Municipality,19
+212,Haripur Municipality,19
+213,Ishworpur Municipality,19
+214,Haripurwa Municipality,19
+215,Parsa Rural Municipality,19
+216,Brahmapuri Rural Municipality,19
+217,Chandranagar Rural Municipality,19
+218,Kabilashi Municipality,19
+219,Chakraghatta Rural Municipality,19
+220,Basbariya Rural Municipality,19
+221,Dhanakaul Rural Municipality,19
+222,Ramnagar Rural Municipality,19
+223,Balara Municipality,19
+224,Godaita Municipality,19
+225,Bishnu Rural Municipality,19
+226,Kaudena Rural Municipality,19
+227,Malangawa Municipality,19
+228,Chandrapur Municipality,20
+229,Gujara Municipality,20
+230,Phatuwa Bijayapur Municipality,20
+231,Katahariya Municipality,20
+232,Brindaban Municipality,20
+233,Gadhimai Municipality,20
+234,Madhav Narayan Municipality,20
+235,Garuda Municipality,20
+236,Dewahi Gonahi Municipality,20
+237,Maulapur Municipality,20
+238,Boudhimai Municipality,20
+239,Paroha Municipality,20
+240,Rajpur Municipality,20
+241,Yamunamai Rural Municipality,20
+242,Durga Bhagawati Rural Municipality,20
+243,Rajdevi Municipality,20
+244,Gaur Municipality,20
+245,Ishanath Municipality,20
+246,Nijagadh Municipality,21
+247,Kolhabi Municipality,21
+248,Jitpur Simara Sub-Metropolitan City,21
+249,Parawanipur Rural Municipality,21
+250,Prasauni Rural Municipality,21
+251,Bishrampur Rural Municipality,21
+252,Pheta Rural Municipality,21
+253,Kalaiya Sub-Metropolitan City,21
+254,Karaiyamai Rural Municipality,21
+255,Baragadhi Rural Municipality,21
+256,Aadarsha Kotwal Rural Municipality,21
+257,Simroungadh Municipality,21
+258,Pacharauta Municipality,21
+259,Mahagadhimai Municipality,21
+260,Devtal Rural Municipality,21
+261,Subarna Rural Municipality,21
+262,Thori Rural Municipality,22
+263,Jirabhawani Rural Municipality,22
+264,Jagarnathpur Rural Municipality,22
+265,Paterwa Sugauli Rural Municipality,22
+266,Sakhuwa Prasauni Rural Municipality,22
+267,Parsagadhi Municipality,22
+268,Birgunj Metropolitan City,22
+269,Bahudarmai Municipality,22
+270,Pokhariya Municipality,22
+271,Kalikamai Rural Municipality(Parsa),22
+272,Dhobini Rural Municipality,22
+273,Chhipaharmai Rural Municipality,22
+274,Pakaha Mainpur Rural Municipality,22
+275,Bindabasini Rural Municipality,22
+276,Gaurishankar Rural Municipality,23
+277,Bigu Rural Municipality,23
+278,Kalinchowk Rural Municipality,23
+279,Baitedhar Rural Municipality,23
+280,Jiri Municipality,23
+281,Tamakoshi Rural Municipality,23
+282,Melung Rural Municipality,23
+283,Shailung Rural Municipality,23
+284,Bhimeshwor Municipality,23
+285,Bhotekoshi Rural Municipality,24
+286,Jugal Rural Municipality,24
+287,Panchpokhari Thangpal Rural Municipality,24
+288,Helambu Rural Municipality,24
+289,Melanchi Municipality,24
+290,Indrawoti Rural Municipality,24
+291,Choutara Sangachowkgadhi Municipality,24
+292,Balephi Rural Municipality,24
+293,Bahrabise Municipality,24
+294,Tripurasundari Rural Municipality(Sindhupalchok),24
+295,Lisankhu Pakhar Rural Municipality,24
+296,Sunkoshi Rural Municipality(Sindhupalchok),24
+297,Gosaikunda Rural Municipality,25
+298,Parbatikunda Rural Municipality,25
+299,Uttargaya Rural Municipality,25
+300,Kalika Rural Municipality(Rasuwa),25
+301,Naukunda Rural Municipality,25
+302,Rubi Valley Rural Municipality,26
+303,Khaniyabas Rural Municipality,26
+304,Ganga Jamuna Rural Municipality,26
+305,Tripurasundari Rural Municipality(Dhading),26
+306,Netrawati Rural Municipality,26
+307,Nilkhantha Municipality,26
+308,Jwalamukhi Rural Municipality,26
+309,Siddhalek Rural Municipality,26
+310,Benighat Rorang Rural Municipality,26
+311,Gajuri Rural Municipality,26
+312,Galchhi Rural Municipality,26
+313,Thakre Rural Municipality,26
+314,Dhunibenshi Municipality,26
+315,Dupcheshwor Rural Municipality,27
+316,Tadi Rural Municipality,27
+317,Suryagadhi Rural Municipality,27
+318,Bidur Municipality,27
+319,Kispang Rural Municipality,27
+320,Meghang Rural Municipality,27
+321,Tarakeshwor Rural Municipality,27
+322,Belkotgadhi Municipality,27
+323,Likhu Rural Municipality(Nuwakot),27
+324,Panchakanya Rural Municipality,27
+325,Shivapuri Rural Municipality,27
+326,Kakani Rural Municipality,27
+327,Shankharapur Municipality,28
+328,Kageshwori Manahara Municipality,28
+329,Gokarneshwor Municipality,28
+330,Budhanilkhantha Municipality,28
+331,Tokha Municipality,28
+332,Tarakeshwor Municipality,28
+333,Nagarjun Municipality,28
+334,Kathmandu Metropolitan City,28
+335,Kirtipur Municipality,28
+336,Chandragiri Municipality,28
+337,Dakshinkali Municipality,28
+338,Changunarayan Municipality,29
+339,Bhaktapur Municipality,29
+340,Madhyapur Thimi Municipality,29
+341,Suryabinayak Municipality,29
+342,Mahalaxmi Municipality(Lalitpur),30
+343,Lalitpur Metropolitan City,30
+344,Godawari Municipality(Lalitpur),30
+345,Konjyosom Rural Municipality,30
+346,Mahankal Rural Municipality,30
+347,Bagmati Rural Municipality(Lalitpur),30
+348,Chauri Deurali Rural Municipality,31
+349,Bhumlu Rural Municipality,31
+350,Mandan Deupur Municipality,31
+351,Banepa Municipality,31
+352,Dhulikhel Municipality,31
+353,Panchkhal Municipality,31
+354,Temal Rural Municipality,31
+355,Namobuddha Municipality,31
+356,Panauti Municipality,31
+357,Bethanchowk Rural Municipality,31
+358,Roshi Rural Municipality,31
+359,Mahabharat Rural Municipality,31
+360,Khanikhola Rural Municipality,31
+361,Umakunda Rural Municipality,32
+362,Gokulganga Rural Municipality,32
+363,Likhu Rural Municipality(Ramechhap),32
+364,Ramechhap Municipality,32
+365,Manthali Municipality,32
+366,Khandadevi Rural Municipality,32
+367,Doramba Rural Municipality,32
+368,Sunapati Rural Municipality,32
+369,Dudhouli Municipality,33
+370,Phikkal Rural Municipality,33
+371,Tinpatan Rural Municipality,33
+372,Golanjor Rural Municipality,33
+373,Kamalamai Municipality,33
+374,Sunkoshi Rural Municipality(Sindhuli),33
+375,Ghyanglekha Rural Municipality,33
+376,Marin Rural Municipality,33
+377,Hariharpurgaghi Rural Municipality,33
+378,Indrasarowar Rural Municipality,34
+379,Thaha Municipality,34
+380,Kailash Rural Municipality,34
+381,Raksirang Rural Municipality,34
+382,Manahari Rural Municipality,34
+383,Hetauda Sub-Metropolitan City,34
+384,Bhimphedi Rural Municipality,34
+385,Makawanpurgadhi Rural Municipality,34
+386,Bakaiya Rural Municipality,34
+387,Bagmati Rural Municipality(Makwanpur),34
+388,CHITAWAN,35
+389,Rapti Municipality,35
+390,Kalika Municipality(Chitwan),35
+391,Ichchha Kamana Rural Municipality,35
+392,Bharatpur Metropolitan City,35
+393,Ratnanagar Municipality,35
+394,Khairahani Municipality,35
+395,Madi Municipality(Chitwan),35
+396,Chumanubri Rural Municipality,36
+397,Ajirkot Rural Municipality,36
+398,Sulikot Rural Municipality,36
+399,Dharche Rural Municipality,36
+400,Aarughat Rural Municipality,36
+401,Bhimsen Rural Municipality,36
+402,Siranchowk Rural Municipality,36
+403,Palungtar Municipality,36
+404,Gorkha Municipality,36
+405,Shahid Lakhan Rural Municipality,36
+406,Gandaki Rural Municipality,36
+407,Naraphu Rural Municipality,37
+408,Neshang Rural Municipality,37
+409,Chame Rural Municipality,37
+410,Nashong Rural Municipality,37
+411,Dalome Rural Municipality,38
+412,Gharpajhong Rural Municipality,38
+413,Bahragaun Muktikshetra Rural Municipality,38
+414,Lomanthang Rural Municipality,38
+415,Thasang Rural Municipality,38
+416,Annapurna Rural Municipality(Myagdi),39
+417,Raghuganga Rural Municipality,39
+418,Dhawalagiri Rural Municipality,39
+419,Malika Rural Municipality(Myagdi),39
+420,Mangala Rural Municipality,39
+421,Beni Municipality,39
+422,Madi Rural Municipality(Kaski),40
+423,Machhapuchchhre Rural Municipality,40
+424,Annapurna Rural Municipality(Kaski),40
+425,Pokhara Metropolitan City,40
+426,Rupa Rural Municipality,40
+427,Dordi Rural Municipality,41
+428,Marshyangdi Rural Municipality,41
+429,Kwhola Sothar Rural Municipality,41
+430,Madhya Nepal Municipality,41
+431,Bensi Shahar Municipality,41
+432,Sundarbazar Municipality,41
+433,Rainas Municipality,41
+434,Dudhapokhari Rural Municipality,41
+435,Bhanu Municipality,42
+436,Byas Municipality,42
+437,Myagde Rural Municipality,42
+438,Shuklagandaki Municipality,42
+439,Bhimad Municipality,42
+440,Ghiring Rural Municipality,42
+441,Rhishing Rural Municipality,42
+442,Devghat Rural Municipality,42
+443,Bandipur Rural Municipality,42
+444,Aanbu Khaireni Rural Municipality,42
+445,Gaidakot Municipality,43
+446,Bulingtar Rural Municipality,43
+447,Bungdikali Rural Municipality,43
+448,Hupsekot Rural Municipality,43
+449,Devchuli Municipality,43
+450,Kawasoti Municipality,43
+451,Madhya Bindu Municipality,43
+452,Binayi Tribeni Rural Municipality,43
+453,Putalibazar Municipality,44
+454,Phedikhola Rural Municipality,44
+455,Aandhikhola Rural Municipality,44
+456,Arjun Choupari Rural Municipality,44
+457,Bhirkot Municipality,44
+458,Biruwa Rural Municipality,44
+459,Harinas Rural Municipality,44
+460,Chapakot Municipality,44
+461,Walling Municipality,44
+462,Galyang Municipality,44
+463,Kaligandaki Rural Municipality,44
+464,Modi Rural Municipality,45
+465,Jaljala Rural Municipality,45
+466,Kushma Municipality,45
+467,Phalebas Municipality,45
+468,Mahashila Rural Municipality,45
+469,Bihadi Rural Municipality,45
+470,Paiyu Rural Municipality,45
+471,Baglung Municipality,46
+472,Kathekhola Rural Municipality,46
+473,Tarakhola Rural Municipality,46
+474,Tamankhola Rural Municipality,46
+475,Dhorpatan Municipality,46
+476,Nisikhola Rural Municipality,46
+477,Badigad Rural Municipality,46
+478,Galkot Municipality,46
+479,Bareng Rural Municipality,46
+480,Jaimuni Municipality,46
+481,Putha Uttanganga Rural Municipality,47
+482,Sisne Rural Municipality,47
+483,Bhoome Rural Municipality,47
+484,Sunchhahari Rural Municipality,48
+485,Thawang Rural Municipality,48
+486,Paribartan Rural Municipality,48
+487,Gangadev Rural Municipality,48
+488,Madi Rural Municipality(Rolpa),48
+489,Tribeni Rural Municipality(Rolpa),48
+490,Rolpa Municipality,48
+491,Runtigadhi Rural Municipality,48
+492,Sunil Smriti Rural Municipality,48
+493,Lungri Rural Municipality,48
+494,Gaumukhi Rural Municipality,49
+495,Naubahini Rural Municipality,49
+496,Jhimaruk Rural Municipality,49
+497,Pyuthan Municipality,49
+498,Sworgadwari Municipality,49
+499,Mandavi Rural Municipality,49
+500,Mallarani Rural Municipality,49
+501,Aairawati Rural Municipality,49
+502,Sarumarani Rural Municipality,49
+503,Kali Gandaki Rural Municipality,50
+504,Satyawoti Rural Municipality,50
+505,Chandrakot Rural Municipality,50
+506,Musikot Municipality(Gulmi),50
+507,Isma Rural Municipality,50
+508,Malika Rural Municipality(Gulmi),50
+509,Madane Rural Municipality,50
+510,Dhurkot Rural Municipality,50
+511,Resunga Municipality,50
+512,Gulmi Durbar Rural Municipality,50
+513,Chhatrakot Rural Municipality,50
+514,Ruru Rural Municipality,50
+515,Chhatradev Rural Municipality,51
+516,Malarani Rural Municipality,51
+517,Bhumikasthan Municipality,51
+518,Sandhikharka Municipality,51
+519,Panini Rural Municipality,51
+520,Shitaganga Municipality,51
+521,Rampur Municipality,52
+522,Purbakhola Rural Municipality,52
+523,Rambha Rural Municipality,52
+524,Baganaskali Rural Municipality,52
+525,Tansen Municipality,52
+526,Ribdikot Rural Municipality,52
+527,Rainadevi Chhahara Rural Municipality,52
+528,Tinau Rural Municipality,52
+529,Mathagadhi Rural Municipality,52
+530,Nisdi Rural Municipality,52
+531,Bardaghat Municipality,53
+532,Sunawal Municipality,53
+533,Ramgram Municipality,53
+534,Palhinandan Rural Municipality,53
+535,Sarawal Rural Municipality,53
+536,Pratapapur Rural Municipality,53
+537,Susta Rural Municipality,53
+538,Devdaha Municipality,54
+539,Butwal Sub-Metropolitan City,54
+540,Sainamaina Municipality,54
+541,Kanchan Rural Municipality,54
+542,Gaidahawa Rural Municipality,54
+543,Suddhodhan Rural Municipality(Rupandehi),54
+544,Siyari Rural Municipality,54
+545,Tilottama Municipality,54
+546,Om Satiya Rural Municipality,54
+547,Rohini Rural Municipality,54
+548,Siddharthanagar Municipality,54
+549,Mayadevi Rural Municipality(Rupandehi),54
+550,Lumbini Sanskritik Municipality,54
+551,Kotahimai Rural Municipality,54
+552,Sammarimai Rural Municipality,54
+553,Marchawari Rural Municipality,54
+554,Banganga Municipality,55
+555,Buddhabhumi Municipality,55
+556,Shivaraj Municipality,55
+557,Bijayanagar Rural Municipality,55
+558,Krishnanagar Municipality,55
+559,Maharajganj Municipality,55
+560,Kapilbastu Municipality,55
+561,Yasodhara Rural Municipality,55
+562,Mayadevi Rural Municipality(Kapilbastu),55
+563,Shuddhodhan Rural Municipality,55
+564,Bangalachuli Rural Municipality,56
+565,Ghorahi Sub-Metropolitan City,56
+566,Tulsipur Sub-Metropolitan City,56
+567,Shantinagar Rural Municipality,56
+568,Babai Rural Municipality,56
+569,Dangisharan Rural Municipality,56
+570,Lamahi Municipality,56
+571,Rapti Rural Municipality,56
+572,Gadhawa Rural Municipality,56
+573,Rajpur Rural Municipality,56
+574,Rapti Sonari Rural Municipality,57
+575,Kohalpur Municipality,57
+576,Baijanath Rural Municipality,57
+577,Khajura Rural Municipality,57
+578,Janaki Rural Municipality(Banke),57
+579,Nepalganj Sub-Metropolitan City,57
+580,Duduwa Rural Municipality,57
+581,Narainapur Rural Municipality,57
+582,Bansgadhi Municipality,58
+583,Barbardiya Municipality,58
+584,Thakurbaba Municipality,58
+585,Geruwa Rural Municipality,58
+586,Rajapur Municipality,58
+587,Madhuwan Municipality,58
+588,Gulariya Municipality,58
+589,Badhaiyatal Rural Municipality,58
+590,Aathabisakot Municipality,59
+591,Sanibheri Rural Municipality,59
+592,Banphikot Rural Municipality,59
+593,Musikot Municipality(Rukum West),59
+594,Tribeni Rural Municipality(Rukum West),59
+595,Chaurjahari Municipality,59
+596,Dolpo Buddha Rural Municipality,60
+597,Shey Phoksundo Rural Municipality,60
+598,Jagadulla Rural Municipality,60
+599,Mudkechula Rural Municipality,60
+600,Tripurasundari Municipality(Dolpa),60
+601,Thulibheri Municipality,60
+602,Kaike Rural Municipality,60
+603,Chharka Tangsong Rural Municipality,60
+604,Mugumkarmarog Rural Municipality,61
+605,Chhayanath Rara Municipality,61
+606,Soru Rural Municipality,61
+607,Khatyad Rural Municipality,61
+608,Chankheli Rural Municipality,62
+609,Kharpunath Rural Municipality,62
+610,Simkot Rural Municipality,62
+611,Namkha Rural Municipality,62
+612,Sarkegad Rural Municipality,62
+613,Adanchuli Rural Municipality,62
+614,Tanjakot Rural Municipality,62
+615,Patarasi Rural Municipality,63
+616,Kanaka Sundari Rural Municipality,63
+617,Sinja Rural Municipality,63
+618,Chandannath Municipality,63
+619,Guthichaur Rural Municipality,63
+620,Tatopani Rural Municipality,63
+621,Tila Rural Municipality,63
+622,Hima Rural Municipality,63
+623,Palata Rural Municipality,64
+624,Pachal Jharana Rural Municipality,64
+625,Raskot Municipality,64
+626,Sanni Tribeni Rural Municipality,64
+627,Naraharinath Rural Municipality,64
+628,Khandachakra Municipality,64
+629,Tilagupha Municipality,64
+630,Mahawai Rural Municipality,64
+631,Kalika Rural Municipality(Kalikot),64
+632,Naumule Rural Municipality,65
+633,Mahabu Rural Municipality,65
+634,Bhairabi Rural Municipality,65
+635,Thantikandh Rural Municipality,65
+636,Aathbis Municipality,65
+637,Chamunda Bindrasaini Municipality,65
+638,Dullu Municipality,65
+639,Narayan Municipality,65
+640,Bhagawatimai Rural Municipality,65
+641,Dungeshwor Rural Municipality,65
+642,Gurans Rural Municipality,65
+643,Barekot Rural Municipality,66
+644,Kuse Rural Municipality,66
+645,Junichande Rural Municipality,66
+646,Chhedagad Municipality,66
+647,Shivalaya Rural Municipality,66
+648,Bheri Malika Municipality,66
+649,Tribeni Nalagad Municipality,66
+650,Darma Rural Municipality,67
+651,Kumakh Malika Rural Municipality,67
+652,Banagad Kupinde Municipality,67
+653,Dhorchaur Rural Municipality,67
+654,Bagachour Municipality,67
+655,Chhatreshwori Rural Municipality,67
+656,Sharada Municipality,67
+657,Kalimati Rural Municipality,67
+658,Tribeni Rural Municipality(Salyan),67
+659,Kapurkot Rural Municipality,67
+660,Simta Rural Municipality,68
+661,Chingad Rural Municipality,68
+662,Lekabeshi Municipality,68
+663,Gurbhakot Municipality,68
+664,Bheriganga Municipality,68
+665,Birendranagar Municipality,68
+666,Barahatal Rural Municipality,68
+667,Panchapuri Municipality,68
+668,Chaukune Rural Municipality,68
+669,Himali Rural Municipality,69
+670,Gaumul Rural Municipality,69
+671,Budhinanda Municipality,69
+672,Swami Kartik Rural Municipality,69
+673,Jagannath Rural Municipality,69
+674,Badimalika Municipality,69
+675,Khaptad Chhededaha Rural Municipality,69
+676,Budhiganga Municipality,69
+677,Tribeni Municipality,69
+678,Kanda Rural Municipality,70
+679,Bungal Municipality,70
+680,Surma Rural Municipality,70
+681,Talkot Rural Municipality,70
+682,Masta Rural Municipality,70
+683,Jayaprithbi Municipality,70
+684,Chhabis Pathibhara Rural Municipality,70
+685,Durgathali Rural Municipality,70
+686,Kedarsyun Rural Municipality,70
+687,Bitthadchir Rural Municipality,70
+688,Thalara Rural Municipality,70
+689,Khaptad Chhanna Rural Municipality,70
+690,Byas Rural Municipality,71
+691,Duhun Rural Municipality,71
+692,Mahakali Municipality(Darchula),71
+693,Naugad Rural Municipality,71
+694,Apihimal Rural Municipality,71
+695,Marma Rural Municipality,71
+696,Shailyashikhar Municipality,71
+697,Malikarjun Rural Municipality,71
+698,Lekam Rural Municipality,71
+699,Dilasaini Rural Municipality,72
+700,Dogada Kedar Rural Municipality,72
+701,Puchaundi Municipality,72
+702,Surnaya Rural Municipality,72
+703,Dasharathchand Municipality,72
+704,Pancheshwor Rural Municipality,72
+705,Shivanath Rural Municipality,72
+706,Melauli Municipality,72
+707,Patan Municipality,72
+708,Sigas Rural Municipality,72
+709,Nawadurga Rural Municipality,73
+710,Amargadhi Municipality,73
+711,Ajayameru Rural Municipality,73
+712,Bhageshwor Rural Municipality,73
+713,Parashuram Municipality,73
+714,Aalital Rural Municipality,73
+715,Ganyapdhura Rural Municipality,73
+716,Purbichouki Rural Municipality,74
+717,Sayal Rural Municipality,74
+718,Aadarsha Rural Municipality,74
+719,Shikhar Municipality,74
+720,Dipayal Silgadhi Municipality,74
+721,K.I. Singh Rural Municipality,74
+722,Bogatan Rural Municipality,74
+723,Badi Kedar Rural Municipality,74
+724,Jorayal Rural Municipality,74
+725,Panchdebal Binayak Municipality,75
+726,Ramaroshan Rural Municipality,75
+727,Mellekh Rural Municipality,75
+728,Sanphebagar Municipality,75
+729,Chaurpati Rural Municipality,75
+730,Mangalsen Municipality,75
+731,Bannigadhi Jayagadh Rural Municipality,75
+732,Kamal Bazar Municipality,75
+733,Dhakari Rural Municipality,75
+734,Turmakhand Rural Municipality,75
+735,Mohanyal Rural Municipality,76
+736,Chure Rural Municipality,76
+737,Godawari Municipality(Kailali),76
+738,Gauriganga Municipality,76
+739,Ghodaghodi Municipality,76
+740,Bardagoriya Rural Municipality,76
+741,Lamki Chuha Municipality,76
+742,Janaki Rural Municipality(Kailali),76
+743,Joshipur Rural Municipality,76
+744,Tikapur Municipality,76
+745,Bhajani Municipality,76
+746,Kailari Rural Municipality,76
+747,Dhangadhi Sub-Metropolitan City,76
+748,Krishnapur Municipality,77
+749,Shuklaphanta Municipality,77
+750,Bedkot Municipality,77
+751,Bhimdatta Municipality,77
+752,Mahakali Municipality(Kanchanpur),77
+753,Laljhadi Rural Municipality,77
+754,Punarbas Municipality,77
+755,Belouri Municipality,77
+756,Beldandi Rural Municipality,77
