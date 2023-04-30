@@ -51,7 +51,7 @@ local_level_id,local_level_name,district_id
 50,RawaBeshi Gaunpalika (Khotang),5
 51,Sakela Gaunpalika (Khotang),5
 52,Belbari Municipality (Morang),12
-53,Biratnagar Metropolitian City (Morang),12
+53,Biratnagar Metropolitan City (Morang),12
 54,Budhiganga Gaunpalika (Morang),12
 55,Dhanapalthan Gaunpalika (Morang),12
 56,Gramthan Gaunpalika (Morang),12
@@ -105,12 +105,12 @@ local_level_id,local_level_name,district_id
 104,Barju Gaunpalika (Sunsari),13
 105,Bhokraha Narasinha Gaunpalika (Sunsari),13
 106,Dewangunj Gaunpalika (Sunsari),13
-107,Dharan Sub-Metropolitian City (Sunsari),13
+107,Dharan Sub-Metropolitan City (Sunsari),13
 108,Duhabi Municipality (Sunsari),13
 109,Gadhi Gaunpalika (Sunsari),13
 110,Harinagar Gaunpalika (Sunsari),13
 111,Inaruwa Municipality (Sunsari),13
-112,Itahari Sub-Metropolitian City (Sunsari),13
+112,Itahari Sub-Metropolitan City (Sunsari),13
 113,Koshi Gaunpalika (Sunsari),13
 114,Ramdhuni Municipality (Sunsari),13
 115,Fungling Gaunpalika (Taplejung),1
@@ -140,8 +140,8 @@ local_level_id,local_level_name,district_id
 139,Baragadhi Gaunpalika (Bara),21
 140,Bishrampur Gaunpalika (Bara),21
 141,Devtal Gaunpalika (Bara),21
-142,Jitpur Simara Sub-Metropolitian City (Bara),21
-143,Kalaiya Sub-Metropolitian City (Bara),21
+142,Jitpur Simara Sub-Metropolitan City (Bara),21
+143,Kalaiya Sub-Metropolitan City (Bara),21
 144,Karaiyamai Gaunpalika (Bara),21
 145,Kolhabi Municipality (Bara),21
 146,Mahagadhimai Municipality (Bara),21
@@ -161,7 +161,7 @@ local_level_id,local_level_name,district_id
 160,Ganeshman Charnath Municipality (Dhanusha),17
 161,Hansapur Municipality (Dhanusha),17
 162,Janak Nandini Gaunpalika (Dhanusha),17
-163,Janakpur Sub-Metropolitian City (Dhanusha),17
+163,Janakpur Sub-Metropolitan City (Dhanusha),17
 164,Kamala Municipality (Dhanusha),17
 165,Laxminiya Gaunpalika (Dhanusha),17
 166,Mithila Bihari Municipality (Dhanusha),17
@@ -187,7 +187,7 @@ local_level_id,local_level_name,district_id
 186,Sonama Gaunpalika (Mahottari),18
 187,Bahudarmai Municipality (Parsa),22
 188,Bindabasini Gaunpalika (Parsa),22
-189,Birgunj Metropolitian City (Parsa),22
+189,Birgunj Metropolitan City (Parsa),22
 190,Chhipaharmai Gaunpalika (Parsa),22
 191,Dhobini Gaunpalika (Parsa),22
 192,Jagarnathpur Gaunpalika (Parsa),22
@@ -276,7 +276,7 @@ local_level_id,local_level_name,district_id
 275,Changunarayan Municipality (Bhaktapur),29
 276,Madhyapur Thimi Municipality (Bhaktapur),29
 277,Suryabinayak Municipality (Bhaktapur),29
-278,Bharatpur Metropolitian City (Chitawan),35
+278,Bharatpur Metropolitan City (Chitawan),35
 279,Ichchha Kamana Gaunpalika (Chitawan),35
 280,Kalika Municipality (Chitawan),35
 281,Khairahani Municipality (Chitawan),35
@@ -323,7 +323,7 @@ local_level_id,local_level_name,district_id
 322,Dakshinkali Municipality (Kathmandu),28
 323,Gokarneshwor Municipality (Kathmandu),28
 324,Kageshwori Manahara Municipality (Kathmandu),28
-325,Kathmandu Metropolitian City (Kathmandu),28
+325,Kathmandu Metropolitan City (Kathmandu),28
 326,Kirtipur Municipality (Kathmandu),28
 327,Nagarjun Municipality (Kathmandu),28
 328,Shankharapur Municipality (Kathmandu),28
@@ -332,13 +332,13 @@ local_level_id,local_level_name,district_id
 331,Bagmati Gaunpalika (Lalitpur),30
 332,Godawari Municipality (Lalitpur),30
 333,Konjyosom Gaunpalika (Lalitpur),30
-334,Lalitpur Metropolitian City (Lalitpur),30
+334,Lalitpur Metropolitan City (Lalitpur),30
 335,Mahalaxmi Municipality (Lalitpur),30
 336,Mahankal Gaunpalika (Lalitpur),30
 337,Bagmati Gaunpalika (Makawanpur),34
 338,Bakaiya Gaunpalika (Makawanpur),34
 339,Bhimphedi Gaunpalika (Makawanpur),34
-340,Hetauda Sub-Metropolitian City (Makawanpur),34
+340,Hetauda Sub-Metropolitan City (Makawanpur),34
 341,Indrasarowar Gaunpalika (Makawanpur),34
 342,Kailash Gaunpalika (Makawanpur),34
 343,Makawanpurgadhi Gaunpalika (Makawanpur),34
@@ -415,7 +415,7 @@ local_level_id,local_level_name,district_id
 414,Annapurna Gaunpalika (Kaski),40
 415,Machhapuchchhre Gaunpalika (Kaski),40
 416,Madi Gaunpalika (Kaski),40
-417,Pokhara Lekhnath Metropolitian City (Kaski),40
+417,Pokhara Lekhnath Metropolitan City (Kaski),40
 418,Rupa Gaunpalika (Kaski),40
 419,Bensi Shahar Municipality (Lamjung),41
 420,Dordi Gaunpalika (Lamjung),41
@@ -733,7 +733,7 @@ local_level_id,local_level_name,district_id
 732,Bardagoriya Gaunpalika (Kailali),76
 733,Bhajani Municipality (Kailali),76
 734,Chure Gaunpalika (Kailali),76
-735,Dhangadhi Sub-Metropolitian City (Kailali),76
+735,Dhangadhi Sub-Metropolitan City (Kailali),76
 736,Gauriganga Municipality (Kailali),76
 737,Ghodaghodi Municipality (Kailali),76
 738,Godawari Municipality (Kailali),76
