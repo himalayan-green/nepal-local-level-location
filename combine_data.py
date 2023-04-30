@@ -1,8 +1,13 @@
 import pandas as pd
+import sys
 
 provinces = pd.read_csv('provinces.csv')
 districts = pd.read_csv('districts.csv')
-local_level = pd.read_csv('local_level.csv')
+
+if len(sys.argv) > 1 and sys.argv[1].lower() == 'nepali':
+    local_level = pd.read_csv('local_level_nepali.csv')
+else:
+    local_level = pd.read_csv('local_level.csv')
 
 def combine_data(rename_column=True):
     local_level_with_district = pd.merge(local_level,

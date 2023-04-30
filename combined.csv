@@ -1,757 +1,754 @@
 local_level_id,local_level_name,district_name,province_name
-1,Phaktanlung Rural Municipality,Taplejung,Province 1
-2,Mikwakhola Rural Municipality,Taplejung,Province 1
-3,Meringden Rural Municipality,Taplejung,Province 1
-4,Maiwakhola Rural Municipality,Taplejung,Province 1
-5,Aatharai Tribeni Rural Municipality,Taplejung,Province 1
-6,Phungling Municipality,Taplejung,Province 1
-7,Yangwarak Rural Municipality,Taplejung,Province 1
-8,Sirijanga Rural Municipality,Taplejung,Province 1
-9,Sidingba Rural Municipality,Taplejung,Province 1
-10,Bhotkhola Rural Municipality,Sankhuwasabha,Province 1
-11,Makalu Rural Municipality,Sankhuwasabha,Province 1
-12,Silichong Rural Municipality,Sankhuwasabha,Province 1
-13,Chichila Rural Municipality,Sankhuwasabha,Province 1
-14,Sabhapokhari Rural Municipality,Sankhuwasabha,Province 1
-15,Khandabari Municipality,Sankhuwasabha,Province 1
-16,Panchakhapan Municipality,Sankhuwasabha,Province 1
-17,Chainapur Municipality,Sankhuwasabha,Province 1
-18,Madi Municipality,Sankhuwasabha,Province 1
-19,Dharmadevi Municipality,Sankhuwasabha,Province 1
-20,Khumbu Pasanglhamu Rural Municipality,Solukhumbu,Province 1
-21,Mahakulung Rural Municipality,Solukhumbu,Province 1
-22,Sotang Rural Municipality,Solukhumbu,Province 1
-23,Dhudhakoshi Rural Municipality,Solukhumbu,Province 1
-24,Dhudha Koushika Rural Municipality,Solukhumbu,Province 1
-25,Necha Salyan Rural Municipality,Solukhumbu,Province 1
-26,Solu Dhudhakunda Municipality,Solukhumbu,Province 1
-27,Likhu Pike Rural Municipality,Solukhumbu,Province 1
-28,Chishankhu Gadhi Rural Municipality,Okhaldhunga,Province 1
-29,Siddhicharan Municipality,Okhaldhunga,Province 1
-30,Molung Rural Municipality,Okhaldhunga,Province 1
-31,Khiji Demba Rural Municipality,Okhaldhunga,Province 1
-32,Likhu Rural Municipality,Okhaldhunga,Province 1
-33,Champadevi Rural Municipality,Okhaldhunga,Province 1
-34,Sunkoshi Rural Municipality,Okhaldhunga,Province 1
-35,Manebhanjyang Rural Municipality,Okhaldhunga,Province 1
-36,Kepilasgadhi Rural Municipality,Khotang,Province 1
-37,Aiselukharka Rural Municipality,Khotang,Province 1
-38,Lamidanda Rural Municipality,Khotang,Province 1
-39,Halesi Tuwachung Municipality,Khotang,Province 1
-40,Rupakot Majhuwagadhi Municipality,Khotang,Province 1
-41,Sakela Rural Municipality,Khotang,Province 1
-42,Diprung Rural Municipality,Khotang,Province 1
-43,Khotehang Rural Municipality,Khotang,Province 1
-44,Jante Dhunga Rural Municipality,Khotang,Province 1
-45,Baraha Pokhari Rural Municipality,Khotang,Province 1
-46,Shadananda Municipality,Bhojpur,Province 1
-47,Salpa Silichho Rural Municipality,Bhojpur,Province 1
-48,Tyamke Maiyum Rural Municipality,Bhojpur,Province 1
-49,Bhojpur Municipality,Bhojpur,Province 1
-50,Arun Rural Municipality,Bhojpur,Province 1
-51,Pauwa Dunma Rural Municipality,Bhojpur,Province 1
-52,Ramprasad Rai Rural Municipality,Bhojpur,Province 1
-53,Hatuwagadhi Rural Municipality,Bhojpur,Province 1
-54,Aamchowk Rural Municipality,Bhojpur,Province 1
-55,Mahalaxmi Municipality,Dhankuta,Province 1
-56,Pakhribas Municipality,Dhankuta,Province 1
-57,Chhathar Jorpati Rural Municipality,Dhankuta,Province 1
-58,Dhankuta Municipality,Dhankuta,Province 1
-59,Khalsa Chhintang Sahidbhumi Rural Municipality,Dhankuta,Province 1
-60,Sangurigadhi Rural Municipality,Dhankuta,Province 1
-61,Chaubise Rural Municipality,Dhankuta,Province 1
-62,Aatharai Rural Municipality,Terhathum,Province 1
-63,Phedap Rural Municipality,Terhathum,Province 1
-64,Menchhayayem Rural Municipality,Terhathum,Province 1
-65,Myanglung Municipality,Terhathum,Province 1
-66,Laligurans Municipality,Terhathum,Province 1
-67,Chhathar Rural Municipality,Terhathum,Province 1
-68,Yangbarak Rural Municipality,Panchthar,Province 1
-69,Hilihan Rural Municipality,Panchthar,Province 1
-70,Falelung Rural Municipality,Panchthar,Province 1
-71,Phidim Municipality,Panchthar,Province 1
-72,Falgunanda Rural Municipality,Panchthar,Province 1
-73,Kummayak Rural Municipality,Panchthar,Province 1
-74,Tumbewa Rural Municipality,Panchthar,Province 1
-75,Miklajung Rural Municipality,Panchthar,Province 1
-76,Mai Jogmai Rural Municipality,Ilam,Province 1
-77,Sandakpur Rural Municipality,Ilam,Province 1
-78,Ilam Municipality,Ilam,Province 1
-79,Deumai Municipality,Ilam,Province 1
-80,Fakfokathum Rural Municipality,Ilam,Province 1
-81,Mangsebung Rural Municipality,Ilam,Province 1
-82,Chulachuli Rural Municipality,Ilam,Province 1
-83,Mai Municipality,Ilam,Province 1
-84,Suryodaya Municipality,Ilam,Province 1
-85,Rong Rural Municipality,Ilam,Province 1
-86,Mechinagar Municipality,Jhapa,Province 1
-87,Buddhashanti Rural Municipality,Jhapa,Province 1
-88,Arjundhara Municipality,Jhapa,Province 1
-89,Kankai Municipality,Jhapa,Province 1
-90,Shivasatakshi Municipality,Jhapa,Province 1
-91,Kamal Rural Municipality,Jhapa,Province 1
-92,Damak Municipality,Jhapa,Province 1
-93,Gauradaha Municipality,Jhapa,Province 1
-94,Gauriganj Rural Municipality,Jhapa,Province 1
-95,Jhapa Rural Municipality,Jhapa,Province 1
-96,Barhadashi Rural Municipality,Jhapa,Province 1
-97,Birtamod Municipality,Jhapa,Province 1
-98,Haldibari Rural Municipality,Jhapa,Province 1
-99,Bhadrapur Municipality,Jhapa,Province 1
-100,Kachanakawal Rural Municipality,Jhapa,Province 1
-101,Miklajung Rural Municipality,Morang,Province 1
-102,Letang Municipality,Morang,Province 1
-103,Kerabari Rural Municipality,Morang,Province 1
-104,Sundarharaicha Municipality,Morang,Province 1
-105,Belbari Municipality,Morang,Province 1
-106,Kanepokhari Rural Municipality,Morang,Province 1
-107,Pathari Shanishchare Municipality,Morang,Province 1
-108,Urlabari Municipality,Morang,Province 1
-109,Ratuwamai Municipality,Morang,Province 1
-110,Sunwarshi Municipality,Morang,Province 1
-111,Rangeli Municipality,Morang,Province 1
-112,Gramthan Rural Municipality,Morang,Province 1
-113,Budhiganga Rural Municipality,Morang,Province 1
-114,Biratnagar Metropolitan City,Morang,Province 1
-115,Katahari Rural Municipality,Morang,Province 1
-116,Dhanapalthan Rural Municipality,Morang,Province 1
-117,Jahada Rural Municipality,Morang,Province 1
-118,Dharan Sub-Metropolitan City,Sunsari,Province 1
-119,Baraha Municipality,Sunsari,Province 1
-120,Koshi Rural Municipality,Sunsari,Province 1
-121,Bhokraha Rural Municipality,Sunsari,Province 1
-122,Ramdhuni Municipality,Sunsari,Province 1
-123,Itahari Sub-Metropolitan City,Sunsari,Province 1
-124,Duhabi Municipality,Sunsari,Province 1
-125,Gadhi Rural Municipality,Sunsari,Province 1
-126,Inaruwa Municipality,Sunsari,Province 1
-127,Harinagara Rural Municipality,Sunsari,Province 1
-128,Dewangunj Rural Municipality,Sunsari,Province 1
-129,Barju Rural Municipality,Sunsari,Province 1
-130,Belaka Municipality,Udayapur,Province 1
-131,Chaudandigadhi Municipality,Udayapur,Province 1
-132,Triyuga Municipality,Udayapur,Province 1
-133,Rautamai Rural Municipality,Udayapur,Province 1
-134,Sunkoshi Rural Municipality,Udayapur,Province 1
-135,Tapli Rural Municipality,Udayapur,Province 1
-136,Katari Municipality,Udayapur,Province 1
-137,Udayapurgadhi Rural Municipality,Udayapur,Province 1
-138,Saptakoshi Municipality,Saptari,Madhesh Province
-139,Kanchanrup Municipality,Saptari,Madhesh Province
-140,Agnisair Krishna Sabaran Rural Municipality,Saptari,Madhesh Province
-141,Rupani Rural Municipality,Saptari,Madhesh Province
-142,Shambhunath Municipality,Saptari,Madhesh Province
-143,Khadak Municipality,Saptari,Madhesh Province
-144,Surunga Municipality,Saptari,Madhesh Province
-145,Balan-Bihul Rural Municipality,Saptari,Madhesh Province
-146,BodeBarsain Municipality,Saptari,Madhesh Province
-147,Dakneshwori Municipality,Saptari,Madhesh Province
-148,Belhi Chapena Rural Municipality,Saptari,Madhesh Province
-149,Bishnupur Rural Municipality,Saptari,Madhesh Province
-150,Rajbiraj Municipality,Saptari,Madhesh Province
-151,Mahadewa Rural Municipality,Saptari,Madhesh Province
-152,Tirahut Rural Municipality,Saptari,Madhesh Province
-153,Hanumannagar Kankalini Municipality,Saptari,Madhesh Province
-154,Tilathi Koiladi Rural Municipality,Saptari,Madhesh Province
-155,Chhinnamasta Rural Municipality,Saptari,Madhesh Province
-156,Lahan Municipality,Siraha,Madhesh Province
-157,Dhangadhimai Municipality,Siraha,Madhesh Province
-158,Golbazar Municipality,Siraha,Madhesh Province
-159,Mirchaiya Municipality,Siraha,Madhesh Province
-160,Karjanha Municipality,Siraha,Madhesh Province
-161,Kalyanpur Municipality,Siraha,Madhesh Province
-162,Naraha Rural Municipality,Siraha,Madhesh Province
-163,Bishnupur Rural Municipality,Siraha,Madhesh Province
-164,Arnama Rural Municipality,Siraha,Madhesh Province
-165,Sukhipur Municipality,Siraha,Madhesh Province
-166,Laxmipur Patari Rural Municipality,Siraha,Madhesh Province
-167,Sakhuwa Nankarkatti Rural Municipality,Siraha,Madhesh Province
-168,Bhagawanpur Rural Municipality,Siraha,Madhesh Province
-169,Nawarajpur Rural Municipality,Siraha,Madhesh Province
-170,Bariyarpatti Rural Municipality,Siraha,Madhesh Province
-171,Aurahi Rural Municipality,Siraha,Madhesh Province
-172,Siraha Municipality,Siraha,Madhesh Province
-173,DHANUSA,Dhanusa,Madhesh Province
-174,Ganeshman Charnath Municipality,Dhanusa,Madhesh Province
-175,Dhanushadham Municipality,Dhanusa,Madhesh Province
-176,Mithila Municipality,Dhanusa,Madhesh Province
-177,Bateshwor Rural Municipality,Dhanusa,Madhesh Province
-178,Chhireshwornath Municipality,Dhanusa,Madhesh Province
-179,Laxminiya Rural Municipality,Dhanusa,Madhesh Province
-180,Mithila Bihari Municipality,Dhanusa,Madhesh Province
-181,Hansapur Municipality,Dhanusa,Madhesh Province
-182,Sabaila Municipality,Dhanusa,Madhesh Province
-183,Shahidnagar Municipality,Dhanusa,Madhesh Province
-184,Kamala Municipality,Dhanusa,Madhesh Province
-185,Janak Nandini Rural Municipality,Dhanusa,Madhesh Province
-186,Bideha Municipality,Dhanusa,Madhesh Province
-187,Aurahi Rural Municipality,Dhanusa,Madhesh Province
-188,Janakpur Sub-Metropolitan City,Dhanusa,Madhesh Province
-189,Dhanauji Rural Municipality,Dhanusa,Madhesh Province
-190,Nagarain Municipality,Dhanusa,Madhesh Province
-191,Mukhiyapatti Musaharmiya Rural Municipality,Dhanusa,Madhesh Province
-192,MAHOTTARI,Mahottari,Madhesh Province
-193,Bardibas Municipality,Mahottari,Madhesh Province
-194,Gaushala Municipality,Mahottari,Madhesh Province
-195,Sonama Rural Municipality,Mahottari,Madhesh Province
-196,Aurahi Municipality,Mahottari,Madhesh Province
-197,Bhangaha Municipality,Mahottari,Madhesh Province
-198,Loharpatti Municipality,Mahottari,Madhesh Province
-199,Balawa Municipality,Mahottari,Madhesh Province
-200,Ram Gopalpur Municipality,Mahottari,Madhesh Province
-201,Samsi Rural Municipality,Mahottari,Madhesh Province
-202,Manara Shisawa Municipality,Mahottari,Madhesh Province
-203,Ekadara Rural Municipality,Mahottari,Madhesh Province
-204,Mahottari Rural Municipality,Mahottari,Madhesh Province
-205,Pipara Rural Municipality,Mahottari,Madhesh Province
-206,Matihani Municipality,Mahottari,Madhesh Province
-207,Jaleshwor Municipality,Mahottari,Madhesh Province
-208,Lalbandi Municipality,Sarlahi,Madhesh Province
-209,Hariwan Municipality,Sarlahi,Madhesh Province
-210,Bagmati Municipality,Sarlahi,Madhesh Province
-211,Barahathawa Municipality,Sarlahi,Madhesh Province
-212,Haripur Municipality,Sarlahi,Madhesh Province
-213,Ishworpur Municipality,Sarlahi,Madhesh Province
-214,Haripurwa Municipality,Sarlahi,Madhesh Province
-215,Parsa Rural Municipality,Sarlahi,Madhesh Province
-216,Brahmapuri Rural Municipality,Sarlahi,Madhesh Province
-217,Chandranagar Rural Municipality,Sarlahi,Madhesh Province
-218,Kabilashi Municipality,Sarlahi,Madhesh Province
-219,Chakraghatta Rural Municipality,Sarlahi,Madhesh Province
-220,Basbariya Rural Municipality,Sarlahi,Madhesh Province
-221,Dhanakaul Rural Municipality,Sarlahi,Madhesh Province
-222,Ramnagar Rural Municipality,Sarlahi,Madhesh Province
-223,Balara Municipality,Sarlahi,Madhesh Province
-224,Godaita Municipality,Sarlahi,Madhesh Province
-225,Bishnu Rural Municipality,Sarlahi,Madhesh Province
-226,Kaudena Rural Municipality,Sarlahi,Madhesh Province
-227,Malangawa Municipality,Sarlahi,Madhesh Province
-228,Chandrapur Municipality,Rautahat,Madhesh Province
-229,Gujara Municipality,Rautahat,Madhesh Province
-230,Phatuwa Bijayapur Municipality,Rautahat,Madhesh Province
-231,Katahariya Municipality,Rautahat,Madhesh Province
-232,Brindaban Municipality,Rautahat,Madhesh Province
-233,Gadhimai Municipality,Rautahat,Madhesh Province
-234,Madhav Narayan Municipality,Rautahat,Madhesh Province
-235,Garuda Municipality,Rautahat,Madhesh Province
-236,Dewahi Gonahi Municipality,Rautahat,Madhesh Province
-237,Maulapur Municipality,Rautahat,Madhesh Province
-238,Boudhimai Municipality,Rautahat,Madhesh Province
-239,Paroha Municipality,Rautahat,Madhesh Province
-240,Rajpur Municipality,Rautahat,Madhesh Province
-241,Yamunamai Rural Municipality,Rautahat,Madhesh Province
-242,Durga Bhagawati Rural Municipality,Rautahat,Madhesh Province
-243,Rajdevi Municipality,Rautahat,Madhesh Province
-244,Gaur Municipality,Rautahat,Madhesh Province
-245,Ishanath Municipality,Rautahat,Madhesh Province
-246,Nijagadh Municipality,Bara,Madhesh Province
-247,Kolhabi Municipality,Bara,Madhesh Province
-248,Jitpur Simara Sub-Metropolitan City,Bara,Madhesh Province
-249,Parawanipur Rural Municipality,Bara,Madhesh Province
-250,Prasauni Rural Municipality,Bara,Madhesh Province
-251,Bishrampur Rural Municipality,Bara,Madhesh Province
-252,Pheta Rural Municipality,Bara,Madhesh Province
-253,Kalaiya Sub-Metropolitan City,Bara,Madhesh Province
-254,Karaiyamai Rural Municipality,Bara,Madhesh Province
-255,Baragadhi Rural Municipality,Bara,Madhesh Province
-256,Aadarsha Kotwal Rural Municipality,Bara,Madhesh Province
-257,Simroungadh Municipality,Bara,Madhesh Province
-258,Pacharauta Municipality,Bara,Madhesh Province
-259,Mahagadhimai Municipality,Bara,Madhesh Province
-260,Devtal Rural Municipality,Bara,Madhesh Province
-261,Subarna Rural Municipality,Bara,Madhesh Province
-262,Thori Rural Municipality,Parsa,Madhesh Province
-263,Jirabhawani Rural Municipality,Parsa,Madhesh Province
-264,Jagarnathpur Rural Municipality,Parsa,Madhesh Province
-265,Paterwa Sugauli Rural Municipality,Parsa,Madhesh Province
-266,Sakhuwa Prasauni Rural Municipality,Parsa,Madhesh Province
-267,Parsagadhi Municipality,Parsa,Madhesh Province
-268,Birgunj Metropolitan City,Parsa,Madhesh Province
-269,Bahudarmai Municipality,Parsa,Madhesh Province
-270,Pokhariya Municipality,Parsa,Madhesh Province
-271,Kalikamai Rural Municipality,Parsa,Madhesh Province
-272,Dhobini Rural Municipality,Parsa,Madhesh Province
-273,Chhipaharmai Rural Municipality,Parsa,Madhesh Province
-274,Pakaha Mainpur Rural Municipality,Parsa,Madhesh Province
-275,Bindabasini Rural Municipality,Parsa,Madhesh Province
-276,Gaurishankar Rural Municipality,Dolakha,Bagmati Province
-277,Bigu Rural Municipality,Dolakha,Bagmati Province
-278,Kalinchowk Rural Municipality,Dolakha,Bagmati Province
-279,Baitedhar Rural Municipality,Dolakha,Bagmati Province
-280,Jiri Municipality,Dolakha,Bagmati Province
-281,Tamakoshi Rural Municipality,Dolakha,Bagmati Province
-282,Melung Rural Municipality,Dolakha,Bagmati Province
-283,Shailung Rural Municipality,Dolakha,Bagmati Province
-284,Bhimeshwor Municipality,Dolakha,Bagmati Province
-285,Bhotekoshi Rural Municipality,Sindhupalchok,Bagmati Province
-286,Jugal Rural Municipality,Sindhupalchok,Bagmati Province
-287,Panchpokhari Thangpal Rural Municipality,Sindhupalchok,Bagmati Province
-288,Helambu Rural Municipality,Sindhupalchok,Bagmati Province
-289,Melanchi Municipality,Sindhupalchok,Bagmati Province
-290,Indrawoti Rural Municipality,Sindhupalchok,Bagmati Province
-291,Choutara Sangachowkgadhi Municipality,Sindhupalchok,Bagmati Province
-292,Balephi Rural Municipality,Sindhupalchok,Bagmati Province
-293,Bahrabise Municipality,Sindhupalchok,Bagmati Province
-294,Tripurasundari Rural Municipality,Sindhupalchok,Bagmati Province
-295,Lisankhu Pakhar Rural Municipality,Sindhupalchok,Bagmati Province
-296,Sunkoshi Rural Municipality,Sindhupalchok,Bagmati Province
-297,Gosaikunda Rural Municipality,Rasuwa,Bagmati Province
-298,Parbatikunda Rural Municipality,Rasuwa,Bagmati Province
-299,Uttargaya Rural Municipality,Rasuwa,Bagmati Province
-300,Kalika Rural Municipality,Rasuwa,Bagmati Province
-301,Naukunda Rural Municipality,Rasuwa,Bagmati Province
-302,Rubi Valley Rural Municipality,Dhading,Bagmati Province
-303,Khaniyabas Rural Municipality,Dhading,Bagmati Province
-304,Ganga Jamuna Rural Municipality,Dhading,Bagmati Province
-305,Tripurasundari Rural Municipality,Dhading,Bagmati Province
-306,Netrawati Rural Municipality,Dhading,Bagmati Province
-307,Nilkhantha Municipality,Dhading,Bagmati Province
-308,Jwalamukhi Rural Municipality,Dhading,Bagmati Province
-309,Siddhalek Rural Municipality,Dhading,Bagmati Province
-310,Benighat Rorang Rural Municipality,Dhading,Bagmati Province
-311,Gajuri Rural Municipality,Dhading,Bagmati Province
-312,Galchhi Rural Municipality,Dhading,Bagmati Province
-313,Thakre Rural Municipality,Dhading,Bagmati Province
-314,Dhunibenshi Municipality,Dhading,Bagmati Province
-315,Dupcheshwor Rural Municipality,Nuwakot,Bagmati Province
-316,Tadi Rural Municipality,Nuwakot,Bagmati Province
-317,Suryagadhi Rural Municipality,Nuwakot,Bagmati Province
-318,Bidur Municipality,Nuwakot,Bagmati Province
-319,Kispang Rural Municipality,Nuwakot,Bagmati Province
-320,Meghang Rural Municipality,Nuwakot,Bagmati Province
-321,Tarakeshwor Rural Municipality,Nuwakot,Bagmati Province
-322,Belkotgadhi Municipality,Nuwakot,Bagmati Province
-323,Likhu Rural Municipality,Nuwakot,Bagmati Province
-324,Panchakanya Rural Municipality,Nuwakot,Bagmati Province
-325,Shivapuri Rural Municipality,Nuwakot,Bagmati Province
-326,Kakani Rural Municipality,Nuwakot,Bagmati Province
-327,Shankharapur Municipality,Kathmandu,Bagmati Province
-328,Kageshwori Manahara Municipality,Kathmandu,Bagmati Province
-329,Gokarneshwor Municipality,Kathmandu,Bagmati Province
-330,Budhanilkhantha Municipality,Kathmandu,Bagmati Province
-331,Tokha Municipality,Kathmandu,Bagmati Province
-332,Tarakeshwor Municipality,Kathmandu,Bagmati Province
-333,Nagarjun Municipality,Kathmandu,Bagmati Province
-334,Kathmandu Metropolitan City,Kathmandu,Bagmati Province
-335,Kirtipur Municipality,Kathmandu,Bagmati Province
-336,Chandragiri Municipality,Kathmandu,Bagmati Province
-337,Dakshinkali Municipality,Kathmandu,Bagmati Province
-338,Changunarayan Municipality,Bhaktapur,Bagmati Province
-339,Bhaktapur Municipality,Bhaktapur,Bagmati Province
-340,Madhyapur Thimi Municipality,Bhaktapur,Bagmati Province
-341,Suryabinayak Municipality,Bhaktapur,Bagmati Province
-342,Mahalaxmi Municipality,Lalitpur,Bagmati Province
-343,Lalitpur Metropolitan City,Lalitpur,Bagmati Province
-344,Godawari Municipality,Lalitpur,Bagmati Province
-345,Konjyosom Rural Municipality,Lalitpur,Bagmati Province
-346,Mahankal Rural Municipality,Lalitpur,Bagmati Province
-347,Bagmati Rural Municipality,Lalitpur,Bagmati Province
-348,Chauri Deurali Rural Municipality,Kavrepalanchok,Bagmati Province
-349,Bhumlu Rural Municipality,Kavrepalanchok,Bagmati Province
-350,Mandan Deupur Municipality,Kavrepalanchok,Bagmati Province
-351,Banepa Municipality,Kavrepalanchok,Bagmati Province
-352,Dhulikhel Municipality,Kavrepalanchok,Bagmati Province
-353,Panchkhal Municipality,Kavrepalanchok,Bagmati Province
-354,Temal Rural Municipality,Kavrepalanchok,Bagmati Province
-355,Namobuddha Municipality,Kavrepalanchok,Bagmati Province
-356,Panauti Municipality,Kavrepalanchok,Bagmati Province
-357,Bethanchowk Rural Municipality,Kavrepalanchok,Bagmati Province
-358,Roshi Rural Municipality,Kavrepalanchok,Bagmati Province
-359,Mahabharat Rural Municipality,Kavrepalanchok,Bagmati Province
-360,Khanikhola Rural Municipality,Kavrepalanchok,Bagmati Province
-361,Umakunda Rural Municipality,Ramechhap,Bagmati Province
-362,Gokulganga Rural Municipality,Ramechhap,Bagmati Province
-363,Likhu Rural Municipality,Ramechhap,Bagmati Province
-364,Ramechhap Municipality,Ramechhap,Bagmati Province
-365,Manthali Municipality,Ramechhap,Bagmati Province
-366,Khandadevi Rural Municipality,Ramechhap,Bagmati Province
-367,Doramba Rural Municipality,Ramechhap,Bagmati Province
-368,Sunapati Rural Municipality,Ramechhap,Bagmati Province
-369,Dudhouli Municipality,Sindhuli,Bagmati Province
-370,Phikkal Rural Municipality,Sindhuli,Bagmati Province
-371,Tinpatan Rural Municipality,Sindhuli,Bagmati Province
-372,Golanjor Rural Municipality,Sindhuli,Bagmati Province
-373,Kamalamai Municipality,Sindhuli,Bagmati Province
-374,Sunkoshi Rural Municipality,Sindhuli,Bagmati Province
-375,Ghyanglekha Rural Municipality,Sindhuli,Bagmati Province
-376,Marin Rural Municipality,Sindhuli,Bagmati Province
-377,Hariharpurgaghi Rural Municipality,Sindhuli,Bagmati Province
-378,Indrasarowar Rural Municipality,Makwanpur,Bagmati Province
-379,Thaha Municipality,Makwanpur,Bagmati Province
-380,Kailash Rural Municipality,Makwanpur,Bagmati Province
-381,Raksirang Rural Municipality,Makwanpur,Bagmati Province
-382,Manahari Rural Municipality,Makwanpur,Bagmati Province
-383,Hetauda Sub-Metropolitan City,Makwanpur,Bagmati Province
-384,Bhimphedi Rural Municipality,Makwanpur,Bagmati Province
-385,Makawanpurgadhi Rural Municipality,Makwanpur,Bagmati Province
-386,Bakaiya Rural Municipality,Makwanpur,Bagmati Province
-387,Bagmati Rural Municipality,Makwanpur,Bagmati Province
-388,CHITAWAN,Chitwan,Bagmati Province
-389,Rapti Municipality,Chitwan,Bagmati Province
-390,Kalika Municipality,Chitwan,Bagmati Province
-391,Ichchha Kamana Rural Municipality,Chitwan,Bagmati Province
-392,Bharatpur Metropolitan City,Chitwan,Bagmati Province
-393,Ratnanagar Municipality,Chitwan,Bagmati Province
-394,Khairahani Municipality,Chitwan,Bagmati Province
-395,Madi Municipality,Chitwan,Bagmati Province
-396,Chumanubri Rural Municipality,Gorkha,Gandaki Province
-397,Ajirkot Rural Municipality,Gorkha,Gandaki Province
-398,Sulikot Rural Municipality,Gorkha,Gandaki Province
-399,Dharche Rural Municipality,Gorkha,Gandaki Province
-400,Aarughat Rural Municipality,Gorkha,Gandaki Province
-401,Bhimsen Rural Municipality,Gorkha,Gandaki Province
-402,Siranchowk Rural Municipality,Gorkha,Gandaki Province
-403,Palungtar Municipality,Gorkha,Gandaki Province
-404,Gorkha Municipality,Gorkha,Gandaki Province
-405,Shahid Lakhan Rural Municipality,Gorkha,Gandaki Province
-406,Gandaki Rural Municipality,Gorkha,Gandaki Province
-407,Naraphu Rural Municipality,Manang,Gandaki Province
-408,Neshang Rural Municipality,Manang,Gandaki Province
-409,Chame Rural Municipality,Manang,Gandaki Province
-410,Nashong Rural Municipality,Manang,Gandaki Province
-411,Dalome Rural Municipality,Mustang,Gandaki Province
-412,Gharpajhong Rural Municipality,Mustang,Gandaki Province
-413,Bahragaun Muktikshetra Rural Municipality,Mustang,Gandaki Province
-414,Lomanthang Rural Municipality,Mustang,Gandaki Province
-415,Thasang Rural Municipality,Mustang,Gandaki Province
-416,Annapurna Rural Municipality,Myagdi,Gandaki Province
-417,Raghuganga Rural Municipality,Myagdi,Gandaki Province
-418,Dhawalagiri Rural Municipality,Myagdi,Gandaki Province
-419,Malika Rural Municipality,Myagdi,Gandaki Province
-420,Mangala Rural Municipality,Myagdi,Gandaki Province
-421,Beni Municipality,Myagdi,Gandaki Province
-422,Madi Rural Municipality,Kaski,Gandaki Province
-423,Machhapuchchhre Rural Municipality,Kaski,Gandaki Province
-424,Annapurna Rural Municipality,Kaski,Gandaki Province
-425,Pokhara Lekhnath Metropolitan City,Kaski,Gandaki Province
-426,Rupa Rural Municipality,Kaski,Gandaki Province
-427,Dordi Rural Municipality,Lamjung,Gandaki Province
-428,Marshyangdi Rural Municipality,Lamjung,Gandaki Province
-429,Kwhola Sothar Rural Municipality,Lamjung,Gandaki Province
-430,Madhya Nepal Municipality,Lamjung,Gandaki Province
-431,Bensi Shahar Municipality,Lamjung,Gandaki Province
-432,Sundarbazar Municipality,Lamjung,Gandaki Province
-433,Rainas Municipality,Lamjung,Gandaki Province
-434,Dudhapokhari Rural Municipality,Lamjung,Gandaki Province
-435,Bhanu Municipality,Tanahun,Gandaki Province
-436,Byas Municipality,Tanahun,Gandaki Province
-437,Myagde Rural Municipality,Tanahun,Gandaki Province
-438,Shuklagandaki Municipality,Tanahun,Gandaki Province
-439,Bhimad Municipality,Tanahun,Gandaki Province
-440,Ghiring Rural Municipality,Tanahun,Gandaki Province
-441,Rhishing Rural Municipality,Tanahun,Gandaki Province
-442,Devghat Rural Municipality,Tanahun,Gandaki Province
-443,Bandipur Rural Municipality,Tanahun,Gandaki Province
-444,Aanbu Khaireni Rural Municipality,Tanahun,Gandaki Province
-445,Gaidakot Municipality,Nawalpur,Gandaki Province
-446,Bulingtar Rural Municipality,Nawalpur,Gandaki Province
-447,Bungdikali Rural Municipality,Nawalpur,Gandaki Province
-448,Hupsekot Rural Municipality,Nawalpur,Gandaki Province
-449,Devchuli Municipality,Nawalpur,Gandaki Province
-450,Kawasoti Municipality,Nawalpur,Gandaki Province
-451,Madhya Bindu Municipality,Nawalpur,Gandaki Province
-452,Binayi Tribeni Rural Municipality,Nawalpur,Gandaki Province
-453,Putalibazar Municipality,Syangja,Gandaki Province
-454,Phedikhola Rural Municipality,Syangja,Gandaki Province
-455,Aandhikhola Rural Municipality,Syangja,Gandaki Province
-456,Arjun Choupari Rural Municipality,Syangja,Gandaki Province
-457,Bhirkot Municipaity,Syangja,Gandaki Province
-458,Biruwa Rural Municipality,Syangja,Gandaki Province
-459,Harinas Rural Municipality,Syangja,Gandaki Province
-460,Chapakot Municipality,Syangja,Gandaki Province
-461,Walling Municipality,Syangja,Gandaki Province
-462,Galyang Municipality,Syangja,Gandaki Province
-463,Kaligandaki Rural Municipality,Syangja,Gandaki Province
-464,Modi Rural Municipality,Parbat,Gandaki Province
-465,Jaljala Rural Municipality,Parbat,Gandaki Province
-466,Kushma Municipality,Parbat,Gandaki Province
-467,Phalebas Municipality,Parbat,Gandaki Province
-468,Mahashila Rural Municipality,Parbat,Gandaki Province
-469,Bihadi Rural Municipality,Parbat,Gandaki Province
-470,Paiyu Rural Municipality,Parbat,Gandaki Province
-471,Baglung Municipality,Baglung,Gandaki Province
-472,Kathekhola Rural Municipality,Baglung,Gandaki Province
-473,Tarakhola Rural Municipality,Baglung,Gandaki Province
-474,Tamankhola Rural Municipality,Baglung,Gandaki Province
-475,Dhorpatan Municipality,Baglung,Gandaki Province
-476,Nisikhola Rural Municipality,Baglung,Gandaki Province
-477,Badigad Rural Municipality,Baglung,Gandaki Province
-478,Galkot Municipality,Baglung,Gandaki Province
-479,Bareng Rural Municipality,Baglung,Gandaki Province
-480,Jaimuni Municipality,Baglung,Gandaki Province
-481,Putha Uttanganga Rural Municipality,Rukum East,Lumbini Province
-482,Sisne Rural Municipality,Rukum East,Lumbini Province
-483,Bhoome Rural Municipality,Rukum East,Lumbini Province
-484,Sunchhahari Rural Municipality,Rolpa,Lumbini Province
-485,Thawang Rural Municipality,Rolpa,Lumbini Province
-486,Paribartan Rural Municipality,Rolpa,Lumbini Province
-487,Gangadev Rural Municipality,Rolpa,Lumbini Province
-488,Madi Rural Municipality,Rolpa,Lumbini Province
-489,Tribeni Rural Municipality,Rolpa,Lumbini Province
-490,Rolpa Municipality,Rolpa,Lumbini Province
-491,Runtigadhi Rural Municipality,Rolpa,Lumbini Province
-492,Sunil Smriti Rural Municipality,Rolpa,Lumbini Province
-493,Lungri Rural Municipality,Rolpa,Lumbini Province
-494,Gaumukhi Rural Municipality,Pyuthan,Lumbini Province
-495,Naubahini Rural Municipality,Pyuthan,Lumbini Province
-496,Jhimaruk Rural Municipality,Pyuthan,Lumbini Province
-497,Pyuthan Municipality,Pyuthan,Lumbini Province
-498,Sworgadwari Municipality,Pyuthan,Lumbini Province
-499,Mandavi Rural Municipality,Pyuthan,Lumbini Province
-500,Mallarani Rural Municipality,Pyuthan,Lumbini Province
-501,Aairawati Rural Municipality,Pyuthan,Lumbini Province
-502,Sarumarani Rural Municipality,Pyuthan,Lumbini Province
-503,Kali Gandaki Rural Municipality,Gulmi,Lumbini Province
-504,Satyawoti Rural Municipality,Gulmi,Lumbini Province
-505,Chandrakot Rural Municipality,Gulmi,Lumbini Province
-506,Musikot Municipality,Gulmi,Lumbini Province
-507,Isma Rural Municipality,Gulmi,Lumbini Province
-508,Malika Rural Municipality,Gulmi,Lumbini Province
-509,Madane Rural Municipality,Gulmi,Lumbini Province
-510,Dhurkot Rural Municipality,Gulmi,Lumbini Province
-511,Resunga Municipality,Gulmi,Lumbini Province
-512,Gulmi Durbar Rural Municipality,Gulmi,Lumbini Province
-513,Chhatrakot Rural Municipality,Gulmi,Lumbini Province
-514,Ruru Rural Municipality,Gulmi,Lumbini Province
-515,Chhatradev Rural Municipality,Arghakhanchi,Lumbini Province
-516,Malarani Rural Municipality,Arghakhanchi,Lumbini Province
-517,Bhumikasthan Municipality,Arghakhanchi,Lumbini Province
-518,Sandhikharka Municipality,Arghakhanchi,Lumbini Province
-519,Panini Rural Municipality,Arghakhanchi,Lumbini Province
-520,Shitaganga Municipality,Arghakhanchi,Lumbini Province
-521,Rampur Municipality,Palpa,Lumbini Province
-522,Purbakhola Rural Municipality,Palpa,Lumbini Province
-523,Rambha Rural Municipality,Palpa,Lumbini Province
-524,Baganaskali Rural Municipality,Palpa,Lumbini Province
-525,Tansen Municipality,Palpa,Lumbini Province
-526,Ribdikot Rural Municipality,Palpa,Lumbini Province
-527,Rainadevi Chhahara Rural Municipality,Palpa,Lumbini Province
-528,Tinau Rural Municipality,Palpa,Lumbini Province
-529,Mathagadhi Rural Municipality,Palpa,Lumbini Province
-530,Nisdi Rural Municipality,Palpa,Lumbini Province
-531,Bardaghat Municipality,Parasi,Lumbini Province
-532,Sunawal Municipality,Parasi,Lumbini Province
-533,Ramgram Municipality,Parasi,Lumbini Province
-534,Palhinandan Rural Municipality,Parasi,Lumbini Province
-535,Sarawal Rural Municipality,Parasi,Lumbini Province
-536,Pratapapur Rural Municipality,Parasi,Lumbini Province
-537,Susta Rural Municipality,Parasi,Lumbini Province
-538,Devdaha Municipality,Rupandehi,Lumbini Province
-539,Butwal Sub-Metropolitan City,Rupandehi,Lumbini Province
-540,Sainamaina Municipality,Rupandehi,Lumbini Province
-541,Kanchan Rural Municipality,Rupandehi,Lumbini Province
-542,Gaidahawa Rural Municipality,Rupandehi,Lumbini Province
-543,Suddhodhan Rural Municipality,Rupandehi,Lumbini Province
-544,Siyari Rural Municipality,Rupandehi,Lumbini Province
-545,Tilottama Municipality,Rupandehi,Lumbini Province
-546,Om Satiya Rural Municipality,Rupandehi,Lumbini Province
-547,Rohini Rural Municipality,Rupandehi,Lumbini Province
-548,Siddharthanagar Municipality,Rupandehi,Lumbini Province
-549,Mayadevi Rural Municipality,Rupandehi,Lumbini Province
-550,Lumbini Sanskritik Municipality,Rupandehi,Lumbini Province
-551,Kotahimai Rural Municipality,Rupandehi,Lumbini Province
-552,Sammarimai Rural Municipality,Rupandehi,Lumbini Province
-553,Marchawari Rural Municipality,Rupandehi,Lumbini Province
-554,Banganga Municipality,Kapilbastu,Lumbini Province
-555,Buddhabhumi Municipality,Kapilbastu,Lumbini Province
-556,Shivaraj Municipality,Kapilbastu,Lumbini Province
-557,Bijayanagar Rural Municipality,Kapilbastu,Lumbini Province
-558,Krishnanagar Municipality,Kapilbastu,Lumbini Province
-559,Maharajganj Municipality,Kapilbastu,Lumbini Province
-560,Kapilbastu Municipality,Kapilbastu,Lumbini Province
-561,Yasodhara Rural Municipality,Kapilbastu,Lumbini Province
-562,Mayadevi Rural Municipality,Kapilbastu,Lumbini Province
-563,Shuddhodhan Rural Municipality,Kapilbastu,Lumbini Province
-564,Bangalachuli Rural Municipality,Dang,Lumbini Province
-565,Ghorahi Sub-Metropolitan City,Dang,Lumbini Province
-566,Tulsipur Sub-Metropolitan City,Dang,Lumbini Province
-567,Shantinagar Rural Municipality,Dang,Lumbini Province
-568,Babai Rural Municipality,Dang,Lumbini Province
-569,Dangisharan Rural Municipality,Dang,Lumbini Province
-570,Lamahi Municipality,Dang,Lumbini Province
-571,Rapti Rural Municipality,Dang,Lumbini Province
-572,Gadhawa Rural Municipality,Dang,Lumbini Province
-573,Rajpur Rural Municipality,Dang,Lumbini Province
-574,Rapti Sonari Rural Municipality,Banke,Lumbini Province
-575,Kohalpur Municipality,Banke,Lumbini Province
-576,Baijanath Rural Municipality,Banke,Lumbini Province
-577,Khajura Rural Municipality,Banke,Lumbini Province
-578,Janaki Rural Municipality,Banke,Lumbini Province
-579,Nepalganj Sub-Metropolitan City,Banke,Lumbini Province
-580,Duduwa Rural Municipality,Banke,Lumbini Province
-581,Narainapur Rural Municipality,Banke,Lumbini Province
-582,Bansgadhi Municipality,Bardiya,Lumbini Province
-583,Barbardiya Municipality,Bardiya,Lumbini Province
-584,Thakurbaba Municipality,Bardiya,Lumbini Province
-585,Geruwa Rural Municipality,Bardiya,Lumbini Province
-586,Rajapur Municipality,Bardiya,Lumbini Province
-587,Madhuwan Municipality,Bardiya,Lumbini Province
-588,Gulariya Municipality,Bardiya,Lumbini Province
-589,Badhaiyatal Rural Municipality,Bardiya,Lumbini Province
-590,Aathabisakot Municipality,Rukum West,Karnali Province
-591,Sanibheri Rural Municipality,Rukum West,Karnali Province
-592,Banphikot Rural Municipality,Rukum West,Karnali Province
-593,Musikot Municipality,Rukum West,Karnali Province
-594,Tribeni Rural Municipality,Rukum West,Karnali Province
-595,Chaurjahari Municipality,Rukum West,Karnali Province
-596,Dolpo Buddha Rural Municipality,Dolpa,Karnali Province
-597,Shey Phoksundo Rural Municipality,Dolpa,Karnali Province
-598,Jagadulla Rural Municipality,Dolpa,Karnali Province
-599,Mudkechula Rural Municipality,Dolpa,Karnali Province
-600,Tripurasundari Municipality,Dolpa,Karnali Province
-601,Thulibheri Municipality,Dolpa,Karnali Province
-602,Kaike Rural Municipality,Dolpa,Karnali Province
-603,Chharka Tangsong Rural Municipality,Dolpa,Karnali Province
-604,Mugumkarmarog Rural Municipality,Mugu,Karnali Province
-605,Chhayanath Rara Municipality,Mugu,Karnali Province
-606,Soru Rural Municipality,Mugu,Karnali Province
-607,Khatyad Rural Municipality,Mugu,Karnali Province
-608,Chankheli Rural Municipality,Humla,Karnali Province
-609,Kharpunath Rural Municipality,Humla,Karnali Province
-610,Simkot Rural Municipality,Humla,Karnali Province
-611,Namkha Rural Municipality,Humla,Karnali Province
-612,Sarkegad Rural Municipality,Humla,Karnali Province
-613,Adanchuli Rural Municipality,Humla,Karnali Province
-614,Tanjakot Rural Municipality,Humla,Karnali Province
-615,Patarasi Rural Municipality,Jumla,Karnali Province
-616,Kanaka Sundari Rural Municipality,Jumla,Karnali Province
-617,Sinja Rural Municipality,Jumla,Karnali Province
-618,Chandannath Municipality,Jumla,Karnali Province
-619,Guthichaur Rural Municipality,Jumla,Karnali Province
-620,Tatopani Rural Municipality,Jumla,Karnali Province
-621,Tila Rural Municipality,Jumla,Karnali Province
-622,Hima Rural Municipality,Jumla,Karnali Province
-623,Palata Rural Municipality,Kalikot,Karnali Province
-624,Pachal Jharana Rural Municipality,Kalikot,Karnali Province
-625,Raskot Municipality,Kalikot,Karnali Province
-626,Sanni Tribeni Rural Municipality,Kalikot,Karnali Province
-627,Naraharinath Rural Municipality,Kalikot,Karnali Province
-628,Khandachakra Municipality,Kalikot,Karnali Province
-629,Tilagupha Municipality,Kalikot,Karnali Province
-630,Mahawai Rural Municipality,Kalikot,Karnali Province
-631,Kalika Rural Municipality,Kalikot,Karnali Province
-632,Naumule Rural Municipality,Dailekh,Karnali Province
-633,Mahabu Rural Municipality,Dailekh,Karnali Province
-634,Bhairabi Rural Municipality,Dailekh,Karnali Province
-635,Thantikandh Rural Municipality,Dailekh,Karnali Province
-636,Aathbis Municipality,Dailekh,Karnali Province
-637,Chamunda Bindrasaini Municipality,Dailekh,Karnali Province
-638,Dullu Municipality,Dailekh,Karnali Province
-639,Narayan Municipality,Dailekh,Karnali Province
-640,Bhagawatimai Rural Municipality,Dailekh,Karnali Province
-641,Dungeshwor Rural Municipality,Dailekh,Karnali Province
-642,Gurans Rural Municipality,Dailekh,Karnali Province
-643,Barekot Rural Municipality,Jajarkot,Karnali Province
-644,Kuse Rural Municipality,Jajarkot,Karnali Province
-645,Junichande Rural Municipality,Jajarkot,Karnali Province
-646,Chhedagad Municipality,Jajarkot,Karnali Province
-647,Shivalaya Rural Municipality,Jajarkot,Karnali Province
-648,Bheri Malika Municipality,Jajarkot,Karnali Province
-649,Tribeni Nalagad Municipality,Jajarkot,Karnali Province
-650,Darma Rural Municipality,Salyan,Karnali Province
-651,Kumakh Malika Rural Municipality,Salyan,Karnali Province
-652,Banagad Kupinde Municipality,Salyan,Karnali Province
-653,Dhorchaur Rural Municipality,Salyan,Karnali Province
-654,Bagachour Municipality,Salyan,Karnali Province
-655,Chhatreshwori Rural Municipality,Salyan,Karnali Province
-656,Sharada Municipality,Salyan,Karnali Province
-657,Kalimati Rural Municipality,Salyan,Karnali Province
-658,Tribeni Rural Municipality,Salyan,Karnali Province
-659,Kapurkot Rural Municipality,Salyan,Karnali Province
-660,Simta Rural Municipality,Surkhet,Karnali Province
-661,Chingad Rural Municipality,Surkhet,Karnali Province
-662,Lekabeshi Municipality,Surkhet,Karnali Province
-663,Gurbhakot Municipality,Surkhet,Karnali Province
-664,Bheriganga Municipality,Surkhet,Karnali Province
-665,Birendranagar Municipality,Surkhet,Karnali Province
-666,Barahatal Rural Municipality,Surkhet,Karnali Province
-667,Panchapuri Municipality,Surkhet,Karnali Province
-668,Chaukune Rural Municipality,Surkhet,Karnali Province
-669,Himali Rural Municipality,Bajura,Sudurpashchim Province
-670,Gaumul Rural Municipality,Bajura,Sudurpashchim Province
-671,Budhinanda Municipality,Bajura,Sudurpashchim Province
-672,Swami Kartik Rural Municipality,Bajura,Sudurpashchim Province
-673,Jagannath Rural Municipality,Bajura,Sudurpashchim Province
-674,Badimalika Municipality,Bajura,Sudurpashchim Province
-675,Khaptad Chhededaha Rural Municipality,Bajura,Sudurpashchim Province
-676,Budhiganga Municipality,Bajura,Sudurpashchim Province
-677,Tribeni Municipality,Bajura,Sudurpashchim Province
-678,Kanda Rural Municipality,Bajhang,Sudurpashchim Province
-679,Bungal Municipality,Bajhang,Sudurpashchim Province
-680,Surma Rural Municipality,Bajhang,Sudurpashchim Province
-681,Talkot Rural Municipality,Bajhang,Sudurpashchim Province
-682,Masta Rural Municipality,Bajhang,Sudurpashchim Province
-683,Jayaprithbi Municipality,Bajhang,Sudurpashchim Province
-684,Chhabis Pathibhara Rural Municipality,Bajhang,Sudurpashchim Province
-685,Durgathali Rural Municipality,Bajhang,Sudurpashchim Province
-686,Kedarsyun Rural Municipality,Bajhang,Sudurpashchim Province
-687,Bitthadchir Rural Municipality,Bajhang,Sudurpashchim Province
-688,Thalara Rural Municipality,Bajhang,Sudurpashchim Province
-689,Khaptad Chhanna Rural Municipality,Bajhang,Sudurpashchim Province
-690,Byas Rural Municipality,Darchula,Sudurpashchim Province
-691,Duhun Rural Municipality,Darchula,Sudurpashchim Province
-692,Mahakali Municipality,Darchula,Sudurpashchim Province
-693,Naugad Rural Municipality,Darchula,Sudurpashchim Province
-694,Apihimal Rural Municipality,Darchula,Sudurpashchim Province
-695,Marma Rural Municipality,Darchula,Sudurpashchim Province
-696,Shailyashikhar Municipality,Darchula,Sudurpashchim Province
-697,Malikarjun Rural Municipality,Darchula,Sudurpashchim Province
-698,Lekam Rural Municipality,Darchula,Sudurpashchim Province
-699,Dilasaini Rural Municipality,Baitadi,Sudurpashchim Province
-700,Dogada Kedar Rural Municipality,Baitadi,Sudurpashchim Province
-701,Puchaundi Municipality,Baitadi,Sudurpashchim Province
-702,Surnaya Rural Municipality,Baitadi,Sudurpashchim Province
-703,Dasharathchand Municipality,Baitadi,Sudurpashchim Province
-704,Pancheshwor Rural Municipality,Baitadi,Sudurpashchim Province
-705,Shivanath Rural Municipality,Baitadi,Sudurpashchim Province
-706,Melauli Municipality,Baitadi,Sudurpashchim Province
-707,Patan Municipality,Baitadi,Sudurpashchim Province
-708,Sigas Rural Municipality,Baitadi,Sudurpashchim Province
-709,Nawadurga Rural Municipality,Dadeldhura,Sudurpashchim Province
-710,Amargadhi Municipality,Dadeldhura,Sudurpashchim Province
-711,Ajayameru Rural Municipality,Dadeldhura,Sudurpashchim Province
-712,Bhageshwor Rural Municipality,Dadeldhura,Sudurpashchim Province
-713,Parashuram Municipality,Dadeldhura,Sudurpashchim Province
-714,Aalital Rural Municipality,Dadeldhura,Sudurpashchim Province
-715,Ganyapdhura Rural Municipality,Dadeldhura,Sudurpashchim Province
-716,Purbichouki Rural Municipality,Doti,Sudurpashchim Province
-717,Sayal Rural Municipality,Doti,Sudurpashchim Province
-718,Aadarsha Rural Municipality,Doti,Sudurpashchim Province
-719,Shikhar Municipality,Doti,Sudurpashchim Province
-720,Dipayal Silgadhi Municipality,Doti,Sudurpashchim Province
-721,K.I. Singh Rural Municipality,Doti,Sudurpashchim Province
-722,Bogatan Rural Municipality,Doti,Sudurpashchim Province
-723,Badi Kedar Rural Municipality,Doti,Sudurpashchim Province
-724,Jorayal Rural Municipality,Doti,Sudurpashchim Province
-725,Panchdebal Binayak Municipality,Achham,Sudurpashchim Province
-726,Ramaroshan Rural Municipality,Achham,Sudurpashchim Province
-727,Mellekh Rural Municipality,Achham,Sudurpashchim Province
-728,Sanphebagar Municipality,Achham,Sudurpashchim Province
-729,Chaurpati Rural Municipality,Achham,Sudurpashchim Province
-730,Mangalsen Municipality,Achham,Sudurpashchim Province
-731,Bannigadhi Jayagadh Rural Municipality,Achham,Sudurpashchim Province
-732,Kamal Bazar Municipality,Achham,Sudurpashchim Province
-733,Dhakari Rural Municipality,Achham,Sudurpashchim Province
-734,Turmakhand Rural Municipality,Achham,Sudurpashchim Province
-735,Mohanyal Rural Municipality,Kailali,Sudurpashchim Province
-736,Chure Rural Municipality,Kailali,Sudurpashchim Province
-737,Godawari Municipality,Kailali,Sudurpashchim Province
-738,Gauriganga Municipality,Kailali,Sudurpashchim Province
-739,Ghodaghodi Municipality,Kailali,Sudurpashchim Province
-740,Bardagoriya Rural Municipality,Kailali,Sudurpashchim Province
-741,Lamki Chuha Municipality,Kailali,Sudurpashchim Province
-742,Janaki Rural Municipality,Kailali,Sudurpashchim Province
-743,Joshipur Rural Municipality,Kailali,Sudurpashchim Province
-744,Tikapur Municipality,Kailali,Sudurpashchim Province
-745,Bhajani Municipality,Kailali,Sudurpashchim Province
-746,Kailari Rural Municipality,Kailali,Sudurpashchim Province
-747,Dhangadhi Sub-Metropolitan City,Kailali,Sudurpashchim Province
-748,Krishnapur Municipality,Kanchanpur,Sudurpashchim Province
-749,Shuklaphanta Municipality,Kanchanpur,Sudurpashchim Province
-750,Bedkot Municipality,Kanchanpur,Sudurpashchim Province
-751,Bhimdatta Municipality,Kanchanpur,Sudurpashchim Province
-752,Mahakali Municipality,Kanchanpur,Sudurpashchim Province
-753,Laljhadi Rural Municipality,Kanchanpur,Sudurpashchim Province
-754,Punarbas Municipality,Kanchanpur,Sudurpashchim Province
-755,Belouri Municipality,Kanchanpur,Sudurpashchim Province
-756,Beldandi Rural Municipality,Kanchanpur,Sudurpashchim Province
+1,Aamchowk Gaupalika (Bhojpur),Bhojpur,Province 1
+2,Arun Gaupalika (Bhojpur),Bhojpur,Province 1
+3,Bhojpur Nagarpalika (Bhojpur),Bhojpur,Province 1
+4,Hatuwagadhi Gaupalika (Bhojpur),Bhojpur,Province 1
+5,Pauwa Dunma Gaupalika (Bhojpur),Bhojpur,Province 1
+6,Ramprasad Rai Gaupalika (Bhojpur),Bhojpur,Province 1
+7,Salpa Silichho Gaupalika (Bhojpur),Bhojpur,Province 1
+8,Shadananda Nagarpalika (Bhojpur),Bhojpur,Province 1
+9,Temke Maiyum Gaupalika (Bhojpur),Bhojpur,Province 1
+10,Chaubise Gaupalika (Dhankuta),Dhankuta,Province 1
+11,Chhathar Jorpati Gaupalika (Dhankuta),Dhankuta,Province 1
+12,Dhankuta Nagarpalika (Dhankuta),Dhankuta,Province 1
+13,Khalsa Chhintang Sahidbhumi Gaupalika (Dhankuta),Dhankuta,Province 1
+14,Mahalaxmi Nagarpalika (Dhankuta),Dhankuta,Province 1
+15,Pakhribas Nagarpalika (Dhankuta),Dhankuta,Province 1
+16,Sangurigadhi Gaupalika (Dhankuta),Dhankuta,Province 1
+17,Chulachuli Gaupalika (Ilam),Ilam,Province 1
+18,Deumai Nagarpalika (Ilam),Ilam,Province 1
+19,Fakfokathum Gaupalika (Ilam),Ilam,Province 1
+20,Illam Nagarpalika (Ilam),Ilam,Province 1
+21,Mai Jogmai Gaupalika (Ilam),Ilam,Province 1
+22,Mai Nagarpalika (Ilam),Ilam,Province 1
+23,Mangsebung Gaupalika (Ilam),Ilam,Province 1
+24,Rong Gaupalika (Ilam),Ilam,Province 1
+25,Sandakpur Gaupalika (Ilam),Ilam,Province 1
+26,Suryodaya Nagarpalika (Ilam),Ilam,Province 1
+27,Arjundhara Nagarpalika (Jhapa),Jhapa,Province 1
+28,Barhadashi Gaupalika (Jhapa),Jhapa,Province 1
+29,Bhadrapur Nagarpalika (Jhapa),Jhapa,Province 1
+30,Birtamod Nagarpalika (Jhapa),Jhapa,Province 1
+31,Buddhashanti Gaupalika (Jhapa),Jhapa,Province 1
+32,Damak Nagarpalika (Jhapa),Jhapa,Province 1
+33,Gauradaha Nagarpalika (Jhapa),Jhapa,Province 1
+34,Gauriganj Gaupalika (Jhapa),Jhapa,Province 1
+35,Haldibari Gaupalika (Jhapa),Jhapa,Province 1
+36,Jhapa Gaupalika (Jhapa),Jhapa,Province 1
+37,Kachanakawal Gaupalika (Jhapa),Jhapa,Province 1
+38,Kamal Gaupalika (Jhapa),Jhapa,Province 1
+39,Kankai Nagarpalika (Jhapa),Jhapa,Province 1
+40,Mechinagar Nagarpalika (Jhapa),Jhapa,Province 1
+41,Shivasatakshi Nagarpalika (Jhapa),Jhapa,Province 1
+42,Aiselukharka Gaupalika (Khotang),Khotang,Province 1
+43,Baraha Pokhari Gaupalika (Khotang),Khotang,Province 1
+44,Diktal Rupakot Majhuwagadhi Nagarpalika (Khotang),Khotang,Province 1
+45,Diprung Chuichumma Gaupalika (Khotang),Khotang,Province 1
+46,Halesi Tuwachung Nagarpalika (Khotang),Khotang,Province 1
+47,Jante Dhunga Gaupalika (Khotang),Khotang,Province 1
+48,Kepilasgadhi Gaupalika (Khotang),Khotang,Province 1
+49,Khotehang Gaupalika (Khotang),Khotang,Province 1
+50,RawaBeshi Gaupalika (Khotang),Khotang,Province 1
+51,Sakela Gaupalika (Khotang),Khotang,Province 1
+52,Belbari Nagarpalika (Morang),Morang,Province 1
+53,Biratnagar Nagarpalika (Morang),Morang,Province 1
+54,Budhiganga Gaupalika (Morang),Morang,Province 1
+55,Dhanapalthan Gaupalika (Morang),Morang,Province 1
+56,Gramthan Gaupalika (Morang),Morang,Province 1
+57,Jahada Gaupalika (Morang),Morang,Province 1
+58,Kanepokhari Gaupalika (Morang),Morang,Province 1
+59,Katahari Gaupalika (Morang),Morang,Province 1
+60,Kerabari Gaupalika (Morang),Morang,Province 1
+61,Letang Bazar (Morang),Morang,Province 1
+62,Miklajung Gaupalika (Morang),Morang,Province 1
+63,Pathari Shanishchare Nagarpalika (Morang),Morang,Province 1
+64,Rangeli Nagarpalika (Morang),Morang,Province 1
+65,Ratuwamai Nagarpalika (Morang),Morang,Province 1
+66,Sundarharaicha Nagarpalika (Morang),Morang,Province 1
+67,Sunwarshi Nagarpalika (Morang),Morang,Province 1
+68,Urlabari Nagarpalika (Morang),Morang,Province 1
+69,Champadevi Gaupalika (Okhaldhunga),Okhaldhunga,Province 1
+70,Chishankhu Gadhi Gaupalika (Okhaldhunga),Okhaldhunga,Province 1
+71,Khiji Demba Gaupalika (Okhaldhunga),Okhaldhunga,Province 1
+72,Likhu Gaupalika (Okhaldhunga),Okhaldhunga,Province 1
+73,Manebhanjyang Gaupalika (Okhaldhunga),Okhaldhunga,Province 1
+74,Molung Gaupalika (Okhaldhunga),Okhaldhunga,Province 1
+75,Siddhicharan Nagarpalika (Okhaldhunga),Okhaldhunga,Province 1
+76,Sunkoshi Gaupalika (Okhaldhunga),Okhaldhunga,Province 1
+77,Falelung Gaupalika (Panchthar),Panchthar,Province 1
+78,Hilihan Gaupalika (Panchthar),Panchthar,Province 1
+79,Kummayak Gaupalika (Panchthar),Panchthar,Province 1
+80,Miklajung Gaupalika (Panchthar),Panchthar,Province 1
+81,Phalgunanda Gaupalika (Panchthar),Panchthar,Province 1
+82,Phidim Nagarpalika (Panchthar),Panchthar,Province 1
+83,Tumbewa Gaupalika (Panchthar),Panchthar,Province 1
+84,Yangbarak Gaupalika (Panchthar),Panchthar,Province 1
+85,Bhotkhola Gaupalika (Sankhuwasabha),Sankhuwasabha,Province 1
+86,Chainapur Nagarpalika (Sankhuwasabha),Sankhuwasabha,Province 1
+87,Chichila Gaupalika (Sankhuwasabha),Sankhuwasabha,Province 1
+88,Dharmadevi Nagarpalika (Sankhuwasabha),Sankhuwasabha,Province 1
+89,Khandabari Nagarpalika (Sankhuwasabha),Sankhuwasabha,Province 1
+90,Madi Nagarpalika (Sankhuwasabha),Sankhuwasabha,Province 1
+91,Makalu Gaupalika (Sankhuwasabha),Sankhuwasabha,Province 1
+92,Panchakhapan Nagarpalika (Sankhuwasabha),Sankhuwasabha,Province 1
+93,Sabhapokhari Gaupalika (Sankhuwasabha),Sankhuwasabha,Province 1
+94,Silichong Gaupalika (Sankhuwasabha),Sankhuwasabha,Province 1
+95,Dhudhakoshi Gaupalika (Solukhumbu),Solukhumbu,Province 1
+96,Dhudhkausika Gaupalika (Solukhumbu),Solukhumbu,Province 1
+97,Khumbu Pasanglhamu Gaupalika (Solukhumbu),Solukhumbu,Province 1
+98,Likhu Pike Gaupalika (Solukhumbu),Solukhumbu,Province 1
+99,Mahakulung Gaupalika (Solukhumbu),Solukhumbu,Province 1
+100,Necha Salyan Gaupalika (Solukhumbu),Solukhumbu,Province 1
+101,Solu Dhudhakunda Nagarpalika (Solukhumbu),Solukhumbu,Province 1
+102,Sotang Gaupalika (Solukhumbu),Solukhumbu,Province 1
+103,Baraha Chetra Nagarpalika (Sunsari),Sunsari,Province 1
+104,Barju Gaupalika (Sunsari),Sunsari,Province 1
+105,Bhokraha Narasinha Gaupalika (Sunsari),Sunsari,Province 1
+106,Dewangunj Gaupalika (Sunsari),Sunsari,Province 1
+107,Dharan Sub-Nagarpalika (Sunsari),Sunsari,Province 1
+108,Duhabi Nagarpalika (Sunsari),Sunsari,Province 1
+109,Gadhi Gaupalika (Sunsari),Sunsari,Province 1
+110,Harinagar Gaupalika (Sunsari),Sunsari,Province 1
+111,Inaruwa Nagarpalika (Sunsari),Sunsari,Province 1
+112,Itahari Sub-Nagarpalika (Sunsari),Sunsari,Province 1
+113,Koshi Gaupalika (Sunsari),Sunsari,Province 1
+114,Ramdhuni Nagarpalika (Sunsari),Sunsari,Province 1
+115,Fungling Gaupalika (Taplejung),Taplejung,Province 1
+116,Maiwakhola Gaupalika (Taplejung),Taplejung,Province 1
+117,Merinden Gaupalika (Taplejung),Taplejung,Province 1
+118,Pathivara yangwarak Gaupalika (Taplejung),Taplejung,Province 1
+119,Phaktanlung Gaupalika (Taplejung),Taplejung,Province 1
+120,Sidingba Gaupalika (Taplejung),Taplejung,Province 1
+121,Sirijanga Gaupalika (Taplejung),Taplejung,Province 1
+122,Aatharai Tribeni Gaupalika (Taplejung),Taplejung,Province 1
+123,Mikhwakhola Gaupalika (Taplejung),Taplejung,Province 1
+124,Aatharai Gaupalika (Terhathum),Terhathum,Province 1
+125,Chhathar Gaupalika (Terhathum),Terhathum,Province 1
+126,Laligurans Nagarpalika (Terhathum),Terhathum,Province 1
+127,Menchhayayem Gaupalika (Terhathum),Terhathum,Province 1
+128,Myanglung Nagarpalika (Terhathum),Terhathum,Province 1
+129,Phedap Gaupalika (Terhathum),Terhathum,Province 1
+130,Belaka Nagarpalika (Udayapur),Udayapur,Province 1
+131,Chaudandigadhi Nagarpalika (Udayapur),Udayapur,Province 1
+132,Katari Nagarpalika (Udayapur),Udayapur,Province 1
+133,Limchubung Gaupalika (Udayapur),Udayapur,Province 1
+134,Rautamai Gaupalika (Udayapur),Udayapur,Province 1
+135,Tapli Gaupalika (Udayapur),Udayapur,Province 1
+136,Triyuga Nagarpalika (Udayapur),Udayapur,Province 1
+137,Udayapurgadhi Gaupalika (Udayapur),Udayapur,Province 1
+138,Aadarsha Kotwal Gaupalika (Bara),Bara,Province 2
+139,Baragadhi Gaupalika (Bara),Bara,Province 2
+140,Bishrampur Gaupalika (Bara),Bara,Province 2
+141,Devtal Gaupalika (Bara),Bara,Province 2
+142,Jitpur Simara Sub-Nagarpalika (Bara),Bara,Province 2
+143,Kalaiya Sub-Nagarpalika (Bara),Bara,Province 2
+144,Karaiyamai Gaupalika (Bara),Bara,Province 2
+145,Kolhabi Nagarpalika (Bara),Bara,Province 2
+146,Mahagadhimai Nagarpalika (Bara),Bara,Province 2
+147,Nijagadh Nagarpalika (Bara),Bara,Province 2
+148,Pacharauta Nagarpalika (Bara),Bara,Province 2
+149,Parawanipur Gaupalika (Bara),Bara,Province 2
+150,Pheta Gaupalika (Bara),Bara,Province 2
+151,Prasauni Gaupalika (Bara),Bara,Province 2
+152,Simroungadh Nagarpalika (Bara),Bara,Province 2
+153,Subarna Gaupalika (Bara),Bara,Province 2
+154,Aurahi Gaupalika (Dhanusha),Dhanusha,Province 2
+155,Bateshwor Gaupalika (Dhanusha),Dhanusha,Province 2
+156,Bideha Nagarpalika (Dhanusha),Dhanusha,Province 2
+157,Chhireshwornath Nagarpalika (Dhanusha),Dhanusha,Province 2
+158,Dhanauji Gaupalika (Dhanusha),Dhanusha,Province 2
+159,Dhanushadham Nagarpalika (Dhanusha),Dhanusha,Province 2
+160,Ganeshman Charnath Nagarpalika (Dhanusha),Dhanusha,Province 2
+161,Hansapur Nagarpalika (Dhanusha),Dhanusha,Province 2
+162,Janak Nandini Gaupalika (Dhanusha),Dhanusha,Province 2
+163,Janakpur Sub-Nagarpalika (Dhanusha),Dhanusha,Province 2
+164,Kamala Nagarpalika (Dhanusha),Dhanusha,Province 2
+165,Laxminiya Gaupalika (Dhanusha),Dhanusha,Province 2
+166,Mithila Bihari Nagarpalika (Dhanusha),Dhanusha,Province 2
+167,Mithila Nagarpalika (Dhanusha),Dhanusha,Province 2
+168,Mukhiyapatti Musaharmiya Gaupalika (Dhanusha),Dhanusha,Province 2
+169,Nagarain Nagarpalika (Dhanusha),Dhanusha,Province 2
+170,Sabaila Nagarpalika (Dhanusha),Dhanusha,Province 2
+171,Shahidnagar Nagarpalika (Dhanusha),Dhanusha,Province 2
+172,Aurahi Nagarpalika (Mahottari),Mahottari,Province 2
+173,Balawa Nagarpalika (Mahottari),Mahottari,Province 2
+174,Bardibas Nagarpalika (Mahottari),Mahottari,Province 2
+175,Bhangaha Nagarpalika (Mahottari),Mahottari,Province 2
+176,Ekadara Gaupalika (Mahottari),Mahottari,Province 2
+177,Gaushala Nagarpalika (Mahottari),Mahottari,Province 2
+178,Jaleshwor Nagarpalika (Mahottari),Mahottari,Province 2
+179,Loharpatti Nagarpalika (Mahottari),Mahottari,Province 2
+180,Mahottari Gaupalika (Mahottari),Mahottari,Province 2
+181,Manara Shisawa Nagarpalika (Mahottari),Mahottari,Province 2
+182,Matihani Nagarpalika (Mahottari),Mahottari,Province 2
+183,Pipara Gaupalika (Mahottari),Mahottari,Province 2
+184,Ram Gopalpur Nagarpalika (Mahottari),Mahottari,Province 2
+185,Samsi Gaupalika (Mahottari),Mahottari,Province 2
+186,Sonama Gaupalika (Mahottari),Mahottari,Province 2
+187,Bahudarmai Nagarpalika (Parsa),Parsa,Province 2
+188,Bindabasini Gaupalika (Parsa),Parsa,Province 2
+189,Birgunj Nagarpalika (Parsa),Parsa,Province 2
+190,Chhipaharmai Gaupalika (Parsa),Parsa,Province 2
+191,Dhobini Gaupalika (Parsa),Parsa,Province 2
+192,Jagarnathpur Gaupalika (Parsa),Parsa,Province 2
+193,Jirabhawani Gaupalika (Parsa),Parsa,Province 2
+194,Kalikamai Gaupalika (Parsa),Parsa,Province 2
+195,Pakaha Mainpur Gaupalika (Parsa),Parsa,Province 2
+196,Parsagadhi Nagarpalika (Parsa),Parsa,Province 2
+197,Paterwa Sugauli Gaupalika (Parsa),Parsa,Province 2
+198,Pokhariya Nagarpalika (Parsa),Parsa,Province 2
+199,Sakhuwa Prasauni Gaupalika (Parsa),Parsa,Province 2
+200,Thori Gaupalika (Parsa),Parsa,Province 2
+201,Boudhimai Nagarpalika (Rautahat),Rautahat,Province 2
+202,Brindaban Nagarpalika (Rautahat),Rautahat,Province 2
+203,Chandrapur Nagarpalika (Rautahat),Rautahat,Province 2
+204,Dewahi Gonahi Nagarpalika (Rautahat),Rautahat,Province 2
+205,Durga Bhagawati Gaupalika (Rautahat),Rautahat,Province 2
+206,Gadhimai Nagarpalika (Rautahat),Rautahat,Province 2
+207,Garuda Nagarpalika (Rautahat),Rautahat,Province 2
+208,Gaur Nagarpalika (Rautahat),Rautahat,Province 2
+209,Gujara Nagarpalika (Rautahat),Rautahat,Province 2
+210,Ishanath Nagarpalika (Rautahat),Rautahat,Province 2
+211,Katahariya Nagarpalika (Rautahat),Rautahat,Province 2
+212,Madhav Narayan Nagarpalika (Rautahat),Rautahat,Province 2
+213,Maulapur Nagarpalika (Rautahat),Rautahat,Province 2
+214,Paroha Nagarpalika (Rautahat),Rautahat,Province 2
+215,Phatuwa Bijayapur Nagarpalika (Rautahat),Rautahat,Province 2
+216,Rajdevi Nagarpalika (Rautahat),Rautahat,Province 2
+217,Rajpur Nagarpalika (Rautahat),Rautahat,Province 2
+218,Yamunamai Gaupalika (Rautahat),Rautahat,Province 2
+219,Agmisair Krishna Sabaran Gaupalika (Saptari),Saptari,Province 2
+220,Balan-Bihul Gaupalika (Saptari),Saptari,Province 2
+221,Bishnupur Gaupalika (Saptari),Saptari,Province 2
+222,Bode Barsain Nagarpalika (Saptari),Saptari,Province 2
+223,Chhinnamasta Gaupalika (Saptari),Saptari,Province 2
+224,Dakneshwori Nagarpalika (Saptari),Saptari,Province 2
+225,Hanumannagar Kankalini Nagarpalika (Saptari),Saptari,Province 2
+226,Kanchanrup Nagarpalika (Saptari),Saptari,Province 2
+227,Khadak Nagarpalika (Saptari),Saptari,Province 2
+228,Mahadewa Gaupalika (Saptari),Saptari,Province 2
+229,Rajbiraj Nagarpalika (Saptari),Saptari,Province 2
+230,Rajgud Gaupalika (Saptari),Saptari,Province 2
+231,Rupani Gaupalika (Saptari),Saptari,Province 2
+232,Saptakoshi Nagarpalika (Saptari),Saptari,Province 2
+233,Shambhunath Nagarpalika (Saptari),Saptari,Province 2
+234,Surunga Nagarpalika (Saptari),Saptari,Province 2
+235,Tilathi Koiladi Gaupalika (Saptari),Saptari,Province 2
+236,Tirahut Gaupalika (Saptari),Saptari,Province 2
+237,Bagmati Nagarpalika (Sarlahi),Sarlahi,Province 2
+238,Balara Nagarpalika (Sarlahi),Sarlahi,Province 2
+239,Barahathawa Nagarpalika (Sarlahi),Sarlahi,Province 2
+240,Basbariya Gaupalika (Sarlahi),Sarlahi,Province 2
+241,Bishnu Gaupalika (Sarlahi),Sarlahi,Province 2
+242,Brahmapuri Gaupalika (Sarlahi),Sarlahi,Province 2
+243,Chakraghatta Gaupalika (Sarlahi),Sarlahi,Province 2
+244,Chandranagar Gaupalika (Sarlahi),Sarlahi,Province 2
+245,Dhanakaul Gaupalika (Sarlahi),Sarlahi,Province 2
+246,Godaita Nagarpalika (Sarlahi),Sarlahi,Province 2
+247,Haripur Nagarpalika (Sarlahi),Sarlahi,Province 2
+248,Haripurwa Nagarpalika (Sarlahi),Sarlahi,Province 2
+249,Hariwan Nagarpalika (Sarlahi),Sarlahi,Province 2
+250,Ishworpur Nagarpalika (Sarlahi),Sarlahi,Province 2
+251,Kabilashi Nagarpalika (Sarlahi),Sarlahi,Province 2
+252,Kaudena Gaupalika (Sarlahi),Sarlahi,Province 2
+253,Lalbandi Nagarpalika (Sarlahi),Sarlahi,Province 2
+254,Malangawa Nagarpalika (Sarlahi),Sarlahi,Province 2
+255,Parsa Gaupalika (Sarlahi),Sarlahi,Province 2
+256,Ramnagar Gaupalika (Sarlahi),Sarlahi,Province 2
+257,Arnama Gaupalika (Siraha),Siraha,Province 2
+258,Aurahi Gaupalika (Siraha),Siraha,Province 2
+259,Bariyarpatti Gaupalika (Siraha),Siraha,Province 2
+260,Bhagawanpur Gaupalika (Siraha),Siraha,Province 2
+261,Bishnupur Gaupalika (Siraha),Siraha,Province 2
+262,Dhangadhimai Nagarpalika (Siraha),Siraha,Province 2
+263,Golbazar Nagarpalika (Siraha),Siraha,Province 2
+264,Kalyanpur Nagarpalika (Siraha),Siraha,Province 2
+265,Karjanha Nagarpalika (Siraha),Siraha,Province 2
+266,Lahan Nagarpalika (Siraha),Siraha,Province 2
+267,Laxmipur Patari Gaupalika (Siraha),Siraha,Province 2
+268,Mirchaiya Nagarpalika (Siraha),Siraha,Province 2
+269,Naraha Gaupalika (Siraha),Siraha,Province 2
+270,Nawarajpur Gaupalika (Siraha),Siraha,Province 2
+271,Sakhuwa Nankarkatti Gaupalika (Siraha),Siraha,Province 2
+272,Siraha Nagarpalika (Siraha),Siraha,Province 2
+273,Sukhipur Nagarpalika (Siraha),Siraha,Province 2
+274,Bhaktapur Nagarpalika (Bhaktapur),Bhaktapur,Bagmati Province
+275,Changunarayan Nagarpalika (Bhaktapur),Bhaktapur,Bagmati Province
+276,Madhyapur Thimi Nagarpalika (Bhaktapur),Bhaktapur,Bagmati Province
+277,Suryabinayak Nagarpalika (Bhaktapur),Bhaktapur,Bagmati Province
+278,Bharatpur Nagarpalika (Chitawan),Chitawan,Bagmati Province
+279,Ichchha Kamana Gaupalika (Chitawan),Chitawan,Bagmati Province
+280,Kalika Nagarpalika (Chitawan),Chitawan,Bagmati Province
+281,Khairahani Nagarpalika (Chitawan),Chitawan,Bagmati Province
+282,Madi Nagarpalika (Chitawan),Chitawan,Bagmati Province
+283,Rapti Nagarpalika (Chitawan),Chitawan,Bagmati Province
+284,Ratnanagar Nagarpalika (Chitawan),Chitawan,Bagmati Province
+285,Benighat Rorang Gaupalika (Dhading),Dhading,Bagmati Province
+286,Dhunibenshi Nagarpalika (Dhading),Dhading,Bagmati Province
+287,Gajuri Gaupalika (Dhading),Dhading,Bagmati Province
+288,Galchhi Gaupalika (Dhading),Dhading,Bagmati Province
+289,Ganga Jamuna Gaupalika (Dhading),Dhading,Bagmati Province
+290,Jwalamukhi Gaupalika (Dhading),Dhading,Bagmati Province
+291,Khaniyabas Gaupalika (Dhading),Dhading,Bagmati Province
+292,Netrawati Dabjong Gaupalika (Dhading),Dhading,Bagmati Province
+293,Nilkhantha Nagarpalika (Dhading),Dhading,Bagmati Province
+294,Rubi Valley Gaupalika (Dhading),Dhading,Bagmati Province
+295,Siddhalek Gaupalika (Dhading),Dhading,Bagmati Province
+296,Thakre Gaupalika (Dhading),Dhading,Bagmati Province
+297,Tripurasundari Gaupalika (Dhading),Dhading,Bagmati Province
+298,Baiteswor Gaupalika (Dolakha),Dolakha,Bagmati Province
+299,Bhimeshwor Nagarpalika (Dolakha),Dolakha,Bagmati Province
+300,Bigu Gaupalika (Dolakha),Dolakha,Bagmati Province
+301,Gaurishankar Gaupalika (Dolakha),Dolakha,Bagmati Province
+302,Jiri Nagarpalika (Dolakha),Dolakha,Bagmati Province
+303,Kalinchowk Gaupalika (Dolakha),Dolakha,Bagmati Province
+304,Melung Gaupalika (Dolakha),Dolakha,Bagmati Province
+305,Shailung Gaupalika (Dolakha),Dolakha,Bagmati Province
+306,Tamakoshi Gaupalika (Dolakha),Dolakha,Bagmati Province
+307,Banepa Nagarpalika (Kabhrepalanchok),Kabhrepalanchok,Bagmati Province
+308,Bethanchowk Gaupalika (Kabhrepalanchok),Kabhrepalanchok,Bagmati Province
+309,Bhumlu Gaupalika (Kabhrepalanchok),Kabhrepalanchok,Bagmati Province
+310,Chauri Deurali Gaupalika (Kabhrepalanchok),Kabhrepalanchok,Bagmati Province
+311,Dhulikhel Nagarpalika (Kabhrepalanchok),Kabhrepalanchok,Bagmati Province
+312,Khanikhola Gaupalika (Kabhrepalanchok),Kabhrepalanchok,Bagmati Province
+313,Mahabharat Gaupalika (Kabhrepalanchok),Kabhrepalanchok,Bagmati Province
+314,Mandan Deupur Nagarpalika (Kabhrepalanchok),Kabhrepalanchok,Bagmati Province
+315,Namobuddha Nagarpalika (Kabhrepalanchok),Kabhrepalanchok,Bagmati Province
+316,Panauti Nagarpalika (Kabhrepalanchok),Kabhrepalanchok,Bagmati Province
+317,Panchkhal Nagarpalika (Kabhrepalanchok),Kabhrepalanchok,Bagmati Province
+318,Roshi Gaupalika (Kabhrepalanchok),Kabhrepalanchok,Bagmati Province
+319,Temal Gaupalika (Kabhrepalanchok),Kabhrepalanchok,Bagmati Province
+320,Budhanilkhantha Nagarpalika (Kathmandu),Kathmandu,Bagmati Province
+321,Chandragiri Nagarpalika (Kathmandu),Kathmandu,Bagmati Province
+322,Dakshinkali Nagarpalika (Kathmandu),Kathmandu,Bagmati Province
+323,Gokarneshwor Nagarpalika (Kathmandu),Kathmandu,Bagmati Province
+324,Kageshwori Manahara Nagarpalika (Kathmandu),Kathmandu,Bagmati Province
+325,Kathmandu Nagarpalika (Kathmandu),Kathmandu,Bagmati Province
+326,Kirtipur Nagarpalika (Kathmandu),Kathmandu,Bagmati Province
+327,Nagarjun Nagarpalika (Kathmandu),Kathmandu,Bagmati Province
+328,Shankharapur Nagarpalika (Kathmandu),Kathmandu,Bagmati Province
+329,Tarakeshwor Nagarpalika (Kathmandu),Kathmandu,Bagmati Province
+330,Tokha Nagarpalika (Kathmandu),Kathmandu,Bagmati Province
+331,Bagmati Gaupalika (Lalitpur),Lalitpur,Bagmati Province
+332,Godawari Nagarpalika (Lalitpur),Lalitpur,Bagmati Province
+333,Konjyosom Gaupalika (Lalitpur),Lalitpur,Bagmati Province
+334,Lalitpur Nagarpalika (Lalitpur),Lalitpur,Bagmati Province
+335,Mahalaxmi Nagarpalika (Lalitpur),Lalitpur,Bagmati Province
+336,Mahankal Gaupalika (Lalitpur),Lalitpur,Bagmati Province
+337,Bagmati Gaupalika (Makawanpur),Makawanpur,Bagmati Province
+338,Bakaiya Gaupalika (Makawanpur),Makawanpur,Bagmati Province
+339,Bhimphedi Gaupalika (Makawanpur),Makawanpur,Bagmati Province
+340,Hetauda Sub-Nagarpalika (Makawanpur),Makawanpur,Bagmati Province
+341,Indrasarowar Gaupalika (Makawanpur),Makawanpur,Bagmati Province
+342,Kailash Gaupalika (Makawanpur),Makawanpur,Bagmati Province
+343,Makawanpurgadhi Gaupalika (Makawanpur),Makawanpur,Bagmati Province
+344,Manahari Gaupalika (Makawanpur),Makawanpur,Bagmati Province
+345,Raksirang Gaupalika (Makawanpur),Makawanpur,Bagmati Province
+346,Thaha Nagarpalika (Makawanpur),Makawanpur,Bagmati Province
+347,Belkotgadhi Nagarpalika (Nuwakot),Nuwakot,Bagmati Province
+348,Bidur Nagarpalika (Nuwakot),Nuwakot,Bagmati Province
+349,Dupcheshwor Gaupalika (Nuwakot),Nuwakot,Bagmati Province
+350,Kakani Gaupalika (Nuwakot),Nuwakot,Bagmati Province
+351,Kispang Gaupalika (Nuwakot),Nuwakot,Bagmati Province
+352,Likhu Gaupalika (Nuwakot),Nuwakot,Bagmati Province
+353,Myagang Gaupalika (Nuwakot),Nuwakot,Bagmati Province
+354,Panchakanya Gaupalika (Nuwakot),Nuwakot,Bagmati Province
+355,Shivapuri Gaupalika (Nuwakot),Nuwakot,Bagmati Province
+356,Suryagadhi Gaupalika (Nuwakot),Nuwakot,Bagmati Province
+357,Tadi Gaupalika (Nuwakot),Nuwakot,Bagmati Province
+358,Tarakeshwor Gaupalika (Nuwakot),Nuwakot,Bagmati Province
+359,Doramba Gaupalika (Ramechhap),Ramechhap,Bagmati Province
+360,Gokulganga Gaupalika (Ramechhap),Ramechhap,Bagmati Province
+361,Khandadevi Gaupalika (Ramechhap),Ramechhap,Bagmati Province
+362,Likhu Tamakoshi Gaupalika (Ramechhap),Ramechhap,Bagmati Province
+363,Manthali Nagarpalika (Ramechhap),Ramechhap,Bagmati Province
+364,Ramechhap Nagarpalika (Ramechhap),Ramechhap,Bagmati Province
+365,Sunapati Gaupalika (Ramechhap),Ramechhap,Bagmati Province
+366,Umakunda Gaupalika (Ramechhap),Ramechhap,Bagmati Province
+367,Gosaikunda Gaupalika (Rasuwa),Rasuwa,Bagmati Province
+368,Kalika Gaupalika (Rasuwa),Rasuwa,Bagmati Province
+369,Naukunda Gaupalika (Rasuwa),Rasuwa,Bagmati Province
+370,Parbatikunda Gaupalika (Rasuwa),Rasuwa,Bagmati Province
+371,Uttargaya Gaupalika (Rasuwa),Rasuwa,Bagmati Province
+372,Dudhouli Nagarpalika (Sindhuli),Sindhuli,Bagmati Province
+373,Ghyanglekha Gaupalika (Sindhuli),Sindhuli,Bagmati Province
+374,Golanjor Gaupalika (Sindhuli),Sindhuli,Bagmati Province
+375,Hariharpurgaghi Gaupalika (Sindhuli),Sindhuli,Bagmati Province
+376,Kamalamai Nagarpalika (Sindhuli),Sindhuli,Bagmati Province
+377,Marin Gaupalika (Sindhuli),Sindhuli,Bagmati Province
+378,Phikkal Gaupalika (Sindhuli),Sindhuli,Bagmati Province
+379,Sunkoshi Gaupalika (Sindhuli),Sindhuli,Bagmati Province
+380,Tinpatan Gaupalika (Sindhuli),Sindhuli,Bagmati Province
+381,Bahrabise Nagarpalika (Sindhupalchok),Sindhupalchok,Bagmati Province
+382,Balephi Gaupalika (Sindhupalchok),Sindhupalchok,Bagmati Province
+383,Bhotekoshi Gaupalika (Sindhupalchok),Sindhupalchok,Bagmati Province
+384,Choutara Sangachowkgadhi Nagarpalika (Sindhupalchok),Sindhupalchok,Bagmati Province
+385,Helambu Gaupalika (Sindhupalchok),Sindhupalchok,Bagmati Province
+386,Indrawoti Gaupalika (Sindhupalchok),Sindhupalchok,Bagmati Province
+387,Jugal Gaupalika (Sindhupalchok),Sindhupalchok,Bagmati Province
+388,Lisankhu Pakhar Gaupalika (Sindhupalchok),Sindhupalchok,Bagmati Province
+389,Melanchi Nagarpalika (Sindhupalchok),Sindhupalchok,Bagmati Province
+390,Panchpokhari Thangpal Gaupalika (Sindhupalchok),Sindhupalchok,Bagmati Province
+391,Sunkoshi Gaupalika (Sindhupalchok),Sindhupalchok,Bagmati Province
+392,Tripurasundari Gaupalika (Sindhupalchok),Sindhupalchok,Bagmati Province
+393,Badigad Gaupalika (Baglung),Baglung,Gandaki Province
+394,Baglung Nagarpalika (Baglung),Baglung,Gandaki Province
+395,Bareng Gaupalika (Baglung),Baglung,Gandaki Province
+396,Dhorpatan Nagarpalika (Baglung),Baglung,Gandaki Province
+397,Galkot Nagarpalika (Baglung),Baglung,Gandaki Province
+398,Jaimuni Nagarpalika (Baglung),Baglung,Gandaki Province
+399,Kathekhola Gaupalika (Baglung),Baglung,Gandaki Province
+400,Nisikhola Gaupalika (Baglung),Baglung,Gandaki Province
+401,Tamankhola Gaupalika (Baglung),Baglung,Gandaki Province
+402,Tarakhola Gaupalika (Baglung),Baglung,Gandaki Province
+403,Aarughat Gaupalika (Gorkha),Gorkha,Gandaki Province
+404,Ajirkot Gaupalika (Gorkha),Gorkha,Gandaki Province
+405,Barpak Sulikot Gaupalika (Gorkha),Gorkha,Gandaki Province
+406,Bhimsen Thapa Gaupalika (Gorkha),Gorkha,Gandaki Province
+407,Chumanubri Gaupalika (Gorkha),Gorkha,Gandaki Province
+408,Dharche Gaupalika (Gorkha),Gorkha,Gandaki Province
+409,Gandaki Gaupalika (Gorkha),Gorkha,Gandaki Province
+410,Gorkha Nagarpalika (Gorkha),Gorkha,Gandaki Province
+411,Palungtar Nagarpalika (Gorkha),Gorkha,Gandaki Province
+412,Shahid Lakhan Gaupalika (Gorkha),Gorkha,Gandaki Province
+413,Siranchowk Gaupalika (Gorkha),Gorkha,Gandaki Province
+414,Annapurna Gaupalika (Kaski),Kaski,Gandaki Province
+415,Machhapuchchhre Gaupalika (Kaski),Kaski,Gandaki Province
+416,Madi Gaupalika (Kaski),Kaski,Gandaki Province
+417,Pokhara Nagarpalika (Kaski),Kaski,Gandaki Province
+418,Rupa Gaupalika (Kaski),Kaski,Gandaki Province
+419,Bensi Shahar Nagarpalika (Lamjung),Lamjung,Gandaki Province
+420,Dordi Gaupalika (Lamjung),Lamjung,Gandaki Province
+421,Dudhapokhari Gaupalika (Lamjung),Lamjung,Gandaki Province
+422,Kwhola Sothar Gaupalika (Lamjung),Lamjung,Gandaki Province
+423,Madhya Nepal Nagarpalika (Lamjung),Lamjung,Gandaki Province
+424,Marshyangdi Gaupalika (Lamjung),Lamjung,Gandaki Province
+425,Rainas Nagarpalika (Lamjung),Lamjung,Gandaki Province
+426,Sundarbazar Nagarpalika (Lamjung),Lamjung,Gandaki Province
+427,Chame Gaupalika (Manang),Manang,Gandaki Province
+428,Manang Nisyang Gaupalika (Manang),Manang,Gandaki Province
+429,Narpabhumi Gaupalika (Manang),Manang,Gandaki Province
+430,Narsho Gaupalika (Manang),Manang,Gandaki Province
+431,Gharpajhong Gaupalika (Mustang),Mustang,Gandaki Province
+432,Lho-Ghekar Damodarkunda Gaupalika (Mustang),Mustang,Gandaki Province
+433,Lomanthang Gaupalika (Mustang),Mustang,Gandaki Province
+434,Thasang Gaupalika (Mustang),Mustang,Gandaki Province
+435,Waragung Muktikshetra Gaupalika (Mustang),Mustang,Gandaki Province
+436,Annapurna Gaupalika (Myagdi),Myagdi,Gandaki Province
+437,Beni Nagarpalika (Myagdi),Myagdi,Gandaki Province
+438,Dhawalagiri Gaupalika (Myagdi),Myagdi,Gandaki Province
+439,Malika Gaupalika (Myagdi),Myagdi,Gandaki Province
+440,Mangala Gaupalika (Myagdi),Myagdi,Gandaki Province
+441,Raghuganga Gaupalika (Myagdi),Myagdi,Gandaki Province
+442,Baudikali Gaupalika (Nawalparasi_E),Nawalparasi_E,Gandaki Province
+443,Binayi Tribeni Gaupalika (Nawalparasi_E),Nawalparasi_E,Gandaki Province
+444,Bulingtar Gaupalika (Nawalparasi_E),Nawalparasi_E,Gandaki Province
+445,Devchuli Nagarpalika (Nawalparasi_E),Nawalparasi_E,Gandaki Province
+446,Gaidakot Nagarpalika (Nawalparasi_E),Nawalparasi_E,Gandaki Province
+447,Hupsekot Gaupalika (Nawalparasi_E),Nawalparasi_E,Gandaki Province
+448,Kawasoti Nagarpalika (Nawalparasi_E),Nawalparasi_E,Gandaki Province
+449,Madhya Bindu Nagarpalika (Nawalparasi_E),Nawalparasi_E,Gandaki Province
+450,Bihadi Gaupalika (Parbat),Parbat,Gandaki Province
+451,Jaljala Gaupalika (Parbat),Parbat,Gandaki Province
+452,Kushma Nagarpalika (Parbat),Parbat,Gandaki Province
+453,Mahashila Gaupalika (Parbat),Parbat,Gandaki Province
+454,Modi Gaupalika (Parbat),Parbat,Gandaki Province
+455,Paiyu Gaupalika (Parbat),Parbat,Gandaki Province
+456,Phalebas Nagarpalika (Parbat),Parbat,Gandaki Province
+457,Aandhikhola Gaupalika (Syangja),Syangja,Gandaki Province
+458,Arjun Choupari Gaupalika (Syangja),Syangja,Gandaki Province
+459,Bhirkot Municipaity (Syangja),Syangja,Gandaki Province
+460,Biruwa Gaupalika (Syangja),Syangja,Gandaki Province
+461,Chapakot Nagarpalika (Syangja),Syangja,Gandaki Province
+462,Galyang Nagarpalika (Syangja),Syangja,Gandaki Province
+463,Harinas Gaupalika (Syangja),Syangja,Gandaki Province
+464,Kaligandaki Gaupalika (Syangja),Syangja,Gandaki Province
+465,Phedikhola Gaupalika (Syangja),Syangja,Gandaki Province
+466,Putalibazar Nagarpalika (Syangja),Syangja,Gandaki Province
+467,Walling Nagarpalika (Syangja),Syangja,Gandaki Province
+468,Aanbu Khaireni Gaupalika (Tanahu),Tanahu,Gandaki Province
+469,Bandipur Gaupalika (Tanahu),Tanahu,Gandaki Province
+470,Bhanu Nagarpalika (Tanahu),Tanahu,Gandaki Province
+471,Bhimad Nagarpalika (Tanahu),Tanahu,Gandaki Province
+472,Byas Nagarpalika (Tanahu),Tanahu,Gandaki Province
+473,Devghat Gaupalika (Tanahu),Tanahu,Gandaki Province
+474,Ghiring Gaupalika (Tanahu),Tanahu,Gandaki Province
+475,Myagde Gaupalika (Tanahu),Tanahu,Gandaki Province
+476,Rhishing Gaupalika (Tanahu),Tanahu,Gandaki Province
+477,Shuklagandaki Nagarpalika (Tanahu),Tanahu,Gandaki Province
+478,Bhumekasthan (Arghakhanchi),Arghakhanchi,Lumbini Province
+479,Chhatradev (Arghakhanchi),Arghakhanchi,Lumbini Province
+480,Malarani (Arghakhanchi),Arghakhanchi,Lumbini Province
+481,Panini (Arghakhanchi),Arghakhanchi,Lumbini Province
+482,Sandhikharka (Arghakhanchi),Arghakhanchi,Lumbini Province
+483,Sitganga (Arghakhanchi),Arghakhanchi,Lumbini Province
+484,Baijanath (Banke),Banke,Lumbini Province
+485,Duduwa (Banke),Banke,Lumbini Province
+486,Janki (Banke),Banke,Lumbini Province
+487,Khajura (Banke),Banke,Lumbini Province
+488,Kohalpur (Banke),Banke,Lumbini Province
+489,Narainapur (Banke),Banke,Lumbini Province
+490,Nepalgunj (Banke),Banke,Lumbini Province
+491,Rapti Sonari (Banke),Banke,Lumbini Province
+492,Badhaiyatal (Bardiya),Bardiya,Lumbini Province
+493,Bansagadhi (Bardiya),Bardiya,Lumbini Province
+494,Barbardiya (Bardiya),Bardiya,Lumbini Province
+495,Geruwa (Bardiya),Bardiya,Lumbini Province
+496,Gulariya (Bardiya),Bardiya,Lumbini Province
+497,Madhuwan (Bardiya),Bardiya,Lumbini Province
+498,Rajapur (Bardiya),Bardiya,Lumbini Province
+499,Thakurbaba (Bardiya),Bardiya,Lumbini Province
+500,Babai (Dang),Dang,Lumbini Province
+501,Banglachuli (Dang),Dang,Lumbini Province
+502,Dangisharan (Dang),Dang,Lumbini Province
+503,Gadhawa (Dang),Dang,Lumbini Province
+504,Ghorahi (Dang),Dang,Lumbini Province
+505,Lamahi (Dang),Dang,Lumbini Province
+506,Rajpur (Dang),Dang,Lumbini Province
+507,Rapti (Dang),Dang,Lumbini Province
+508,Shantinagar (Dang),Dang,Lumbini Province
+509,Tulsipur (Dang),Dang,Lumbini Province
+510,Chandrakot (Gulmi),Gulmi,Lumbini Province
+511,Chatrakot (Gulmi),Gulmi,Lumbini Province
+512,Dhurkot (Gulmi),Gulmi,Lumbini Province
+513,Gulmidarbar (Gulmi),Gulmi,Lumbini Province
+514,Isma (Gulmi),Gulmi,Lumbini Province
+515,Kaligandaki (Gulmi),Gulmi,Lumbini Province
+516,Madane (Gulmi),Gulmi,Lumbini Province
+517,Malika (Gulmi),Gulmi,Lumbini Province
+518,Musikot (Gulmi),Gulmi,Lumbini Province
+519,Resunga (Gulmi),Gulmi,Lumbini Province
+520,Ruru (Gulmi),Gulmi,Lumbini Province
+521,Satyawati (Gulmi),Gulmi,Lumbini Province
+522,Banganga (Kapilbastu),Kapilbastu,Lumbini Province
+523,Bijayanagar (Kapilbastu),Kapilbastu,Lumbini Province
+524,Buddhabhumi (Kapilbastu),Kapilbastu,Lumbini Province
+525,Kapilbastu (Kapilbastu),Kapilbastu,Lumbini Province
+526,Krishnanagar (Kapilbastu),Kapilbastu,Lumbini Province
+527,Maharajgunj (Kapilbastu),Kapilbastu,Lumbini Province
+528,Mayadevi (Kapilbastu),Kapilbastu,Lumbini Province
+529,Shivaraj (Kapilbastu),Kapilbastu,Lumbini Province
+530,Suddhodhan (Kapilbastu),Kapilbastu,Lumbini Province
+531,Yashodhara (Kapilbastu),Kapilbastu,Lumbini Province
+532,Bardaghat (Nawalparasi_W),Nawalparasi_W,Lumbini Province
+533,Palhi Nandan (Nawalparasi_W),Nawalparasi_W,Lumbini Province
+534,Pratappur (Nawalparasi_W),Nawalparasi_W,Lumbini Province
+535,Ramgram (Nawalparasi_W),Nawalparasi_W,Lumbini Province
+536,Sarawal (Nawalparasi_W),Nawalparasi_W,Lumbini Province
+537,Sunwal (Nawalparasi_W),Nawalparasi_W,Lumbini Province
+538,Susta (Nawalparasi_W),Nawalparasi_W,Lumbini Province
+539,Bagnaskali (Palpa),Palpa,Lumbini Province
+540,Mathagadhi (Palpa),Palpa,Lumbini Province
+541,Nisdi (Palpa),Palpa,Lumbini Province
+542,Purbakhola (Palpa),Palpa,Lumbini Province
+543,Rainadevi Chhahara (Palpa),Palpa,Lumbini Province
+544,Rambha (Palpa),Palpa,Lumbini Province
+545,Rampur (Palpa),Palpa,Lumbini Province
+546,Ribdikot (Palpa),Palpa,Lumbini Province
+547,Tansen (Palpa),Palpa,Lumbini Province
+548,Tinau (Palpa),Palpa,Lumbini Province
+549,Ayirabati (Pyuthan),Pyuthan,Lumbini Province
+550,Gaumukhi (Pyuthan),Pyuthan,Lumbini Province
+551,Jhimruk (Pyuthan),Pyuthan,Lumbini Province
+552,Mallarani (Pyuthan),Pyuthan,Lumbini Province
+553,Mandavi (Pyuthan),Pyuthan,Lumbini Province
+554,Naubahini (Pyuthan),Pyuthan,Lumbini Province
+555,Pyuthan (Pyuthan),Pyuthan,Lumbini Province
+556,Sarumarani (Pyuthan),Pyuthan,Lumbini Province
+557,Sworgadwary (Pyuthan),Pyuthan,Lumbini Province
+558,Duikholi (Rolpa),Rolpa,Lumbini Province
+559,Lungri (Rolpa),Rolpa,Lumbini Province
+560,Madi (Rolpa),Rolpa,Lumbini Province
+561,Rolpa (Rolpa),Rolpa,Lumbini Province
+562,Runtigadi (Rolpa),Rolpa,Lumbini Province
+563,Sukidaha (Rolpa),Rolpa,Lumbini Province
+564,Sunchhahari (Rolpa),Rolpa,Lumbini Province
+565,Suwarnabati (Rolpa),Rolpa,Lumbini Province
+566,Thawang (Rolpa),Rolpa,Lumbini Province
+567,Tribeni (Rolpa),Rolpa,Lumbini Province
+568,Bhume (Rukum_E),Rukum_E,Lumbini Province
+569,Putha Uttarganga (Rukum_E),Rukum_E,Lumbini Province
+570,Sisne (Rukum_E),Rukum_E,Lumbini Province
+571,Butwal (Rupandehi),Rupandehi,Lumbini Province
+572,Devdaha (Rupandehi),Rupandehi,Lumbini Province
+573,Gaidahawa (Rupandehi),Rupandehi,Lumbini Province
+574,Kanchan (Rupandehi),Rupandehi,Lumbini Province
+575,Kotahimai (Rupandehi),Rupandehi,Lumbini Province
+576,Lumbini Sanskritik (Rupandehi),Rupandehi,Lumbini Province
+577,Marchawari (Rupandehi),Rupandehi,Lumbini Province
+578,Mayadevi (Rupandehi),Rupandehi,Lumbini Province
+579,Omsatiya (Rupandehi),Rupandehi,Lumbini Province
+580,Rohini (Rupandehi),Rupandehi,Lumbini Province
+581,Sainamaina (Rupandehi),Rupandehi,Lumbini Province
+582,Sammarimai (Rupandehi),Rupandehi,Lumbini Province
+583,Siddharthanagar (Rupandehi),Rupandehi,Lumbini Province
+584,Siyari (Rupandehi),Rupandehi,Lumbini Province
+585,Sudhdhodhan (Rupandehi),Rupandehi,Lumbini Province
+586,Tillotama (Rupandehi),Rupandehi,Lumbini Province
+587,Aathbis Nagarpalika (Dailekh),Dailekh,Karnali Province
+588,Bhagawatimai Gaupalika (Dailekh),Dailekh,Karnali Province
+589,Bhairabi Gaupalika (Dailekh),Dailekh,Karnali Province
+590,Chamunda Bindrasaini Nagarpalika (Dailekh),Dailekh,Karnali Province
+591,Dullu Nagarpalika (Dailekh),Dailekh,Karnali Province
+592,Dungeshwor Gaupalika (Dailekh),Dailekh,Karnali Province
+593,Gurans Gaupalika (Dailekh),Dailekh,Karnali Province
+594,Mahabu Gaupalika (Dailekh),Dailekh,Karnali Province
+595,Narayan Nagarpalika (Dailekh),Dailekh,Karnali Province
+596,Naumule Gaupalika (Dailekh),Dailekh,Karnali Province
+597,Thantikandh Gaupalika (Dailekh),Dailekh,Karnali Province
+598,Chharka Tangsong Gaupalika (Dolpa),Dolpa,Karnali Province
+599,Dolpo Buddha Gaupalika (Dolpa),Dolpa,Karnali Province
+600,Jagadulla Gaupalika (Dolpa),Dolpa,Karnali Province
+601,Kaike Gaupalika (Dolpa),Dolpa,Karnali Province
+602,Mudkechula Gaupalika (Dolpa),Dolpa,Karnali Province
+603,Shey Phoksundo Gaupalika (Dolpa),Dolpa,Karnali Province
+604,Thulibheri Nagarpalika (Dolpa),Dolpa,Karnali Province
+605,Tripurasundari Nagarpalika (Dolpa),Dolpa,Karnali Province
+606,Adanchuli Gaupalika (Humla),Humla,Karnali Province
+607,Chankheli Gaupalika (Humla),Humla,Karnali Province
+608,Kharpunath Gaupalika (Humla),Humla,Karnali Province
+609,Namkha Gaupalika (Humla),Humla,Karnali Province
+610,Sarkegad Gaupalika (Humla),Humla,Karnali Province
+611,Simkot Gaupalika (Humla),Humla,Karnali Province
+612,Tanjakot Gaupalika (Humla),Humla,Karnali Province
+613,Barekot Gaupalika (Jajarkot),Jajarkot,Karnali Province
+614,Bheri Malika Nagarpalika (Jajarkot),Jajarkot,Karnali Province
+615,Chhedagad Nagarpalika (Jajarkot),Jajarkot,Karnali Province
+616,Junichande Gaupalika (Jajarkot),Jajarkot,Karnali Province
+617,Kuse Gaupalika (Jajarkot),Jajarkot,Karnali Province
+618,Shivalaya Gaupalika (Jajarkot),Jajarkot,Karnali Province
+619,Nalagad Nagarpalika (Jajarkot),Jajarkot,Karnali Province
+620,Chandannath Nagarpalika (Jumla),Jumla,Karnali Province
+621,Guthichaur Gaupalika (Jumla),Jumla,Karnali Province
+622,Hima Gaupalika (Jumla),Jumla,Karnali Province
+623,Kanaka Sundari Gaun Palika (Jumla),Jumla,Karnali Province
+624,Patarasi Gaupalika (Jumla),Jumla,Karnali Province
+625,Sinja Gaupalika (Jumla),Jumla,Karnali Province
+626,Tatopani Gaupalika (Jumla),Jumla,Karnali Province
+627,Tila Gaupalika (Jumla),Jumla,Karnali Province
+628,Shuba Kalika Gaupalika (Kalikot),Kalikot,Karnali Province
+629,Khandachakra Nagarpalika (Kalikot),Kalikot,Karnali Province
+630,Mahawai Gaupalika (Kalikot),Kalikot,Karnali Province
+631,Naraharinath Gaupalika (Kalikot),Kalikot,Karnali Province
+632,Pachal Jharana Gaupalika (Kalikot),Kalikot,Karnali Province
+633,Palata Gaupalika (Kalikot),Kalikot,Karnali Province
+634,Raskot Nagarpalika (Kalikot),Kalikot,Karnali Province
+635,Sanni Tribeni Gaupalika (Kalikot),Kalikot,Karnali Province
+636,Tilagupha Nagarpalika (Kalikot),Kalikot,Karnali Province
+637,Chhayanath Rara Nagarpalika (Mugu),Mugu,Karnali Province
+638,Khatyad Gaupalika (Mugu),Mugu,Karnali Province
+639,Mugumakarmarog Gaupalika (Mugu),Mugu,Karnali Province
+640,Soru Gaupalika (Mugu),Mugu,Karnali Province
+641,Aathabisakot Nagarpalika (Rukum_W),Rukum_W,Karnali Province
+642,Baphikot Gaupalika (Rukum_W),Rukum_W,Karnali Province
+643,Chaurjahari Nagarpalika (Rukum_W),Rukum_W,Karnali Province
+644,Musikot Nagarpalika (Rukum_W),Rukum_W,Karnali Province
+645,Sanibheri Gaupalika (Rukum_W),Rukum_W,Karnali Province
+646,Tribeni Gaupalika (Rukum_W),Rukum_W,Karnali Province
+647,Bagachour Nagarpalika (Salyan),Salyan,Karnali Province
+648,Banagad Kupinde Nagarpalika (Salyan),Salyan,Karnali Province
+649,Chhatreshwori Gaupalika (Salyan),Salyan,Karnali Province
+650,Darma Gaupalika (Salyan),Salyan,Karnali Province
+651,Siddha Kumakh Gaupalika (Salyan),Salyan,Karnali Province
+652,Kalimati Gaupalika (Salyan),Salyan,Karnali Province
+653,Kapurkot Gaupalika (Salyan),Salyan,Karnali Province
+654,Kumakh Gaupalika (Salyan),Salyan,Karnali Province
+655,Sharada Nagarpalika (Salyan),Salyan,Karnali Province
+656,Tribeni Gaupalika (Salyan),Salyan,Karnali Province
+657,Barahatal Gaupalika (Surkhet),Surkhet,Karnali Province
+658,Bheriganga Nagarpalika (Surkhet),Surkhet,Karnali Province
+659,Birendranagar Nagarpalika (Surkhet),Surkhet,Karnali Province
+660,Chaukune Gaupalika (Surkhet),Surkhet,Karnali Province
+661,Chingad Gaupalika (Surkhet),Surkhet,Karnali Province
+662,Gurbhakot Nagarpalika (Surkhet),Surkhet,Karnali Province
+663,Lekabeshi Nagarpalika (Surkhet),Surkhet,Karnali Province
+664,Panchapuri Nagarpalika (Surkhet),Surkhet,Karnali Province
+665,Simta Gaupalika (Surkhet),Surkhet,Karnali Province
+666,Bannigadhi Jayagadh Gaupalika (Achham),Achham,Sudurpashchim Province
+667,Chaurpati Gaupalika (Achham),Achham,Sudurpashchim Province
+668,Dhakari Gaupalika (Achham),Achham,Sudurpashchim Province
+669,Kamal bazar Nagarpalika (Achham),Achham,Sudurpashchim Province
+670,Mangalsen Nagarpalika (Achham),Achham,Sudurpashchim Province
+671,Mellekh Gaupalika (Achham),Achham,Sudurpashchim Province
+672,Panchdebal Binayak Nagarpalika (Achham),Achham,Sudurpashchim Province
+673,Ramaroshan Gaupalika (Achham),Achham,Sudurpashchim Province
+674,Sanphebagar Nagarpalika (Achham),Achham,Sudurpashchim Province
+675,Turmakhand Gaupalika (Achham),Achham,Sudurpashchim Province
+676,Dasharathchand Nagarpalika (Baitadi),Baitadi,Sudurpashchim Province
+677,Dilasaini Gaupalika (Baitadi),Baitadi,Sudurpashchim Province
+678,Dogada Kedar Gaupalika (Baitadi),Baitadi,Sudurpashchim Province
+679,Melauli Nagarpalika (Baitadi),Baitadi,Sudurpashchim Province
+680,Pancheshwor Gaupalika (Baitadi),Baitadi,Sudurpashchim Province
+681,Patan Nagarpalika (Baitadi),Baitadi,Sudurpashchim Province
+682,Puchaundi Nagarpalika (Baitadi),Baitadi,Sudurpashchim Province
+683,Shivanath Gaupalika (Baitadi),Baitadi,Sudurpashchim Province
+684,Sigas Gaupalika (Baitadi),Baitadi,Sudurpashchim Province
+685,Surnaya Gaupalika (Baitadi),Baitadi,Sudurpashchim Province
+686,Bitthadchir Gaupalika (Bajhang),Bajhang,Sudurpashchim Province
+687,Bungal Nagarpalika (Bajhang),Bajhang,Sudurpashchim Province
+688,Chhabis Pathibhara Gaupalika (Bajhang),Bajhang,Sudurpashchim Province
+689,Durgathali Gaupalika (Bajhang),Bajhang,Sudurpashchim Province
+690,Jayaprithibi Nagarpalika (Bajhang),Bajhang,Sudurpashchim Province
+691,Kadaa Gaupalika (Bajhang),Bajhang,Sudurpashchim Province
+692,Kedarsyun Gaupalika (Bajhang),Bajhang,Sudurpashchim Province
+693,Khaptad Chhanna Gaupalika (Bajhang),Bajhang,Sudurpashchim Province
+694,Masta Gaupalika (Bajhang),Bajhang,Sudurpashchim Province
+695,Surma Gaupalika (Bajhang),Bajhang,Sudurpashchim Province
+696,Talkot Gaupalika (Bajhang),Bajhang,Sudurpashchim Province
+697,Thalara Gaupalika (Bajhang),Bajhang,Sudurpashchim Province
+698,Badimalika Nagarpalika (Bajura),Bajura,Sudurpashchim Province
+699,Budhiganga Nagarpalika (Bajura),Bajura,Sudurpashchim Province
+700,Budhinanda Nagarpalika (Bajura),Bajura,Sudurpashchim Province
+701,Gaumul Gaupalika (Bajura),Bajura,Sudurpashchim Province
+702,Himali Gaupalika (Bajura),Bajura,Sudurpashchim Province
+703,Jagannath Gaupalika (Bajura),Bajura,Sudurpashchim Province
+704,Khaptad Chhededaha Gaupalika (Bajura),Bajura,Sudurpashchim Province
+705,Swami Kartik Khapar Gaupalika (Bajura),Bajura,Sudurpashchim Province
+706,Tribeni Nagarpalika (Bajura),Bajura,Sudurpashchim Province
+707,Aalital Gaupalika (Dadeldhura),Dadeldhura,Sudurpashchim Province
+708,Ajayameru Gaupalika (Dadeldhura),Dadeldhura,Sudurpashchim Province
+709,Amargadhi Nagarpalika (Dadeldhura),Dadeldhura,Sudurpashchim Province
+710,Bhageshwor Gaupalika (Dadeldhura),Dadeldhura,Sudurpashchim Province
+711,Ganyapdhura Gaupalika (Dadeldhura),Dadeldhura,Sudurpashchim Province
+712,Nawadurga Gaupalika (Dadeldhura),Dadeldhura,Sudurpashchim Province
+713,Parashuram Nagarpalika (Dadeldhura),Dadeldhura,Sudurpashchim Province
+714,Apihimal Gaupalika (Darchula),Darchula,Sudurpashchim Province
+715,Byas Gaupalika (Darchula),Darchula,Sudurpashchim Province
+716,Duhun Gaupalika (Darchula),Darchula,Sudurpashchim Province
+717,Lekam Gaupalika (Darchula),Darchula,Sudurpashchim Province
+718,Mahakali Nagarpalika (Darchula),Darchula,Sudurpashchim Province
+719,Malikarjun Gaupalika (Darchula),Darchula,Sudurpashchim Province
+720,Marma Gaupalika (Darchula),Darchula,Sudurpashchim Province
+721,Naugad Gaupalika (Darchula),Darchula,Sudurpashchim Province
+722,Shailyashikhar Nagarpalika (Darchula),Darchula,Sudurpashchim Province
+723,Aadarsha Gaupalika (Doti),Doti,Sudurpashchim Province
+724,Badi Kedar Gaupalika (Doti),Doti,Sudurpashchim Province
+725,Bogatan Gaupalika (Doti),Doti,Sudurpashchim Province
+726,Dipayal Silgadhi Nagarpalika (Doti),Doti,Sudurpashchim Province
+727,Jorayal Gaupalika (Doti),Doti,Sudurpashchim Province
+728,K.I. Singh Gaupalika (Doti),Doti,Sudurpashchim Province
+729,Purbichouki Gaupalika (Doti),Doti,Sudurpashchim Province
+730,Sayal Gaupalika (Doti),Doti,Sudurpashchim Province
+731,Shikhar Nagarpalika (Doti),Doti,Sudurpashchim Province
+732,Bardagoriya Gaupalika (Kailali),Kailali,Sudurpashchim Province
+733,Bhajani Nagarpalika (Kailali),Kailali,Sudurpashchim Province
+734,Chure Gaupalika (Kailali),Kailali,Sudurpashchim Province
+735,Dhangadhi Sub-Nagarpalika (Kailali),Kailali,Sudurpashchim Province
+736,Gauriganga Nagarpalika (Kailali),Kailali,Sudurpashchim Province
+737,Ghodaghodi Nagarpalika (Kailali),Kailali,Sudurpashchim Province
+738,Godawari Nagarpalika (Kailali),Kailali,Sudurpashchim Province
+739,Janaki Gaupalika (Kailali),Kailali,Sudurpashchim Province
+740,Joshipur Gaupalika (Kailali),Kailali,Sudurpashchim Province
+741,Kailari Gaupalika (Kailali),Kailali,Sudurpashchim Province
+742,Lamki Chuha Nagarpalika (Kailali),Kailali,Sudurpashchim Province
+743,Mohanyal Gaupalika (Kailali),Kailali,Sudurpashchim Province
+744,Tikapur Nagarpalika (Kailali),Kailali,Sudurpashchim Province
+745,Bedkot Nagarpalika (Kanchanpur),Kanchanpur,Sudurpashchim Province
+746,Beldandi Gaupalika (Kanchanpur),Kanchanpur,Sudurpashchim Province
+747,Belouri Nagarpalika (Kanchanpur),Kanchanpur,Sudurpashchim Province
+748,Bhimdatta Nagarpalika (Kanchanpur),Kanchanpur,Sudurpashchim Province
+749,Krishnapur Nagarpalika (Kanchanpur),Kanchanpur,Sudurpashchim Province
+750,Laljhadi Gaupalika (Kanchanpur),Kanchanpur,Sudurpashchim Province
+751,Mahakali Nagarpalika (Kanchanpur),Kanchanpur,Sudurpashchim Province
+752,Punarbas Nagarpalika (Kanchanpur),Kanchanpur,Sudurpashchim Province
+753,Shuklaphanta Nagarpalika (Kanchanpur),Kanchanpur,Sudurpashchim Province

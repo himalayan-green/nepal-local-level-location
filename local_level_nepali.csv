@@ -1,0 +1,754 @@
+local_level_id,local_level_name,district_id
+1,Aamchowk Gaupalika (Bhojpur),6
+2,Arun Gaupalika (Bhojpur),6
+3,Bhojpur Nagarpalika (Bhojpur),6
+4,Hatuwagadhi Gaupalika (Bhojpur),6
+5,Pauwa Dunma Gaupalika (Bhojpur),6
+6,Ramprasad Rai Gaupalika (Bhojpur),6
+7,Salpa Silichho Gaupalika (Bhojpur),6
+8,Shadananda Nagarpalika (Bhojpur),6
+9,Temke Maiyum Gaupalika (Bhojpur),6
+10,Chaubise Gaupalika (Dhankuta),7
+11,Chhathar Jorpati Gaupalika (Dhankuta),7
+12,Dhankuta Nagarpalika (Dhankuta),7
+13,Khalsa Chhintang Sahidbhumi Gaupalika (Dhankuta),7
+14,Mahalaxmi Nagarpalika (Dhankuta),7
+15,Pakhribas Nagarpalika (Dhankuta),7
+16,Sangurigadhi Gaupalika (Dhankuta),7
+17,Chulachuli Gaupalika (Ilam),10
+18,Deumai Nagarpalika (Ilam),10
+19,Fakfokathum Gaupalika (Ilam),10
+20,Illam Nagarpalika (Ilam),10
+21,Mai Jogmai Gaupalika (Ilam),10
+22,Mai Nagarpalika (Ilam),10
+23,Mangsebung Gaupalika (Ilam),10
+24,Rong Gaupalika (Ilam),10
+25,Sandakpur Gaupalika (Ilam),10
+26,Suryodaya Nagarpalika (Ilam),10
+27,Arjundhara Nagarpalika (Jhapa),11
+28,Barhadashi Gaupalika (Jhapa),11
+29,Bhadrapur Nagarpalika (Jhapa),11
+30,Birtamod Nagarpalika (Jhapa),11
+31,Buddhashanti Gaupalika (Jhapa),11
+32,Damak Nagarpalika (Jhapa),11
+33,Gauradaha Nagarpalika (Jhapa),11
+34,Gauriganj Gaupalika (Jhapa),11
+35,Haldibari Gaupalika (Jhapa),11
+36,Jhapa Gaupalika (Jhapa),11
+37,Kachanakawal Gaupalika (Jhapa),11
+38,Kamal Gaupalika (Jhapa),11
+39,Kankai Nagarpalika (Jhapa),11
+40,Mechinagar Nagarpalika (Jhapa),11
+41,Shivasatakshi Nagarpalika (Jhapa),11
+42,Aiselukharka Gaupalika (Khotang),5
+43,Baraha Pokhari Gaupalika (Khotang),5
+44,Diktal Rupakot Majhuwagadhi Nagarpalika (Khotang),5
+45,Diprung Chuichumma Gaupalika (Khotang),5
+46,Halesi Tuwachung Nagarpalika (Khotang),5
+47,Jante Dhunga Gaupalika (Khotang),5
+48,Kepilasgadhi Gaupalika (Khotang),5
+49,Khotehang Gaupalika (Khotang),5
+50,RawaBeshi Gaupalika (Khotang),5
+51,Sakela Gaupalika (Khotang),5
+52,Belbari Nagarpalika (Morang),12
+53,Biratnagar Nagarpalika (Morang),12
+54,Budhiganga Gaupalika (Morang),12
+55,Dhanapalthan Gaupalika (Morang),12
+56,Gramthan Gaupalika (Morang),12
+57,Jahada Gaupalika (Morang),12
+58,Kanepokhari Gaupalika (Morang),12
+59,Katahari Gaupalika (Morang),12
+60,Kerabari Gaupalika (Morang),12
+61,Letang Bazar (Morang),12
+62,Miklajung Gaupalika (Morang),12
+63,Pathari Shanishchare Nagarpalika (Morang),12
+64,Rangeli Nagarpalika (Morang),12
+65,Ratuwamai Nagarpalika (Morang),12
+66,Sundarharaicha Nagarpalika (Morang),12
+67,Sunwarshi Nagarpalika (Morang),12
+68,Urlabari Nagarpalika (Morang),12
+69,Champadevi Gaupalika (Okhaldhunga),4
+70,Chishankhu Gadhi Gaupalika (Okhaldhunga),4
+71,Khiji Demba Gaupalika (Okhaldhunga),4
+72,Likhu Gaupalika (Okhaldhunga),4
+73,Manebhanjyang Gaupalika (Okhaldhunga),4
+74,Molung Gaupalika (Okhaldhunga),4
+75,Siddhicharan Nagarpalika (Okhaldhunga),4
+76,Sunkoshi Gaupalika (Okhaldhunga),4
+77,Falelung Gaupalika (Panchthar),9
+78,Hilihan Gaupalika (Panchthar),9
+79,Kummayak Gaupalika (Panchthar),9
+80,Miklajung Gaupalika (Panchthar),9
+81,Phalgunanda Gaupalika (Panchthar),9
+82,Phidim Nagarpalika (Panchthar),9
+83,Tumbewa Gaupalika (Panchthar),9
+84,Yangbarak Gaupalika (Panchthar),9
+85,Bhotkhola Gaupalika (Sankhuwasabha),2
+86,Chainapur Nagarpalika (Sankhuwasabha),2
+87,Chichila Gaupalika (Sankhuwasabha),2
+88,Dharmadevi Nagarpalika (Sankhuwasabha),2
+89,Khandabari Nagarpalika (Sankhuwasabha),2
+90,Madi Nagarpalika (Sankhuwasabha),2
+91,Makalu Gaupalika (Sankhuwasabha),2
+92,Panchakhapan Nagarpalika (Sankhuwasabha),2
+93,Sabhapokhari Gaupalika (Sankhuwasabha),2
+94,Silichong Gaupalika (Sankhuwasabha),2
+95,Dhudhakoshi Gaupalika (Solukhumbu),3
+96,Dhudhkausika Gaupalika (Solukhumbu),3
+97,Khumbu Pasanglhamu Gaupalika (Solukhumbu),3
+98,Likhu Pike Gaupalika (Solukhumbu),3
+99,Mahakulung Gaupalika (Solukhumbu),3
+100,Necha Salyan Gaupalika (Solukhumbu),3
+101,Solu Dhudhakunda Nagarpalika (Solukhumbu),3
+102,Sotang Gaupalika (Solukhumbu),3
+103,Baraha Chetra Nagarpalika (Sunsari),13
+104,Barju Gaupalika (Sunsari),13
+105,Bhokraha Narasinha Gaupalika (Sunsari),13
+106,Dewangunj Gaupalika (Sunsari),13
+107,Dharan Sub-Nagarpalika (Sunsari),13
+108,Duhabi Nagarpalika (Sunsari),13
+109,Gadhi Gaupalika (Sunsari),13
+110,Harinagar Gaupalika (Sunsari),13
+111,Inaruwa Nagarpalika (Sunsari),13
+112,Itahari Sub-Nagarpalika (Sunsari),13
+113,Koshi Gaupalika (Sunsari),13
+114,Ramdhuni Nagarpalika (Sunsari),13
+115,Fungling Gaupalika (Taplejung),1
+116,Maiwakhola Gaupalika (Taplejung),1
+117,Merinden Gaupalika (Taplejung),1
+118,Pathivara yangwarak Gaupalika (Taplejung),1
+119,Phaktanlung Gaupalika (Taplejung),1
+120,Sidingba Gaupalika (Taplejung),1
+121,Sirijanga Gaupalika (Taplejung),1
+122,Aatharai Tribeni Gaupalika (Taplejung),1
+123,Mikhwakhola Gaupalika (Taplejung),1
+124,Aatharai Gaupalika (Terhathum),8
+125,Chhathar Gaupalika (Terhathum),8
+126,Laligurans Nagarpalika (Terhathum),8
+127,Menchhayayem Gaupalika (Terhathum),8
+128,Myanglung Nagarpalika (Terhathum),8
+129,Phedap Gaupalika (Terhathum),8
+130,Belaka Nagarpalika (Udayapur),14
+131,Chaudandigadhi Nagarpalika (Udayapur),14
+132,Katari Nagarpalika (Udayapur),14
+133,Limchubung Gaupalika (Udayapur),14
+134,Rautamai Gaupalika (Udayapur),14
+135,Tapli Gaupalika (Udayapur),14
+136,Triyuga Nagarpalika (Udayapur),14
+137,Udayapurgadhi Gaupalika (Udayapur),14
+138,Aadarsha Kotwal Gaupalika (Bara),21
+139,Baragadhi Gaupalika (Bara),21
+140,Bishrampur Gaupalika (Bara),21
+141,Devtal Gaupalika (Bara),21
+142,Jitpur Simara Sub-Nagarpalika (Bara),21
+143,Kalaiya Sub-Nagarpalika (Bara),21
+144,Karaiyamai Gaupalika (Bara),21
+145,Kolhabi Nagarpalika (Bara),21
+146,Mahagadhimai Nagarpalika (Bara),21
+147,Nijagadh Nagarpalika (Bara),21
+148,Pacharauta Nagarpalika (Bara),21
+149,Parawanipur Gaupalika (Bara),21
+150,Pheta Gaupalika (Bara),21
+151,Prasauni Gaupalika (Bara),21
+152,Simroungadh Nagarpalika (Bara),21
+153,Subarna Gaupalika (Bara),21
+154,Aurahi Gaupalika (Dhanusha),17
+155,Bateshwor Gaupalika (Dhanusha),17
+156,Bideha Nagarpalika (Dhanusha),17
+157,Chhireshwornath Nagarpalika (Dhanusha),17
+158,Dhanauji Gaupalika (Dhanusha),17
+159,Dhanushadham Nagarpalika (Dhanusha),17
+160,Ganeshman Charnath Nagarpalika (Dhanusha),17
+161,Hansapur Nagarpalika (Dhanusha),17
+162,Janak Nandini Gaupalika (Dhanusha),17
+163,Janakpur Sub-Nagarpalika (Dhanusha),17
+164,Kamala Nagarpalika (Dhanusha),17
+165,Laxminiya Gaupalika (Dhanusha),17
+166,Mithila Bihari Nagarpalika (Dhanusha),17
+167,Mithila Nagarpalika (Dhanusha),17
+168,Mukhiyapatti Musaharmiya Gaupalika (Dhanusha),17
+169,Nagarain Nagarpalika (Dhanusha),17
+170,Sabaila Nagarpalika (Dhanusha),17
+171,Shahidnagar Nagarpalika (Dhanusha),17
+172,Aurahi Nagarpalika (Mahottari),18
+173,Balawa Nagarpalika (Mahottari),18
+174,Bardibas Nagarpalika (Mahottari),18
+175,Bhangaha Nagarpalika (Mahottari),18
+176,Ekadara Gaupalika (Mahottari),18
+177,Gaushala Nagarpalika (Mahottari),18
+178,Jaleshwor Nagarpalika (Mahottari),18
+179,Loharpatti Nagarpalika (Mahottari),18
+180,Mahottari Gaupalika (Mahottari),18
+181,Manara Shisawa Nagarpalika (Mahottari),18
+182,Matihani Nagarpalika (Mahottari),18
+183,Pipara Gaupalika (Mahottari),18
+184,Ram Gopalpur Nagarpalika (Mahottari),18
+185,Samsi Gaupalika (Mahottari),18
+186,Sonama Gaupalika (Mahottari),18
+187,Bahudarmai Nagarpalika (Parsa),22
+188,Bindabasini Gaupalika (Parsa),22
+189,Birgunj Nagarpalika (Parsa),22
+190,Chhipaharmai Gaupalika (Parsa),22
+191,Dhobini Gaupalika (Parsa),22
+192,Jagarnathpur Gaupalika (Parsa),22
+193,Jirabhawani Gaupalika (Parsa),22
+194,Kalikamai Gaupalika (Parsa),22
+195,Pakaha Mainpur Gaupalika (Parsa),22
+196,Parsagadhi Nagarpalika (Parsa),22
+197,Paterwa Sugauli Gaupalika (Parsa),22
+198,Pokhariya Nagarpalika (Parsa),22
+199,Sakhuwa Prasauni Gaupalika (Parsa),22
+200,Thori Gaupalika (Parsa),22
+201,Boudhimai Nagarpalika (Rautahat),20
+202,Brindaban Nagarpalika (Rautahat),20
+203,Chandrapur Nagarpalika (Rautahat),20
+204,Dewahi Gonahi Nagarpalika (Rautahat),20
+205,Durga Bhagawati Gaupalika (Rautahat),20
+206,Gadhimai Nagarpalika (Rautahat),20
+207,Garuda Nagarpalika (Rautahat),20
+208,Gaur Nagarpalika (Rautahat),20
+209,Gujara Nagarpalika (Rautahat),20
+210,Ishanath Nagarpalika (Rautahat),20
+211,Katahariya Nagarpalika (Rautahat),20
+212,Madhav Narayan Nagarpalika (Rautahat),20
+213,Maulapur Nagarpalika (Rautahat),20
+214,Paroha Nagarpalika (Rautahat),20
+215,Phatuwa Bijayapur Nagarpalika (Rautahat),20
+216,Rajdevi Nagarpalika (Rautahat),20
+217,Rajpur Nagarpalika (Rautahat),20
+218,Yamunamai Gaupalika (Rautahat),20
+219,Agmisair Krishna Sabaran Gaupalika (Saptari),15
+220,Balan-Bihul Gaupalika (Saptari),15
+221,Bishnupur Gaupalika (Saptari),15
+222,Bode Barsain Nagarpalika (Saptari),15
+223,Chhinnamasta Gaupalika (Saptari),15
+224,Dakneshwori Nagarpalika (Saptari),15
+225,Hanumannagar Kankalini Nagarpalika (Saptari),15
+226,Kanchanrup Nagarpalika (Saptari),15
+227,Khadak Nagarpalika (Saptari),15
+228,Mahadewa Gaupalika (Saptari),15
+229,Rajbiraj Nagarpalika (Saptari),15
+230,Rajgud Gaupalika (Saptari),15
+231,Rupani Gaupalika (Saptari),15
+232,Saptakoshi Nagarpalika (Saptari),15
+233,Shambhunath Nagarpalika (Saptari),15
+234,Surunga Nagarpalika (Saptari),15
+235,Tilathi Koiladi Gaupalika (Saptari),15
+236,Tirahut Gaupalika (Saptari),15
+237,Bagmati Nagarpalika (Sarlahi),19
+238,Balara Nagarpalika (Sarlahi),19
+239,Barahathawa Nagarpalika (Sarlahi),19
+240,Basbariya Gaupalika (Sarlahi),19
+241,Bishnu Gaupalika (Sarlahi),19
+242,Brahmapuri Gaupalika (Sarlahi),19
+243,Chakraghatta Gaupalika (Sarlahi),19
+244,Chandranagar Gaupalika (Sarlahi),19
+245,Dhanakaul Gaupalika (Sarlahi),19
+246,Godaita Nagarpalika (Sarlahi),19
+247,Haripur Nagarpalika (Sarlahi),19
+248,Haripurwa Nagarpalika (Sarlahi),19
+249,Hariwan Nagarpalika (Sarlahi),19
+250,Ishworpur Nagarpalika (Sarlahi),19
+251,Kabilashi Nagarpalika (Sarlahi),19
+252,Kaudena Gaupalika (Sarlahi),19
+253,Lalbandi Nagarpalika (Sarlahi),19
+254,Malangawa Nagarpalika (Sarlahi),19
+255,Parsa Gaupalika (Sarlahi),19
+256,Ramnagar Gaupalika (Sarlahi),19
+257,Arnama Gaupalika (Siraha),16
+258,Aurahi Gaupalika (Siraha),16
+259,Bariyarpatti Gaupalika (Siraha),16
+260,Bhagawanpur Gaupalika (Siraha),16
+261,Bishnupur Gaupalika (Siraha),16
+262,Dhangadhimai Nagarpalika (Siraha),16
+263,Golbazar Nagarpalika (Siraha),16
+264,Kalyanpur Nagarpalika (Siraha),16
+265,Karjanha Nagarpalika (Siraha),16
+266,Lahan Nagarpalika (Siraha),16
+267,Laxmipur Patari Gaupalika (Siraha),16
+268,Mirchaiya Nagarpalika (Siraha),16
+269,Naraha Gaupalika (Siraha),16
+270,Nawarajpur Gaupalika (Siraha),16
+271,Sakhuwa Nankarkatti Gaupalika (Siraha),16
+272,Siraha Nagarpalika (Siraha),16
+273,Sukhipur Nagarpalika (Siraha),16
+274,Bhaktapur Nagarpalika (Bhaktapur),29
+275,Changunarayan Nagarpalika (Bhaktapur),29
+276,Madhyapur Thimi Nagarpalika (Bhaktapur),29
+277,Suryabinayak Nagarpalika (Bhaktapur),29
+278,Bharatpur Nagarpalika (Chitawan),35
+279,Ichchha Kamana Gaupalika (Chitawan),35
+280,Kalika Nagarpalika (Chitawan),35
+281,Khairahani Nagarpalika (Chitawan),35
+282,Madi Nagarpalika (Chitawan),35
+283,Rapti Nagarpalika (Chitawan),35
+284,Ratnanagar Nagarpalika (Chitawan),35
+285,Benighat Rorang Gaupalika (Dhading),26
+286,Dhunibenshi Nagarpalika (Dhading),26
+287,Gajuri Gaupalika (Dhading),26
+288,Galchhi Gaupalika (Dhading),26
+289,Ganga Jamuna Gaupalika (Dhading),26
+290,Jwalamukhi Gaupalika (Dhading),26
+291,Khaniyabas Gaupalika (Dhading),26
+292,Netrawati Dabjong Gaupalika (Dhading),26
+293,Nilkhantha Nagarpalika (Dhading),26
+294,Rubi Valley Gaupalika (Dhading),26
+295,Siddhalek Gaupalika (Dhading),26
+296,Thakre Gaupalika (Dhading),26
+297,Tripurasundari Gaupalika (Dhading),26
+298,Baiteswor Gaupalika (Dolakha),23
+299,Bhimeshwor Nagarpalika (Dolakha),23
+300,Bigu Gaupalika (Dolakha),23
+301,Gaurishankar Gaupalika (Dolakha),23
+302,Jiri Nagarpalika (Dolakha),23
+303,Kalinchowk Gaupalika (Dolakha),23
+304,Melung Gaupalika (Dolakha),23
+305,Shailung Gaupalika (Dolakha),23
+306,Tamakoshi Gaupalika (Dolakha),23
+307,Banepa Nagarpalika (Kabhrepalanchok),31
+308,Bethanchowk Gaupalika (Kabhrepalanchok),31
+309,Bhumlu Gaupalika (Kabhrepalanchok),31
+310,Chauri Deurali Gaupalika (Kabhrepalanchok),31
+311,Dhulikhel Nagarpalika (Kabhrepalanchok),31
+312,Khanikhola Gaupalika (Kabhrepalanchok),31
+313,Mahabharat Gaupalika (Kabhrepalanchok),31
+314,Mandan Deupur Nagarpalika (Kabhrepalanchok),31
+315,Namobuddha Nagarpalika (Kabhrepalanchok),31
+316,Panauti Nagarpalika (Kabhrepalanchok),31
+317,Panchkhal Nagarpalika (Kabhrepalanchok),31
+318,Roshi Gaupalika (Kabhrepalanchok),31
+319,Temal Gaupalika (Kabhrepalanchok),31
+320,Budhanilkhantha Nagarpalika (Kathmandu),28
+321,Chandragiri Nagarpalika (Kathmandu),28
+322,Dakshinkali Nagarpalika (Kathmandu),28
+323,Gokarneshwor Nagarpalika (Kathmandu),28
+324,Kageshwori Manahara Nagarpalika (Kathmandu),28
+325,Kathmandu Nagarpalika (Kathmandu),28
+326,Kirtipur Nagarpalika (Kathmandu),28
+327,Nagarjun Nagarpalika (Kathmandu),28
+328,Shankharapur Nagarpalika (Kathmandu),28
+329,Tarakeshwor Nagarpalika (Kathmandu),28
+330,Tokha Nagarpalika (Kathmandu),28
+331,Bagmati Gaupalika (Lalitpur),30
+332,Godawari Nagarpalika (Lalitpur),30
+333,Konjyosom Gaupalika (Lalitpur),30
+334,Lalitpur Nagarpalika (Lalitpur),30
+335,Mahalaxmi Nagarpalika (Lalitpur),30
+336,Mahankal Gaupalika (Lalitpur),30
+337,Bagmati Gaupalika (Makawanpur),34
+338,Bakaiya Gaupalika (Makawanpur),34
+339,Bhimphedi Gaupalika (Makawanpur),34
+340,Hetauda Sub-Nagarpalika (Makawanpur),34
+341,Indrasarowar Gaupalika (Makawanpur),34
+342,Kailash Gaupalika (Makawanpur),34
+343,Makawanpurgadhi Gaupalika (Makawanpur),34
+344,Manahari Gaupalika (Makawanpur),34
+345,Raksirang Gaupalika (Makawanpur),34
+346,Thaha Nagarpalika (Makawanpur),34
+347,Belkotgadhi Nagarpalika (Nuwakot),27
+348,Bidur Nagarpalika (Nuwakot),27
+349,Dupcheshwor Gaupalika (Nuwakot),27
+350,Kakani Gaupalika (Nuwakot),27
+351,Kispang Gaupalika (Nuwakot),27
+352,Likhu Gaupalika (Nuwakot),27
+353,Myagang Gaupalika (Nuwakot),27
+354,Panchakanya Gaupalika (Nuwakot),27
+355,Shivapuri Gaupalika (Nuwakot),27
+356,Suryagadhi Gaupalika (Nuwakot),27
+357,Tadi Gaupalika (Nuwakot),27
+358,Tarakeshwor Gaupalika (Nuwakot),27
+359,Doramba Gaupalika (Ramechhap),32
+360,Gokulganga Gaupalika (Ramechhap),32
+361,Khandadevi Gaupalika (Ramechhap),32
+362,Likhu Tamakoshi Gaupalika (Ramechhap),32
+363,Manthali Nagarpalika (Ramechhap),32
+364,Ramechhap Nagarpalika (Ramechhap),32
+365,Sunapati Gaupalika (Ramechhap),32
+366,Umakunda Gaupalika (Ramechhap),32
+367,Gosaikunda Gaupalika (Rasuwa),25
+368,Kalika Gaupalika (Rasuwa),25
+369,Naukunda Gaupalika (Rasuwa),25
+370,Parbatikunda Gaupalika (Rasuwa),25
+371,Uttargaya Gaupalika (Rasuwa),25
+372,Dudhouli Nagarpalika (Sindhuli),33
+373,Ghyanglekha Gaupalika (Sindhuli),33
+374,Golanjor Gaupalika (Sindhuli),33
+375,Hariharpurgaghi Gaupalika (Sindhuli),33
+376,Kamalamai Nagarpalika (Sindhuli),33
+377,Marin Gaupalika (Sindhuli),33
+378,Phikkal Gaupalika (Sindhuli),33
+379,Sunkoshi Gaupalika (Sindhuli),33
+380,Tinpatan Gaupalika (Sindhuli),33
+381,Bahrabise Nagarpalika (Sindhupalchok),24
+382,Balephi Gaupalika (Sindhupalchok),24
+383,Bhotekoshi Gaupalika (Sindhupalchok),24
+384,Choutara Sangachowkgadhi Nagarpalika (Sindhupalchok),24
+385,Helambu Gaupalika (Sindhupalchok),24
+386,Indrawoti Gaupalika (Sindhupalchok),24
+387,Jugal Gaupalika (Sindhupalchok),24
+388,Lisankhu Pakhar Gaupalika (Sindhupalchok),24
+389,Melanchi Nagarpalika (Sindhupalchok),24
+390,Panchpokhari Thangpal Gaupalika (Sindhupalchok),24
+391,Sunkoshi Gaupalika (Sindhupalchok),24
+392,Tripurasundari Gaupalika (Sindhupalchok),24
+393,Badigad Gaupalika (Baglung),46
+394,Baglung Nagarpalika (Baglung),46
+395,Bareng Gaupalika (Baglung),46
+396,Dhorpatan Nagarpalika (Baglung),46
+397,Galkot Nagarpalika (Baglung),46
+398,Jaimuni Nagarpalika (Baglung),46
+399,Kathekhola Gaupalika (Baglung),46
+400,Nisikhola Gaupalika (Baglung),46
+401,Tamankhola Gaupalika (Baglung),46
+402,Tarakhola Gaupalika (Baglung),46
+403,Aarughat Gaupalika (Gorkha),36
+404,Ajirkot Gaupalika (Gorkha),36
+405,Barpak Sulikot Gaupalika (Gorkha),36
+406,Bhimsen Thapa Gaupalika (Gorkha),36
+407,Chumanubri Gaupalika (Gorkha),36
+408,Dharche Gaupalika (Gorkha),36
+409,Gandaki Gaupalika (Gorkha),36
+410,Gorkha Nagarpalika (Gorkha),36
+411,Palungtar Nagarpalika (Gorkha),36
+412,Shahid Lakhan Gaupalika (Gorkha),36
+413,Siranchowk Gaupalika (Gorkha),36
+414,Annapurna Gaupalika (Kaski),40
+415,Machhapuchchhre Gaupalika (Kaski),40
+416,Madi Gaupalika (Kaski),40
+417,Pokhara Nagarpalika (Kaski),40
+418,Rupa Gaupalika (Kaski),40
+419,Bensi Shahar Nagarpalika (Lamjung),41
+420,Dordi Gaupalika (Lamjung),41
+421,Dudhapokhari Gaupalika (Lamjung),41
+422,Kwhola Sothar Gaupalika (Lamjung),41
+423,Madhya Nepal Nagarpalika (Lamjung),41
+424,Marshyangdi Gaupalika (Lamjung),41
+425,Rainas Nagarpalika (Lamjung),41
+426,Sundarbazar Nagarpalika (Lamjung),41
+427,Chame Gaupalika (Manang),37
+428,Manang Nisyang Gaupalika (Manang),37
+429,Narpabhumi Gaupalika (Manang),37
+430,Narsho Gaupalika (Manang),37
+431,Gharpajhong Gaupalika (Mustang),38
+432,Lho-Ghekar Damodarkunda Gaupalika (Mustang),38
+433,Lomanthang Gaupalika (Mustang),38
+434,Thasang Gaupalika (Mustang),38
+435,Waragung Muktikshetra Gaupalika (Mustang),38
+436,Annapurna Gaupalika (Myagdi),39
+437,Beni Nagarpalika (Myagdi),39
+438,Dhawalagiri Gaupalika (Myagdi),39
+439,Malika Gaupalika (Myagdi),39
+440,Mangala Gaupalika (Myagdi),39
+441,Raghuganga Gaupalika (Myagdi),39
+442,Baudikali Gaupalika (Nawalparasi_E),43
+443,Binayi Tribeni Gaupalika (Nawalparasi_E),43
+444,Bulingtar Gaupalika (Nawalparasi_E),43
+445,Devchuli Nagarpalika (Nawalparasi_E),43
+446,Gaidakot Nagarpalika (Nawalparasi_E),43
+447,Hupsekot Gaupalika (Nawalparasi_E),43
+448,Kawasoti Nagarpalika (Nawalparasi_E),43
+449,Madhya Bindu Nagarpalika (Nawalparasi_E),43
+450,Bihadi Gaupalika (Parbat),45
+451,Jaljala Gaupalika (Parbat),45
+452,Kushma Nagarpalika (Parbat),45
+453,Mahashila Gaupalika (Parbat),45
+454,Modi Gaupalika (Parbat),45
+455,Paiyu Gaupalika (Parbat),45
+456,Phalebas Nagarpalika (Parbat),45
+457,Aandhikhola Gaupalika (Syangja),44
+458,Arjun Choupari Gaupalika (Syangja),44
+459,Bhirkot Municipaity (Syangja),44
+460,Biruwa Gaupalika (Syangja),44
+461,Chapakot Nagarpalika (Syangja),44
+462,Galyang Nagarpalika (Syangja),44
+463,Harinas Gaupalika (Syangja),44
+464,Kaligandaki Gaupalika (Syangja),44
+465,Phedikhola Gaupalika (Syangja),44
+466,Putalibazar Nagarpalika (Syangja),44
+467,Walling Nagarpalika (Syangja),44
+468,Aanbu Khaireni Gaupalika (Tanahu),42
+469,Bandipur Gaupalika (Tanahu),42
+470,Bhanu Nagarpalika (Tanahu),42
+471,Bhimad Nagarpalika (Tanahu),42
+472,Byas Nagarpalika (Tanahu),42
+473,Devghat Gaupalika (Tanahu),42
+474,Ghiring Gaupalika (Tanahu),42
+475,Myagde Gaupalika (Tanahu),42
+476,Rhishing Gaupalika (Tanahu),42
+477,Shuklagandaki Nagarpalika (Tanahu),42
+478,Bhumekasthan (Arghakhanchi),51
+479,Chhatradev (Arghakhanchi),51
+480,Malarani (Arghakhanchi),51
+481,Panini (Arghakhanchi),51
+482,Sandhikharka (Arghakhanchi),51
+483,Sitganga (Arghakhanchi),51
+484,Baijanath (Banke),57
+485,Duduwa (Banke),57
+486,Janki (Banke),57
+487,Khajura (Banke),57
+488,Kohalpur (Banke),57
+489,Narainapur (Banke),57
+490,Nepalgunj (Banke),57
+491,Rapti Sonari (Banke),57
+492,Badhaiyatal (Bardiya),58
+493,Bansagadhi (Bardiya),58
+494,Barbardiya (Bardiya),58
+495,Geruwa (Bardiya),58
+496,Gulariya (Bardiya),58
+497,Madhuwan (Bardiya),58
+498,Rajapur (Bardiya),58
+499,Thakurbaba (Bardiya),58
+500,Babai (Dang),56
+501,Banglachuli (Dang),56
+502,Dangisharan (Dang),56
+503,Gadhawa (Dang),56
+504,Ghorahi (Dang),56
+505,Lamahi (Dang),56
+506,Rajpur (Dang),56
+507,Rapti (Dang),56
+508,Shantinagar (Dang),56
+509,Tulsipur (Dang),56
+510,Chandrakot (Gulmi),50
+511,Chatrakot (Gulmi),50
+512,Dhurkot (Gulmi),50
+513,Gulmidarbar (Gulmi),50
+514,Isma (Gulmi),50
+515,Kaligandaki (Gulmi),50
+516,Madane (Gulmi),50
+517,Malika (Gulmi),50
+518,Musikot (Gulmi),50
+519,Resunga (Gulmi),50
+520,Ruru (Gulmi),50
+521,Satyawati (Gulmi),50
+522,Banganga (Kapilbastu),55
+523,Bijayanagar (Kapilbastu),55
+524,Buddhabhumi (Kapilbastu),55
+525,Kapilbastu (Kapilbastu),55
+526,Krishnanagar (Kapilbastu),55
+527,Maharajgunj (Kapilbastu),55
+528,Mayadevi (Kapilbastu),55
+529,Shivaraj (Kapilbastu),55
+530,Suddhodhan (Kapilbastu),55
+531,Yashodhara (Kapilbastu),55
+532,Bardaghat (Nawalparasi_W),53
+533,Palhi Nandan (Nawalparasi_W),53
+534,Pratappur (Nawalparasi_W),53
+535,Ramgram (Nawalparasi_W),53
+536,Sarawal (Nawalparasi_W),53
+537,Sunwal (Nawalparasi_W),53
+538,Susta (Nawalparasi_W),53
+539,Bagnaskali (Palpa),52
+540,Mathagadhi (Palpa),52
+541,Nisdi (Palpa),52
+542,Purbakhola (Palpa),52
+543,Rainadevi Chhahara (Palpa),52
+544,Rambha (Palpa),52
+545,Rampur (Palpa),52
+546,Ribdikot (Palpa),52
+547,Tansen (Palpa),52
+548,Tinau (Palpa),52
+549,Ayirabati (Pyuthan),49
+550,Gaumukhi (Pyuthan),49
+551,Jhimruk (Pyuthan),49
+552,Mallarani (Pyuthan),49
+553,Mandavi (Pyuthan),49
+554,Naubahini (Pyuthan),49
+555,Pyuthan (Pyuthan),49
+556,Sarumarani (Pyuthan),49
+557,Sworgadwary (Pyuthan),49
+558,Duikholi (Rolpa),48
+559,Lungri (Rolpa),48
+560,Madi (Rolpa),48
+561,Rolpa (Rolpa),48
+562,Runtigadi (Rolpa),48
+563,Sukidaha (Rolpa),48
+564,Sunchhahari (Rolpa),48
+565,Suwarnabati (Rolpa),48
+566,Thawang (Rolpa),48
+567,Tribeni (Rolpa),48
+568,Bhume (Rukum_E),47
+569,Putha Uttarganga (Rukum_E),47
+570,Sisne (Rukum_E),47
+571,Butwal (Rupandehi),54
+572,Devdaha (Rupandehi),54
+573,Gaidahawa (Rupandehi),54
+574,Kanchan (Rupandehi),54
+575,Kotahimai (Rupandehi),54
+576,Lumbini Sanskritik (Rupandehi),54
+577,Marchawari (Rupandehi),54
+578,Mayadevi (Rupandehi),54
+579,Omsatiya (Rupandehi),54
+580,Rohini (Rupandehi),54
+581,Sainamaina (Rupandehi),54
+582,Sammarimai (Rupandehi),54
+583,Siddharthanagar (Rupandehi),54
+584,Siyari (Rupandehi),54
+585,Sudhdhodhan (Rupandehi),54
+586,Tillotama (Rupandehi),54
+587,Aathbis Nagarpalika (Dailekh),65
+588,Bhagawatimai Gaupalika (Dailekh),65
+589,Bhairabi Gaupalika (Dailekh),65
+590,Chamunda Bindrasaini Nagarpalika (Dailekh),65
+591,Dullu Nagarpalika (Dailekh),65
+592,Dungeshwor Gaupalika (Dailekh),65
+593,Gurans Gaupalika (Dailekh),65
+594,Mahabu Gaupalika (Dailekh),65
+595,Narayan Nagarpalika (Dailekh),65
+596,Naumule Gaupalika (Dailekh),65
+597,Thantikandh Gaupalika (Dailekh),65
+598,Chharka Tangsong Gaupalika (Dolpa),60
+599,Dolpo Buddha Gaupalika (Dolpa),60
+600,Jagadulla Gaupalika (Dolpa),60
+601,Kaike Gaupalika (Dolpa),60
+602,Mudkechula Gaupalika (Dolpa),60
+603,Shey Phoksundo Gaupalika (Dolpa),60
+604,Thulibheri Nagarpalika (Dolpa),60
+605,Tripurasundari Nagarpalika (Dolpa),60
+606,Adanchuli Gaupalika (Humla),62
+607,Chankheli Gaupalika (Humla),62
+608,Kharpunath Gaupalika (Humla),62
+609,Namkha Gaupalika (Humla),62
+610,Sarkegad Gaupalika (Humla),62
+611,Simkot Gaupalika (Humla),62
+612,Tanjakot Gaupalika (Humla),62
+613,Barekot Gaupalika (Jajarkot),66
+614,Bheri Malika Nagarpalika (Jajarkot),66
+615,Chhedagad Nagarpalika (Jajarkot),66
+616,Junichande Gaupalika (Jajarkot),66
+617,Kuse Gaupalika (Jajarkot),66
+618,Shivalaya Gaupalika (Jajarkot),66
+619,Nalagad Nagarpalika (Jajarkot),66
+620,Chandannath Nagarpalika (Jumla),63
+621,Guthichaur Gaupalika (Jumla),63
+622,Hima Gaupalika (Jumla),63
+623,Kanaka Sundari Gaun Palika (Jumla),63
+624,Patarasi Gaupalika (Jumla),63
+625,Sinja Gaupalika (Jumla),63
+626,Tatopani Gaupalika (Jumla),63
+627,Tila Gaupalika (Jumla),63
+628,Shuba Kalika Gaupalika (Kalikot),64
+629,Khandachakra Nagarpalika (Kalikot),64
+630,Mahawai Gaupalika (Kalikot),64
+631,Naraharinath Gaupalika (Kalikot),64
+632,Pachal Jharana Gaupalika (Kalikot),64
+633,Palata Gaupalika (Kalikot),64
+634,Raskot Nagarpalika (Kalikot),64
+635,Sanni Tribeni Gaupalika (Kalikot),64
+636,Tilagupha Nagarpalika (Kalikot),64
+637,Chhayanath Rara Nagarpalika (Mugu),61
+638,Khatyad Gaupalika (Mugu),61
+639,Mugumakarmarog Gaupalika (Mugu),61
+640,Soru Gaupalika (Mugu),61
+641,Aathabisakot Nagarpalika (Rukum_W),59
+642,Baphikot Gaupalika (Rukum_W),59
+643,Chaurjahari Nagarpalika (Rukum_W),59
+644,Musikot Nagarpalika (Rukum_W),59
+645,Sanibheri Gaupalika (Rukum_W),59
+646,Tribeni Gaupalika (Rukum_W),59
+647,Bagachour Nagarpalika (Salyan),67
+648,Banagad Kupinde Nagarpalika (Salyan),67
+649,Chhatreshwori Gaupalika (Salyan),67
+650,Darma Gaupalika (Salyan),67
+651,Siddha Kumakh Gaupalika (Salyan),67
+652,Kalimati Gaupalika (Salyan),67
+653,Kapurkot Gaupalika (Salyan),67
+654,Kumakh Gaupalika (Salyan),67
+655,Sharada Nagarpalika (Salyan),67
+656,Tribeni Gaupalika (Salyan),67
+657,Barahatal Gaupalika (Surkhet),68
+658,Bheriganga Nagarpalika (Surkhet),68
+659,Birendranagar Nagarpalika (Surkhet),68
+660,Chaukune Gaupalika (Surkhet),68
+661,Chingad Gaupalika (Surkhet),68
+662,Gurbhakot Nagarpalika (Surkhet),68
+663,Lekabeshi Nagarpalika (Surkhet),68
+664,Panchapuri Nagarpalika (Surkhet),68
+665,Simta Gaupalika (Surkhet),68
+666,Bannigadhi Jayagadh Gaupalika (Achham),75
+667,Chaurpati Gaupalika (Achham),75
+668,Dhakari Gaupalika (Achham),75
+669,Kamal bazar Nagarpalika (Achham),75
+670,Mangalsen Nagarpalika (Achham),75
+671,Mellekh Gaupalika (Achham),75
+672,Panchdebal Binayak Nagarpalika (Achham),75
+673,Ramaroshan Gaupalika (Achham),75
+674,Sanphebagar Nagarpalika (Achham),75
+675,Turmakhand Gaupalika (Achham),75
+676,Dasharathchand Nagarpalika (Baitadi),72
+677,Dilasaini Gaupalika (Baitadi),72
+678,Dogada Kedar Gaupalika (Baitadi),72
+679,Melauli Nagarpalika (Baitadi),72
+680,Pancheshwor Gaupalika (Baitadi),72
+681,Patan Nagarpalika (Baitadi),72
+682,Puchaundi Nagarpalika (Baitadi),72
+683,Shivanath Gaupalika (Baitadi),72
+684,Sigas Gaupalika (Baitadi),72
+685,Surnaya Gaupalika (Baitadi),72
+686,Bitthadchir Gaupalika (Bajhang),70
+687,Bungal Nagarpalika (Bajhang),70
+688,Chhabis Pathibhara Gaupalika (Bajhang),70
+689,Durgathali Gaupalika (Bajhang),70
+690,Jayaprithibi Nagarpalika (Bajhang),70
+691,Kadaa Gaupalika (Bajhang),70
+692,Kedarsyun Gaupalika (Bajhang),70
+693,Khaptad Chhanna Gaupalika (Bajhang),70
+694,Masta Gaupalika (Bajhang),70
+695,Surma Gaupalika (Bajhang),70
+696,Talkot Gaupalika (Bajhang),70
+697,Thalara Gaupalika (Bajhang),70
+698,Badimalika Nagarpalika (Bajura),69
+699,Budhiganga Nagarpalika (Bajura),69
+700,Budhinanda Nagarpalika (Bajura),69
+701,Gaumul Gaupalika (Bajura),69
+702,Himali Gaupalika (Bajura),69
+703,Jagannath Gaupalika (Bajura),69
+704,Khaptad Chhededaha Gaupalika (Bajura),69
+705,Swami Kartik Khapar Gaupalika (Bajura),69
+706,Tribeni Nagarpalika (Bajura),69
+707,Aalital Gaupalika (Dadeldhura),73
+708,Ajayameru Gaupalika (Dadeldhura),73
+709,Amargadhi Nagarpalika (Dadeldhura),73
+710,Bhageshwor Gaupalika (Dadeldhura),73
+711,Ganyapdhura Gaupalika (Dadeldhura),73
+712,Nawadurga Gaupalika (Dadeldhura),73
+713,Parashuram Nagarpalika (Dadeldhura),73
+714,Apihimal Gaupalika (Darchula),71
+715,Byas Gaupalika (Darchula),71
+716,Duhun Gaupalika (Darchula),71
+717,Lekam Gaupalika (Darchula),71
+718,Mahakali Nagarpalika (Darchula),71
+719,Malikarjun Gaupalika (Darchula),71
+720,Marma Gaupalika (Darchula),71
+721,Naugad Gaupalika (Darchula),71
+722,Shailyashikhar Nagarpalika (Darchula),71
+723,Aadarsha Gaupalika (Doti),74
+724,Badi Kedar Gaupalika (Doti),74
+725,Bogatan Gaupalika (Doti),74
+726,Dipayal Silgadhi Nagarpalika (Doti),74
+727,Jorayal Gaupalika (Doti),74
+728,K.I. Singh Gaupalika (Doti),74
+729,Purbichouki Gaupalika (Doti),74
+730,Sayal Gaupalika (Doti),74
+731,Shikhar Nagarpalika (Doti),74
+732,Bardagoriya Gaupalika (Kailali),76
+733,Bhajani Nagarpalika (Kailali),76
+734,Chure Gaupalika (Kailali),76
+735,Dhangadhi Sub-Nagarpalika (Kailali),76
+736,Gauriganga Nagarpalika (Kailali),76
+737,Ghodaghodi Nagarpalika (Kailali),76
+738,Godawari Nagarpalika (Kailali),76
+739,Janaki Gaupalika (Kailali),76
+740,Joshipur Gaupalika (Kailali),76
+741,Kailari Gaupalika (Kailali),76
+742,Lamki Chuha Nagarpalika (Kailali),76
+743,Mohanyal Gaupalika (Kailali),76
+744,Tikapur Nagarpalika (Kailali),76
+745,Bedkot Nagarpalika (Kanchanpur),77
+746,Beldandi Gaupalika (Kanchanpur),77
+747,Belouri Nagarpalika (Kanchanpur),77
+748,Bhimdatta Nagarpalika (Kanchanpur),77
+749,Krishnapur Nagarpalika (Kanchanpur),77
+750,Laljhadi Gaupalika (Kanchanpur),77
+751,Mahakali Nagarpalika (Kanchanpur),77
+752,Punarbas Nagarpalika (Kanchanpur),77
+753,Shuklaphanta Nagarpalika (Kanchanpur),77
